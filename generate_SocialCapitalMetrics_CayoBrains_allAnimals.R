@@ -50,6 +50,8 @@ setwd("C:/Users/Camille Testard/Desktop/Desktop_CayoBrains/Data/Biobanking_info/
 biobanking_data = read.csv("Cayo Biobank Tissue Catalog_ID_Tissues.csv");names(biobanking_data)[1]="id"
 
 biobanking_data$id = as.character(biobanking_data$id)
+biobanking_data$MOM = bigped$BehaviorMom[match(biobanking_data$id, bigped$ID)]
+
 IDs = as.data.frame(biobanking_data$id); names(IDs)="id"
 
 group = c("HH","KK","S")

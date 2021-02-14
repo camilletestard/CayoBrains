@@ -44,10 +44,19 @@ source("Functions/functions_GlobalNetworkMetrics.R")
 source("Functions/KinshipPedigree.R")
 
 setwd("C:/Users/Camille Testard/Desktop/Desktop-Cayo-Maria/") 
-bigped <- read.delim("Behavioral_Data/SubjectInfo_2010-2017/PEDIGREE.txt", sep="\t")
+bigped <- read.delim("C:/Users/Camille Testard/Desktop/Desktop-Cayo-Maria/Behavioral_Data/Data All Raw/PEDIGREE_2021.txt", sep="\t")
 
+#Get and preprocess biobanking data
 setwd("C:/Users/Camille Testard/Desktop/Desktop_CayoBrains/Data/Biobanking_info/")
 biobanking_data = read.csv("2016_Biobanking_metadata.csv");names(biobanking_data)[1]="id"
+# biobanking_data1 = read.csv("2016_Biobanking_metadata.csv");names(biobanking_data1)[1]="id"
+# biobanking_data2 = read.csv("2018_Biobanking_metadata.csv");names(biobanking_data2)[1]="id"
+# matched_col1 = match(names(biobanking_data2), names(biobanking_data1));
+# matched_col1 = matched_col1[-which(is.na(matched_col1))]
+# matched_col2 = match(names(biobanking_data1), names(biobanking_data2));
+# matched_col2 = matched_col2[-which(is.na(matched_col2))]
+# biobanking_data = rbind(biobanking_data1[matched_col1], biobanking_data2[matched_col2])
+
 gene.expr.IDs = read.csv("GeneExpression_ID.csv");names(gene.expr.IDs)[1]="id"
 
 biobanking_data$id = as.character(biobanking_data$id)
@@ -55,7 +64,11 @@ biobanking_data$id[biobanking_data$id=="2.00E+09"]="2E9"
 biobanking_data$id[biobanking_data$id=="7.00E+00"]="7E0"
 biobanking_data$id[biobanking_data$id=="7.00E+03"]="7E3"
 biobanking_data$id[biobanking_data$id=="8.00E+02"]="8E2"
-biobanking_data = biobanking_data[,c(1,9,18,19)]
+biobanking_data = biobanking_data[, c("id","age","days_between","weight_kg", "brain_weight_grams", "trapping_date")]
+
+biobanking_data$id = as.character(biobanking_data$id)
+biobanking_data$MOM = bigped$BehaviorMom[match(biobanking_data$id, bigped$AnimalId)]
+
 
 group = c("HH")
 years = c(2016)
@@ -78,8 +91,6 @@ gy=1
   focal_data = read.csv(paste("Group",groupyears[gy],"_FocalData.txt", sep = ""))
   meta_data = read.csv(paste("Group",groupyears[gy],"_GroupByYear.txt", sep = ""))
   prox_data = read.csv(paste("Group",groupyears[gy],"_ProximityGroups.txt", sep = ""))
-  
-  ## Format data
   
   #Make sure all IDs are in character
   groom_data$groom_giver = as.character(groom_data$groom_giver)
