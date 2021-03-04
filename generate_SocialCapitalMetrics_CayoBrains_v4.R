@@ -39,16 +39,17 @@ library(CePa)
 library(doBy)
 
 #Load scan data and population info
-setwd("C:/Users/Camille Testard/Documents/GitHub/CayoBrains") 
+setwd("/Users/camilletestard/Documents/GitHub/CayoBrains") 
 source("Functions/functions_GlobalNetworkMetrics.R")
 source("Functions/KinshipPedigree.R")
 
-setwd("C:/Users/Camille Testard/Desktop/Desktop-Cayo-Maria/") 
-bigped <- read.delim("C:/Users/Camille Testard/Desktop/Desktop-Cayo-Maria/Behavioral_Data/Data All Raw/PEDIGREE_2021.txt", sep="\t")
+setwd("/Users/camilletestard/Dropbox/Cleaned Cayo Data/Raw data") 
+bigped <- read.delim("PEDIGREE_2021.txt", sep="\t")
 
 #Get and preprocess biobanking data
-setwd("C:/Users/Camille Testard/Desktop/Desktop_CayoBrains/Data/Biobanking_info/")
+setwd("/Users/camilletestard/Desktop/CayoBrains/Biobanking_info/")
 biobanking_data = read.csv("2016_Biobanking_metadata.csv");names(biobanking_data)[1]="id"
+brainweights <- read.csv("CBRU_Brain_Weights.csv")
 # biobanking_data1 = read.csv("2016_Biobanking_metadata.csv");names(biobanking_data1)[1]="id"
 # biobanking_data2 = read.csv("2018_Biobanking_metadata.csv");names(biobanking_data2)[1]="id"
 # matched_col1 = match(names(biobanking_data2), names(biobanking_data1));
@@ -85,7 +86,7 @@ gy=1
   print(paste("%%%%%%%%%%%%%%%%%% ",groupyears[gy], "%%%%%%%%%%%%%%%%%%"))
   
   #Load data
-  setwd("C:/Users/Camille Testard/Desktop/Desktop-Cayo-Maria/Behavioral_Data/Data All Cleaned") 
+  setwd("/Users/camilletestard/Dropbox/Cleaned Cayo Data/Output") 
   groom_data = read.csv(paste("Group",groupyears[gy],"_GroomingEvents.txt", sep = ""))
   agg_data = read.csv(paste("Group",groupyears[gy],"_AgonisticActions.txt", sep = ""))
   focal_data = read.csv(paste("Group",groupyears[gy],"_FocalData.txt", sep = ""))
@@ -524,6 +525,8 @@ SocialCapital.ALL[,c(3,5,8:ncol(SocialCapital.ALL))]=scale(SocialCapital.ALL[,c(
 # Select individuals
 
 # #Depending on who we have biological data for, we might want to select a subset of individuals.
+
+# #Only consider monkeys in the genomic analysis ID list.
 # SocialCapital.ALL=merge(gene.expr.IDs,SocialCapital.ALL, by="id")
 
 #Only consider monkeys NOT in the genomic analysis ID list.
@@ -540,11 +543,11 @@ SocialCapital.ALL[,c(3,5,8:ncol(SocialCapital.ALL))]=scale(SocialCapital.ALL[,c(
 # Select regressors
 
 # #ALL COMPUTED PARAMETERS
-selected_regressors = SocialCapital.ALL[,c("id","sex","age","percentrank","GroomOUT","GroomIN",
-                                           "numPartnersGroom","between.groom","eig.cent.groom","clusterCoeff.groom",
-                                           "closeness.groom","numKin","AggOUT","AggIN","tenor","vig.ra","sdb.ra","loneliness")]
-names(selected_regressors)=c("id","sex","age","rank","groom OUT","groom IN","#partners","between","EVC","clusterCoeff",
-                             "closeness","#kin","aggression give","aggression rec.","tenor","vigilance","SDB","loneliness")
+# selected_regressors = SocialCapital.ALL[,c("id","sex","age","percentrank","GroomOUT","GroomIN",
+#                                            "numPartnersGroom","between.groom","eig.cent.groom","clusterCoeff.groom",
+#                                            "closeness.groom","numKin","AggOUT","AggIN","tenor","vig.ra","sdb.ra","loneliness")]
+# names(selected_regressors)=c("id","sex","age","rank","groom OUT","groom IN","#partners","between","EVC","clusterCoeff",
+#                              "closeness","#kin","aggression give","aggression rec.","tenor","vigilance","SDB","loneliness")
 # setwd('C:/Users/Camille Testard/Desktop/Desktop_CayoBrains/')
 # write.csv(selected_regressors,'social_metrics_kennyOnly.csv')
 
@@ -555,7 +558,7 @@ names(selected_regressors)=c("id","sex","age","rank","groom OUT","groom IN","#pa
 # names(selected_regressors)=c("id","sex","age","days between","rank","#partners","loneliness","aggression rec.",
 #                              "aggression give")
 
-# # POSITION IN SOCIAL NETWORK MODEL
+# #POSITION IN SOCIAL NETWORK MODEL
 #Select a subset which recapitulate the social profile of an individual.
 # selected_regressors = SocialCapital.ALL[,c("id","sex","age","ordrank","std.DSIgroom","days_between","between.groom","eig.cent.groom",
 #                                             "clusterCoeff.groom", "closeness.groom")]
@@ -563,16 +566,17 @@ names(selected_regressors)=c("id","sex","age","rank","groom OUT","groom IN","#pa
 #                               "cluster coeff","closeness")
 
 # #SOCIALLY ISOLATED VS. WELL-CONNECTED MALES
-# selected_regressors = SocialCapital.ALL[,c("id","sex","age","ordrank","days_between","isIsolated")]
+# selected_regressors = SocialCapital.ALL[,c("id","sex","age","ordrank","isIsolated")]
 # names(selected_regressors)[4]="rank"
-# selected_regressors=selected_regressors[selected_regressors$sex=="M",] #select only males
+selected_regressors = SocialCapital.ALL[,c("id","sex","age","isIsolated")]
+selected_regressors=selected_regressors[selected_regressors$sex=="M",] #select only males
 
 # #SEX AND AGE MODEL
 # selected_regressors = SocialCapital.ALL[,c("id","sex","age","ordrank","days_between")]
 # names(selected_regressors)=c("id","sex","age","rank","days_between")
 
 #Make sure regressors are in the correct order of subject
-setwd('D:/Cayo-Brains/DBM-full/monkeys')
+setwd('/Volumes/PR/Cayo-Brains/DBM-full/monkeys')
 monkey_list = list.dirs(path = ".", full.names = TRUE, recursive = TRUE)
 monkey_list=substr(monkey_list[2:length(monkey_list)],3,5)
 monkey_list_df = data.frame(monkey_list); names(monkey_list_df)="id"
@@ -582,17 +586,17 @@ output = merge(selected_regressors,monkey_list_df,by="id")
 # write_xlsx(output,'social_metrics2_allBrains.xlsx')
 
 #Format for full glm design matrices:
-#Format sex column
-output$sex=as.character(output$sex)
-output$sex[output$sex=="F"]=1; output$sex[output$sex=="M"]=0; output$sex=as.numeric(output$sex)
+# #Format sex column
+# output$sex=as.character(output$sex)
+# output$sex[output$sex=="F"]=1; output$sex[output$sex=="M"]=0; output$sex=as.numeric(output$sex)
 # #Format ordinal rank column
 # output$rank=as.character(output$rank)
 # output$rank[output$rank=="L"]=1;output$rank[output$rank=="M"]=2;output$rank[output$rank=="H"]=3;
 # output$rank=as.numeric(output$rank)
 # #Remove column we will not use
 # output$percent_rank=NULL; #output$id=NULL
-#Scale
-output[,c("sex","rank")]=scale(output[,c("sex","rank")])
+# #Scale
+# output[,c("sex","rank")]=scale(output[,c("sex","rank")])
 
 # #Sex & age model - Format sex column
 # output$sex=as.character(output$sex)
@@ -606,10 +610,10 @@ output[,c("sex","rank")]=scale(output[,c("sex","rank")])
 # #Remove column we will not use
 # #output$id=NULL; output=output[,c("female","male","age","rank")]
 # #Scale
-# output[,c("age","rank","days_between")]=scale(output[,c("age","rank","days_between")])
+# output[,c("age","rank")]=scale(output[,c("age","rank")])
 
 # # Social isolated vs. well-connected males
-# output$sex=NULL;output$id=NULL
+# output$sex=NULL;#output$id=NULL
 # output$isIsolated[output$isIsolated<0]=0; output$isIsolated[output$isIsolated>1]=1
 # output$isIsolated=as.factor(output$isIsolated)
 # ggplot(output, aes(x=isIsolated,y=age, fill=isIsolated))+
@@ -626,8 +630,8 @@ output[,c("sex","rank")]=scale(output[,c("sex","rank")])
 # output$shuffled_ECV = sample(output$`eig. centrality`)
 # output$shuffled_closeness = sample(output$closeness)
 
-setwd('C:/Users/Camille Testard/Desktop/Desktop_CayoBrains/Models')
-write.csv(output,'all_social_regressors_HH.csv',row.names = F)
+setwd('/Users/camilletestard/Desktop/CayoBrains/Models')
+write.csv(output,'allMales_model.csv',row.names = F)
 
 ##################################################################################################
 # #Visualize values for each regressor, for each individual. Are there obvious patterns across IDs?:
@@ -668,7 +672,7 @@ test_model=lm(age~sex+rank+`days between`+`#partners`+
               +loneliness+`aggression rec.`+`aggression give`+ shuffled_partners+shuffled_loneliness, data=output)
 # test_model=lm(age~sex+rank+Grooming+`days between`+betweenness 
 #               +`eig. centrality`+`cluster coeff`+closeness+ shuffled_closeness+shuffled_ECV, data=output)
-# performance::check_model(test_model)
+# performance::check_model(test_model)˜
 
 #Visualize
 ggcorrplot(corr, method='circle', lab=T,legend.title=c("corr. coeff."))

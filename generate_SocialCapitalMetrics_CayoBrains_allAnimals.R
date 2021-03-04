@@ -34,19 +34,21 @@ library(ggplot2)
 library(ggridges)
 library(reshape)
 library(reshape2)
+library(kinship2)
 # library(writexl)
 library(CePa)
 library(doBy)
 
 #Load scan data and population info
-setwd("C:/Users/Camille Testard/Documents/GitHub/CayoBrains") 
+setwd("/Users/camilletestard/Documents/GitHub/CayoBrains") 
 source("Functions/functions_GlobalNetworkMetrics.R")
 source("Functions/KinshipPedigree.R")
 
-setwd("C:/Users/Camille Testard/Desktop/Desktop-Cayo-Maria/") 
-bigped <- read.delim("Behavioral_Data/SubjectInfo_2010-2017/PEDIGREE.txt", sep="\t")
+setwd("/Users/camilletestard/Dropbox/Cleaned Cayo Data/Raw data") 
+bigped <- read.delim("PEDIGREE_2021.txt", sep="\t")
 
-setwd("C:/Users/Camille Testard/Desktop/Desktop_CayoBrains/Data/Biobanking_info/")
+setwd("/Users/camilletestard/Desktop/CayoBrains/Biobanking_info/")
+brainweights <- read.csv("CBRU_Brain_Weights.csv")
 biobanking_data = read.csv("Cayo Biobank Tissue Catalog_ID_Tissues.csv");names(biobanking_data)[1]="id"
 
 biobanking_data$id = as.character(biobanking_data$id)
@@ -69,7 +71,7 @@ for (gy in 1:length(groupyears)){
   print(paste("%%%%%%%%%%%%%%%%%% ",groupyears[gy], "%%%%%%%%%%%%%%%%%%"))
   
   #Load data
-  setwd("C:/Users/Camille Testard/Desktop/Desktop-Cayo-Maria/Behavioral_Data/Data All Cleaned") 
+  setwd("/Users/camilletestard/Dropbox/Cleaned Cayo Data/Output")   
   groom_data = read.csv(paste("Group",groupyears[gy],"_GroomingEvents.txt", sep = ""))
   agg_data = read.csv(paste("Group",groupyears[gy],"_AgonisticActions.txt", sep = ""))
   focal_data = read.csv(paste("Group",groupyears[gy],"_FocalData.txt", sep = ""))
@@ -239,17 +241,17 @@ for (gy in 1:length(groupyears)){
   V(am.g)$between= NetworkMetrics$between; V(am.g)$between=V(am.g)$between/mean(V(am.g)$between)
   
   #set path for saving and plot graph
-  setwd("C:/Users/Camille Testard/Desktop/Desktop_CayoBrains/Results") 
-  tiff("NetworkGraph_DSI.tiff", units="in", width=10, height=8, res=300, compression = 'lzw')
+  setwd("/Users/camilletestard/Desktop/CayoBrains/Results") 
+  tiff(paste("NetworkGraph_",groupyears[gy],"DSI.tiff",sep=''), units="in", width=10, height=8, res=300, compression = 'lzw')
   plot.igraph(am.g,layout=l, vertex.label=V(am.g)$name, vertex.color=V(am.g)$color, vertex.size=5*V(am.g)$DSI,edge.color="grey20", 
-              edge.width=E(am.g)$weight*2,edge.arrow.size = 0.5, main = "Social Network HH2016")
+              edge.width=E(am.g)$weight*2,edge.arrow.size = 0.5, main = paste("Social Network", groupyears[gy]))
   dev.off()
 
   ##################################################################
   #Kinship Ratio amongst grooming partners
   
   #Compute pedigree for all IDs
-  pedigree = bigped[,c("ID","DAM","SIRE")]
+  pedigree = bigped[,c("AnimalId","Dam","Sire")]
   ped <- KinshipPedigree(pedigree)
   
   #Find Kin relationship for existing relationships
@@ -517,12 +519,12 @@ SocialCapital.ALL=merge(IDs,SocialCapital.ALL, by="id")
 # Select regressors
 
 # #ALL COMPUTED PARAMETERS
-selected_regressors = SocialCapital.ALL[,c("id","sex","age","percentrank","GroomOUT","GroomIN",
+selected_regressors = SocialCapital.ALL[,c("id","sex","age","percentrank","std.GroomOUT","std.GroomIN",
                                            "numPartnersGroom","between.groom","eig.cent.groom","clusterCoeff.groom",
-                                           "closeness.groom","numKin","AggOUT","AggIN","tenor","vig.ra","sdb.ra","loneliness")]
+                                           "closeness.groom","numKin","std.AggOUT","std.AggIN","tenor","vig.ra","sdb.ra","loneliness")]
 names(selected_regressors)=c("id","sex","age","rank","groom OUT","groom IN","#partners","between","EVC","clusterCoeff",
                              "closeness","#kin","aggression give","aggression rec.","tenor","vigilance","SDB","loneliness")
-setwd('C:/Users/Camille Testard/Desktop/Desktop_CayoBrains/')
+setwd('Users/camilletestard/Desktop/CayoBrains/')
 write.csv(selected_regressors,'social_metrics_allAnimals.csv')
 
 #Format for full glm design matrices:

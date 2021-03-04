@@ -10,15 +10,13 @@ library(CePa)
 library(doBy)
 
 #Load scan data and population info
-setwd("C:/Users/Camille Testard/Documents/GitHub/CayoBrains") 
-source("Functions/functions_GlobalNetworkMetrics.R")
+setwd("/Users/camilletestard/Documents/GitHub/CayoBrains") 
 source("Functions/KinshipPedigree.R")
 
-setwd("C:/Users/Camille Testard/Desktop/Desktop-Cayo-Maria/") 
-bigped <- read.delim("C:/Users/Camille Testard/Desktop/Desktop-Cayo-Maria/Behavioral_Data/Data All Raw/PEDIGREE_2021.txt", sep="\t")
+bigped <- read.delim("/Users/camilletestard/Dropbox/Cleaned Cayo Data/Raw data/PEDIGREE_2021.txt", sep="\t")
 
 #Get and preprocess biobanking data
-setwd("C:/Users/Camille Testard/Desktop/Desktop_CayoBrains/Data/Biobanking_info/")
+setwd("/Users/camilletestard/Desktop/CayoBrains/Biobanking_info/")
 biobanking_data = read.csv("2016_Biobanking_metadata.csv");names(biobanking_data)[1]="id"
 
 biobanking_data$id = as.character(biobanking_data$id)
@@ -41,7 +39,7 @@ years = c(2010, 2011, 2012, 2013, 2014, 2015,2016,2017,
 meta_data_pooled = data.frame()
 for (gy in 1:length(group)){
 
-setwd("C:/Users/Camille Testard/Desktop/Desktop-Cayo-Maria/Behavioral_Data/Data All Cleaned") 
+setwd("/Users/camilletestard/Dropbox/Cleaned Cayo Data/Output") 
 meta_data = read.csv(paste("Group",group[gy], years[gy],"_GroupByYear.txt", sep = ""))
 
 meta_data_pooled = rbind(meta_data_pooled, meta_data)
