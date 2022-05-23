@@ -1,0 +1,2625 @@
+agonism_winner,agonism_loser,agonism_type,winner_sex,loser_sex,date,observer,data_source,focal_individual
+0C9,juvenile,threat,Male,Unknown,2019-02-06,JN,focalfollow,agonism.winner
+3B8,3I4,avoid,Female,Female,2019-02-06,JN,focalfollow,agonism.winner
+4I3,infant,noncontactAgg,Female,Unknown,2019-02-06,JN,focalfollow,agonism.winner
+6M8,juvenile female,threat,Male,Unknown,2019-02-06,JN,focalfollow,agonism.winner
+7M4,1K8,avoid,Male,Female,2019-02-06,JN,focalfollow,agonism.winner
+9O5,juvenile male,noncontactAgg,Male,Unknown,2019-02-06,JN,focalfollow,agonism.winner
+2I1,0J9,displace,Male,Male,2019-02-07,JN,focalfollow,agonism.winner
+74K,3I4,avoid,Female,Female,2019-02-07,JN,focalfollow,agonism.winner
+2C6,60V,FearGrm,Male,Female,2019-02-11,JN,focalfollow,agonism.winner
+2C6,juvenile female,noncontactAgg,Male,Unknown,2019-02-11,JN,focalfollow,agonism.winner
+38Z,74K,Submit,Female,Female,2019-02-11,JN,focalfollow,agonism.winner
+5E4,5A1,avoid,Male,Female,2019-02-11,JN,focalfollow,agonism.winner
+5E4,0I7,avoid,Male,Female,2019-02-11,JN,focalfollow,agonism.winner
+5E4,3D1,noncontactAgg,Male,Female,2019-02-11,JN,focalfollow,agonism.winner
+6C6,juvenile female,FearGrm,Male,Unknown,2019-02-11,JN,focalfollow,agonism.winner
+7B3,6O6,threat,Male,Male,2019-02-11,JN,focalfollow,agonism.winner
+8M5,juvenile male,contactAgg,Male,Unknown,2019-02-11,JN,focalfollow,agonism.winner
+0G1,4A9,threat,Male,Female,2019-02-12,JN,focalfollow,agonism.winner
+3H6,82V,threat,Female,Female,2019-02-12,JN,focalfollow,agonism.winner
+5P1,juvenile male,threat,Female,Unknown,2019-02-12,JN,focalfollow,agonism.winner
+5P2,3B8,displace,Male,Female,2019-02-12,JN,focalfollow,agonism.winner
+7M4,4P3,displace,Male,Female,2019-02-12,JN,focalfollow,agonism.winner
+7M4,60V,avoid,Male,Female,2019-02-12,JN,focalfollow,agonism.winner
+8M5,6I7,contactAgg,Male,Male,2019-02-12,JN,focalfollow,agonism.winner
+9I4,4P3,displace,Male,Female,2019-02-12,JN,focalfollow,agonism.winner
+09Z,7F7,Submit,Female,Female,2019-02-13,JN,focalfollow,agonism.winner
+0C9,juvenile female,avoid,Male,Unknown,2019-02-13,JN,focalfollow,agonism.winner
+4M2,8M5,noncontactAgg,Female,Male,2019-02-13,JN,focalfollow,agonism.winner
+5E4,11Z,FearGrm,Male,Male,2019-02-13,JN,focalfollow,agonism.winner
+5H6,8I6,displace,Female,Female,2019-02-13,JN,focalfollow,agonism.winner
+6K2,infant,noncontactAgg,Male,Unknown,2019-02-13,JN,focalfollow,agonism.winner
+7F7,juvenile,contactAgg,Female,Unknown,2019-02-13,JN,focalfollow,agonism.winner
+7M9,juvenile female,contactAgg,Female,Unknown,2019-02-13,JN,focalfollow,agonism.winner
+1F0,juvenile male,avoid,Male,Unknown,2019-02-18,JN,focalfollow,agonism.winner
+4G6,11Z,displace,Male,Male,2019-02-18,JN,focalfollow,agonism.winner
+4P4,juvenile female,noncontactAgg,Female,Unknown,2019-02-18,JN,focalfollow,agonism.winner
+4P4,3I4,avoid,Female,Female,2019-02-18,JN,focalfollow,agonism.winner
+4P4,88N,displace,Female,Female,2019-02-18,JN,focalfollow,agonism.winner
+7H0,juvenile female,noncontactAgg,Male,Unknown,2019-02-18,JN,focalfollow,agonism.winner
+0H3,3B9,avoid,Male,Male,2019-02-19,JN,focalfollow,agonism.winner
+0H3,88N,FearGrm,Male,Female,2019-02-19,JN,focalfollow,agonism.winner
+2C6,95V,avoid,Male,Female,2019-02-19,JN,focalfollow,agonism.winner
+2C6,juvenile female,FearGrm,Male,Unknown,2019-02-19,JN,focalfollow,agonism.winner
+7O1,juvenile male,avoid,Male,Unknown,2019-02-19,JN,focalfollow,agonism.winner
+7O1,adult male,noncontactAgg,Male,Unknown,2019-02-19,JN,focalfollow,agonism.winner
+95V,67Z,threat,Female,Male,2019-02-19,JN,focalfollow,agonism.winner
+98V,juvenile female,displace,Female,Unknown,2019-02-19,JN,focalfollow,agonism.winner
+0C9,juvenile,threat,Male,Unknown,2019-02-20,JN,focalfollow,agonism.winner
+0C9,juvenile female,threat,Male,Unknown,2019-02-20,JN,focalfollow,agonism.winner
+3G2,juvenile female,threat,Female,Unknown,2019-02-20,JN,focalfollow,agonism.winner
+48L,60V,FearGrm,Male,Female,2019-02-20,JN,focalfollow,agonism.winner
+5P2,3B8,avoid,Male,Female,2019-02-20,JN,focalfollow,agonism.winner
+7O1,juvenile female,avoid,Male,Unknown,2019-02-20,JN,focalfollow,agonism.winner
+1F0,6J4,avoid,Male,Female,2019-02-22,JN,focalfollow,agonism.winner
+48L,juvenile male,threat,Male,Unknown,2019-02-22,JN,focalfollow,agonism.winner
+48L,1F0,threat,Male,Male,2019-02-22,JN,focalfollow,agonism.winner
+6I7,7A9,FearGrm,Male,Female,2019-02-22,JN,focalfollow,agonism.winner
+6I7,7A9,displace,Male,Female,2019-02-22,JN,focalfollow,agonism.winner
+7L1,9I3,Submit,Female,Female,2019-02-22,JN,focalfollow,agonism.winner
+09Z,98V,avoid,Female,Female,2019-02-25,JN,focalfollow,agonism.winner
+4H7,04I,avoid,Female,Male,2019-02-25,JN,focalfollow,agonism.winner
+6O6,6M8,displace,Male,Male,2019-02-25,JN,focalfollow,agonism.winner
+6O6,2L6,noncontactAgg,Male,Male,2019-02-25,JN,focalfollow,agonism.winner
+7F7,juvenile female,displace,Female,Unknown,2019-02-25,JN,focalfollow,agonism.winner
+0B4,juvenile,contactAgg,Female,Unknown,2019-02-26,JN,focalfollow,agonism.winner
+0G1,9L6,avoid,Male,Female,2019-02-26,JN,focalfollow,agonism.winner
+0G1,9L6,avoid,Male,Female,2019-02-26,JN,focalfollow,agonism.winner
+0G1,0G9,avoid,Male,Male,2019-02-26,JN,focalfollow,agonism.winner
+0I7,2B4,contactAgg,Female,Female,2019-02-26,JN,focalfollow,agonism.winner
+3D1,2B4,threat,Female,Female,2019-02-26,JN,focalfollow,agonism.winner
+5E6,juvenile male,noncontactAgg,Male,Unknown,2019-02-26,JN,focalfollow,agonism.winner
+6M8,6M9,avoid,Male,Female,2019-02-26,JN,focalfollow,agonism.winner
+6O6,7M5,noncontactAgg,Male,Female,2019-02-26,JN,focalfollow,agonism.winner
+7O1,97R,FearGrm,Male,Female,2019-02-26,JN,focalfollow,agonism.winner
+7O1,97R,FearGrm,Male,Female,2019-02-26,JN,focalfollow,agonism.winner
+7O1,juvenile,noncontactAgg,Male,Unknown,2019-02-26,JN,focalfollow,agonism.winner
+7O1,juvenile female,noncontactAgg,Male,Unknown,2019-02-26,JN,focalfollow,agonism.winner
+1F0,5E4,displace,Male,Male,2019-02-27,JN,focalfollow,agonism.winner
+1F0,8I6,avoid,Male,Female,2019-02-27,JN,focalfollow,agonism.winner
+1F0,infant,contactAgg,Male,Unknown,2019-02-27,JN,focalfollow,agonism.winner
+2P0,infant,noncontactAgg,Female,Unknown,2019-02-27,JN,focalfollow,agonism.winner
+3D4,juvenile male,noncontactAgg,Female,Unknown,2019-02-27,JN,focalfollow,agonism.winner
+3D4,juvenile male,threat,Female,Unknown,2019-02-27,JN,focalfollow,agonism.winner
+3H6,0B4,displace,Female,Female,2019-02-27,JN,focalfollow,agonism.winner
+3L9,98V,displace,Female,Female,2019-02-27,JN,focalfollow,agonism.winner
+3L9,1B4,contactAgg,Female,Female,2019-02-27,JN,focalfollow,agonism.winner
+4I3,juvenile female,noncontactAgg,Female,Unknown,2019-02-27,JN,focalfollow,agonism.winner
+6O9,unknown,threat,Female,Unknown,2019-02-27,JN,focalfollow,agonism.winner
+77V,7A9,displace,Female,Female,2019-02-27,JN,focalfollow,agonism.winner
+7B3,95V,avoid,Male,Female,2019-02-27,JN,focalfollow,agonism.winner
+7B3,juvenile male,threat,Male,Unknown,2019-02-27,JN,focalfollow,agonism.winner
+7B3,juvenile male,noncontactAgg,Male,Unknown,2019-02-27,JN,focalfollow,agonism.winner
+7B3,95V,avoid,Male,Female,2019-02-27,JN,focalfollow,agonism.winner
+7B3,77V,avoid,Male,Female,2019-02-27,JN,focalfollow,agonism.winner
+7M4,4H7,avoid,Male,Female,2019-02-27,JN,focalfollow,agonism.winner
+7M4,4E6,FearGrm,Male,Male,2019-02-27,JN,focalfollow,agonism.winner
+7M9,juvenile female,avoid,Female,Unknown,2019-02-27,JN,focalfollow,agonism.winner
+0I7,6O9,avoid,Female,Female,2019-02-28,JN,focalfollow,agonism.winner
+4I3,juvenile female,noncontactAgg,Female,Unknown,2019-02-28,JN,focalfollow,agonism.winner
+6I7,11Z,FearGrm,Male,Male,2019-02-28,JN,focalfollow,agonism.winner
+6I7,11Z,FearGrm,Male,Male,2019-02-28,JN,focalfollow,agonism.winner
+7F7,juvenile female,contactAgg,Female,Unknown,2019-02-28,JN,focalfollow,agonism.winner
+7H0,11Z,avoid,Male,Male,2019-02-28,JN,focalfollow,agonism.winner
+7H0,juvenile female,noncontactAgg,Male,Unknown,2019-02-28,JN,focalfollow,agonism.winner
+0J9,0I7,noncontactAgg,Male,Female,2019-03-04,JN,focalfollow,agonism.winner
+0J9,2D1,avoid,Male,Female,2019-03-04,JN,focalfollow,agonism.winner
+3D4,juvenile male,noncontactAgg,Female,Unknown,2019-03-04,JN,focalfollow,agonism.winner
+3D4,adult male,threat,Female,Unknown,2019-03-04,JN,focalfollow,agonism.winner
+3D4,8M5,noncontactAgg,Female,Male,2019-03-04,JN,focalfollow,agonism.winner
+3H6,unknown,threat,Female,Unknown,2019-03-04,JN,focalfollow,agonism.winner
+48L,5P2,threat,Male,Male,2019-03-04,JN,focalfollow,agonism.winner
+48L,juvenile female,noncontactAgg,Male,Unknown,2019-03-04,JN,focalfollow,agonism.winner
+5A1,8I6,Submit,Female,Female,2019-03-04,JN,focalfollow,agonism.winner
+5P2,juvenile male,noncontactAgg,Male,Unknown,2019-03-04,JN,focalfollow,agonism.winner
+5P2,juvenile male,displace,Male,Unknown,2019-03-04,JN,focalfollow,agonism.winner
+67Z,8M6,displace,Male,Female,2019-03-04,JN,focalfollow,agonism.winner
+67Z,4P9,displace,Male,Female,2019-03-04,JN,focalfollow,agonism.winner
+67Z,3L9,Submit,Male,Female,2019-03-04,JN,focalfollow,agonism.winner
+67Z,4P9,avoid,Male,Female,2019-03-04,JN,focalfollow,agonism.winner
+6M8,4H3,avoid,Male,Female,2019-03-04,JN,focalfollow,agonism.winner
+6M8,7A9,avoid,Male,Female,2019-03-04,JN,focalfollow,agonism.winner
+6M8,juvenile female,noncontactAgg,Male,Unknown,2019-03-04,JN,focalfollow,agonism.winner
+6M8,4P9,avoid,Male,Female,2019-03-04,JN,focalfollow,agonism.winner
+7M4,6C6,avoid,Male,Male,2019-03-04,JN,focalfollow,agonism.winner
+7M4,82V,displace,Male,Female,2019-03-04,JN,focalfollow,agonism.winner
+0C9,juvenile female,FearGrm,Male,Unknown,2019-03-06,JN,focalfollow,agonism.winner
+1F0,juvenile male,avoid,Male,Unknown,2019-03-06,JN,focalfollow,agonism.winner
+3L9,7A9,noncontactAgg,Female,Female,2019-03-06,JN,focalfollow,agonism.winner
+3L9,7I4,avoid,Female,Female,2019-03-06,JN,focalfollow,agonism.winner
+4H3,4P4,avoid,Female,Female,2019-03-06,JN,focalfollow,agonism.winner
+5E4,11Z,FearGrm,Male,Male,2019-03-06,JN,focalfollow,agonism.winner
+5E4,4I3,Submit,Male,Female,2019-03-06,JN,focalfollow,agonism.winner
+6C6,3L9,avoid,Male,Female,2019-03-06,JN,focalfollow,agonism.winner
+6C6,7A9,FearGrm,Male,Female,2019-03-06,JN,focalfollow,agonism.winner
+6M8,2I1,noncontactAgg,Male,Male,2019-03-06,JN,focalfollow,agonism.winner
+77V,5P2,noncontactAgg,Female,Male,2019-03-06,JN,focalfollow,agonism.winner
+7I4,juvenile female,contactAgg,Female,Unknown,2019-03-06,JN,focalfollow,agonism.winner
+8M0,juvenile female,avoid,Female,Unknown,2019-03-06,JN,focalfollow,agonism.winner
+8M0,juvenile female,avoid,Female,Unknown,2019-03-06,JN,focalfollow,agonism.winner
+9L6,juvenile female,avoid,Female,Unknown,2019-03-06,JN,focalfollow,agonism.winner
+2G8,juvenile female,displace,Female,Unknown,2019-03-07,JN,focalfollow,agonism.winner
+2P0,juvenile female,avoid,Female,Unknown,2019-03-07,JN,focalfollow,agonism.winner
+48L,juvenile male,displace,Male,Unknown,2019-03-07,JN,focalfollow,agonism.winner
+48L,9O5,FearGrm,Male,Male,2019-03-07,JN,focalfollow,agonism.winner
+5P2,3K1,noncontactAgg,Male,Male,2019-03-07,JN,focalfollow,agonism.winner
+67Z,5P1,contactAgg,Male,Female,2019-03-07,JN,focalfollow,agonism.winner
+6C6,juvenile female,FearGrm,Male,Unknown,2019-03-07,JN,focalfollow,agonism.winner
+95V,4M2,avoid,Female,Female,2019-03-07,JN,focalfollow,agonism.winner
+2D1,3B8,avoid,Female,Female,2019-03-08,JN,focalfollow,agonism.winner
+4G6,3I4,avoid,Male,Female,2019-03-08,JN,focalfollow,agonism.winner
+4P9,82V,contactAgg,Female,Female,2019-03-08,JN,focalfollow,agonism.winner
+6M9,juvenile,contactAgg,Female,Unknown,2019-03-08,JN,focalfollow,agonism.winner
+7F7,juvenile,contactAgg,Female,Unknown,2019-03-08,JN,focalfollow,agonism.winner
+7F7,6M8,noncontactAgg,Female,Male,2019-03-08,JN,focalfollow,agonism.winner
+7F7,juvenile female,avoid,Female,Unknown,2019-03-08,JN,focalfollow,agonism.winner
+7F7,6M8,avoid,Female,Male,2019-03-08,JN,focalfollow,agonism.winner
+7H0,juvenile female,avoid,Male,Unknown,2019-03-08,JN,focalfollow,agonism.winner
+8I6,infant,contactAgg,Female,Unknown,2019-03-08,JN,focalfollow,agonism.winner
+8M0,juvenile male,contactAgg,Female,Unknown,2019-03-08,JN,focalfollow,agonism.winner
+9O5,3O0,Submit,Male,Female,2019-03-08,JN,focalfollow,agonism.winner
+3D4,juvenile female,noncontactAgg,Female,Unknown,2019-03-11,JN,focalfollow,agonism.winner
+3I4,juvenile male,avoid,Female,Unknown,2019-03-11,JN,focalfollow,agonism.winner
+4G6,09Z,avoid,Male,Female,2019-03-11,JN,focalfollow,agonism.winner
+4G6,2D1,avoid,Male,Female,2019-03-11,JN,focalfollow,agonism.winner
+5E4,2I1,threat,Male,Male,2019-03-11,JN,focalfollow,agonism.winner
+9O5,3O0,displace,Male,Female,2019-03-11,JN,focalfollow,agonism.winner
+0J9,juvenile female,FearGrm,Male,Unknown,2019-03-12,JN,focalfollow,agonism.winner
+0J9,2I1,Submit,Male,Male,2019-03-12,JN,focalfollow,agonism.winner
+11Z,juvenile female,avoid,Male,Unknown,2019-03-12,JN,focalfollow,agonism.winner
+11Z,juvenile female,displace,Male,Unknown,2019-03-12,JN,focalfollow,agonism.winner
+1K8,juvenile female,contactAgg,Female,Unknown,2019-03-12,JN,focalfollow,agonism.winner
+2L6,11Z,FearGrm,Male,Male,2019-03-12,JN,focalfollow,agonism.winner
+48L,1F0,avoid,Male,Male,2019-03-12,JN,focalfollow,agonism.winner
+5P2,0G9,Submit,Male,Male,2019-03-12,JN,focalfollow,agonism.winner
+5P2,2L6,FearGrm,Male,Male,2019-03-12,JN,focalfollow,agonism.winner
+6M8,04I,threat,Male,Male,2019-03-12,JN,focalfollow,agonism.winner
+91V,3B9,noncontactAgg,Female,Male,2019-03-12,JN,focalfollow,agonism.winner
+9I4,juvenile female,Submit,Male,Unknown,2019-03-12,JN,focalfollow,agonism.winner
+9I4,4H7,Submit,Male,Female,2019-03-12,JN,focalfollow,agonism.winner
+3D1,juvenile female,displace,Female,Unknown,2019-03-13,JN,focalfollow,agonism.winner
+3D1,juvenile female,noncontactAgg,Female,Unknown,2019-03-13,JN,focalfollow,agonism.winner
+4G6,juvenile male,FearGrm,Male,Unknown,2019-03-13,JN,focalfollow,agonism.winner
+4H7,juvenile female,noncontactAgg,Female,Unknown,2019-03-13,JN,focalfollow,agonism.winner
+4H7,juvenile female,avoid,Female,Unknown,2019-03-13,JN,focalfollow,agonism.winner
+5E4,74K,FearGrm,Male,Female,2019-03-13,JN,focalfollow,agonism.winner
+5E6,juvenile male,displace,Male,Unknown,2019-03-13,JN,focalfollow,agonism.winner
+6O9,4E6,threat,Female,Male,2019-03-13,JN,focalfollow,agonism.winner
+6O9,4E6,avoid,Female,Male,2019-03-13,JN,focalfollow,agonism.winner
+7M4,juvenile male,displace,Male,Unknown,2019-03-13,JN,focalfollow,agonism.winner
+7M4,3G2,FearGrm,Male,Female,2019-03-13,JN,focalfollow,agonism.winner
+09Z,0P2,FearGrm,Female,Female,2019-03-14,JN,focalfollow,agonism.winner
+09Z,3L9,threat,Female,Female,2019-03-14,JN,focalfollow,agonism.winner
+3H6,juvenile female,displace,Female,Unknown,2019-03-14,JN,focalfollow,agonism.winner
+53N,juvenile female,noncontactAgg,Male,Unknown,2019-03-14,JN,focalfollow,agonism.winner
+5P2,juvenile female,FearGrm,Male,Unknown,2019-03-14,JN,focalfollow,agonism.winner
+6M9,9L6,noncontactAgg,Female,Female,2019-03-14,JN,focalfollow,agonism.winner
+6O6,38Z,contactAgg,Male,Female,2019-03-14,JN,focalfollow,agonism.winner
+6O6,38Z,noncontactAgg,Male,Female,2019-03-14,JN,focalfollow,agonism.winner
+6O6,6I7,FearGrm,Male,Male,2019-03-14,JN,focalfollow,agonism.winner
+6O6,82V,FearGrm,Male,Female,2019-03-14,JN,focalfollow,agonism.winner
+6O6,4G6,displace,Male,Male,2019-03-14,JN,focalfollow,agonism.winner
+97R,juvenile female,avoid,Female,Unknown,2019-03-14,JN,focalfollow,agonism.winner
+0B4,juvenile male,noncontactAgg,Female,Unknown,2019-03-18,JN,focalfollow,agonism.winner
+0G1,0B4,avoid,Male,Female,2019-03-18,JN,focalfollow,agonism.winner
+2C6,juvenile female,noncontactAgg,Male,Unknown,2019-03-18,JN,focalfollow,agonism.winner
+2L6,adult male,threat,Male,Unknown,2019-03-18,JN,focalfollow,agonism.winner
+2L6,juvenile female,noncontactAgg,Male,Unknown,2019-03-18,JN,focalfollow,agonism.winner
+2L6,juvenile,avoid,Male,Unknown,2019-03-18,JN,focalfollow,agonism.winner
+3B9,juvenile female,noncontactAgg,Male,Unknown,2019-03-18,JN,focalfollow,agonism.winner
+3I4,adult male,threat,Female,Unknown,2019-03-18,JN,focalfollow,agonism.winner
+3I4,adult male,threat,Female,Unknown,2019-03-18,JN,focalfollow,agonism.winner
+5H6,juvenile male,displace,Female,Unknown,2019-03-18,JN,focalfollow,agonism.winner
+5H6,97R,displace,Female,Female,2019-03-18,JN,focalfollow,agonism.winner
+7H0,3B8,avoid,Male,Female,2019-03-18,JN,focalfollow,agonism.winner
+7L1,juvenile male,threat,Female,Unknown,2019-03-18,JN,focalfollow,agonism.winner
+0C9,9C7,avoid,Male,Female,2019-03-19,JN,focalfollow,agonism.winner
+2G8,juvenile female,noncontactAgg,Female,Unknown,2019-03-19,JN,focalfollow,agonism.winner
+82Z,3D4,avoid,Female,Female,2019-03-19,JN,focalfollow,agonism.winner
+82Z,1K8,contactAgg,Female,Female,2019-03-19,JN,focalfollow,agonism.winner
+82Z,1K8,noncontactAgg,Female,Female,2019-03-19,JN,focalfollow,agonism.winner
+9O5,juvenile male,noncontactAgg,Male,Unknown,2019-03-19,JN,focalfollow,agonism.winner
+0J9,82V,Submit,Male,Female,2019-03-20,JN,focalfollow,agonism.winner
+0J9,4G6,avoid,Male,Male,2019-03-20,JN,focalfollow,agonism.winner
+1F0,juvenile male,avoid,Male,Unknown,2019-03-20,JN,focalfollow,agonism.winner
+3D1,juvenile female,contactAgg,Female,Unknown,2019-03-20,JN,focalfollow,agonism.winner
+3K1,4E6,contactAgg,Male,Male,2019-03-20,JN,focalfollow,agonism.winner
+5A1,juvenile male,threat,Female,Unknown,2019-03-20,JN,focalfollow,agonism.winner
+5H6,4H7,displace,Female,Female,2019-03-20,JN,focalfollow,agonism.winner
+6J4,0G1,noncontactAgg,Female,Male,2019-03-20,JN,focalfollow,agonism.winner
+91V,juvenile female,avoid,Female,Unknown,2019-03-20,JN,focalfollow,agonism.winner
+9I3,82V,avoid,Female,Female,2019-03-20,JN,focalfollow,agonism.winner
+9I3,infant,threat,Female,Unknown,2019-03-20,JN,focalfollow,agonism.winner
+2L6,4P9,avoid,Male,Female,2019-03-21,JN,focalfollow,agonism.winner
+3L9,4A9,threat,Female,Female,2019-03-21,JN,focalfollow,agonism.winner
+5P2,7H0,Submit,Male,Male,2019-03-21,JN,focalfollow,agonism.winner
+5P2,4G6,FearGrm,Male,Male,2019-03-21,JN,focalfollow,agonism.winner
+5P2,11Z,Submit,Male,Male,2019-03-21,JN,focalfollow,agonism.winner
+9O5,0B4,displace,Male,Female,2019-03-21,JN,focalfollow,agonism.winner
+4P4,9I3,noncontactAgg,Female,Female,2019-03-22,JN,focalfollow,agonism.winner
+4P4,infant,noncontactAgg,Female,Unknown,2019-03-22,JN,focalfollow,agonism.winner
+6C6,0B4,contactAgg,Male,Female,2019-03-22,JN,focalfollow,agonism.winner
+7O1,infant,noncontactAgg,Male,Unknown,2019-03-22,JN,focalfollow,agonism.winner
+8M2,2D4,displace,Female,Female,2019-03-22,JN,focalfollow,agonism.winner
+0H3,juvenile,threat,Male,Unknown,2019-03-25,JN,focalfollow,agonism.winner
+0H3,38Z,avoid,Male,Female,2019-03-25,JN,focalfollow,agonism.winner
+3D4,infant,contactAgg,Female,Unknown,2019-03-25,JN,focalfollow,agonism.winner
+4P4,juvenile male,noncontactAgg,Female,Unknown,2019-03-25,JN,focalfollow,agonism.winner
+4P9,8M2,avoid,Female,Female,2019-03-25,JN,focalfollow,agonism.winner
+6I7,0G9,FearGrm,Male,Male,2019-03-25,JN,focalfollow,agonism.winner
+6M8,0G9,threat,Male,Male,2019-03-25,JN,focalfollow,agonism.winner
+6M8,infant,threat,Male,Unknown,2019-03-25,JN,focalfollow,agonism.winner
+6M8,0G9,displace,Male,Male,2019-03-25,JN,focalfollow,agonism.winner
+6M9,2D4,displace,Female,Female,2019-03-25,JN,focalfollow,agonism.winner
+6O9,infant,threat,Female,Unknown,2019-03-25,JN,focalfollow,agonism.winner
+7B3,95V,FearGrm,Male,Female,2019-03-25,JN,focalfollow,agonism.winner
+7H0,adult male,threat,Male,Unknown,2019-03-25,JN,focalfollow,agonism.winner
+7H0,5A1,avoid,Male,Female,2019-03-25,JN,focalfollow,agonism.winner
+7H0,infant,contactAgg,Male,Unknown,2019-03-25,JN,focalfollow,agonism.winner
+7M4,infant,contactAgg,Male,Unknown,2019-03-25,JN,focalfollow,agonism.winner
+7M4,1B4,noncontactAgg,Male,Female,2019-03-25,JN,focalfollow,agonism.winner
+7M4,1B4,noncontactAgg,Male,Female,2019-03-25,JN,focalfollow,agonism.winner
+7M4,2B4,FearGrm,Male,Female,2019-03-25,JN,focalfollow,agonism.winner
+88N,2B1,threat,Female,Female,2019-03-25,JN,focalfollow,agonism.winner
+0B4,juvenile female,noncontactAgg,Female,Unknown,2019-03-26,JN,focalfollow,agonism.winner
+0C9,4P9,avoid,Male,Female,2019-03-26,JN,focalfollow,agonism.winner
+0C9,98V,FearGrm,Male,Female,2019-03-26,JN,focalfollow,agonism.winner
+6J4,infant,threat,Female,Unknown,2019-03-26,JN,focalfollow,agonism.winner
+6M8,0G9,noncontactAgg,Male,Male,2019-03-26,JN,focalfollow,agonism.winner
+74K,juvenile female,avoid,Female,Unknown,2019-03-26,JN,focalfollow,agonism.winner
+9I4,0G1,noncontactAgg,Male,Male,2019-03-26,JN,focalfollow,agonism.winner
+1F0,juvenile female,threat,Male,Unknown,2019-03-27,JN,focalfollow,agonism.winner
+1F0,2P0,FearGrm,Male,Female,2019-03-27,JN,focalfollow,agonism.winner
+1F0,juvenile male,FearGrm,Male,Unknown,2019-03-27,JN,focalfollow,agonism.winner
+2D1,juvenile male,contactAgg,Female,Unknown,2019-03-27,JN,focalfollow,agonism.winner
+33V,juvenile female,displace,Female,Unknown,2019-03-27,JN,focalfollow,agonism.winner
+38Z,infant,threat,Female,Unknown,2019-03-27,JN,focalfollow,agonism.winner
+4M2,8M2,avoid,Female,Female,2019-03-27,JN,focalfollow,agonism.winner
+6M8,2I1,FearGrm,Male,Male,2019-03-27,JN,focalfollow,agonism.winner
+6M8,juvenile male,noncontactAgg,Male,Unknown,2019-03-27,JN,focalfollow,agonism.winner
+77V,juvenile male,threat,Female,Unknown,2019-03-27,JN,focalfollow,agonism.winner
+7B3,2L6,threat,Male,Male,2019-03-27,JN,focalfollow,agonism.winner
+7L1,4P4,displace,Female,Female,2019-03-27,JN,focalfollow,agonism.winner
+9O5,5P1,displace,Male,Female,2019-03-27,JN,focalfollow,agonism.winner
+9O5,74K,FearGrm,Male,Female,2019-03-27,JN,focalfollow,agonism.winner
+3B8,2D4,contactAgg,Female,Female,2019-03-28,JN,focalfollow,agonism.winner
+4H7,infant,threat,Female,Unknown,2019-03-28,JN,focalfollow,agonism.winner
+5A1,82V,noncontactAgg,Female,Female,2019-03-28,JN,focalfollow,agonism.winner
+7O1,3D1,Submit,Male,Female,2019-03-28,JN,focalfollow,agonism.winner
+7O1,juvenile,noncontactAgg,Male,Unknown,2019-03-28,JN,focalfollow,agonism.winner
+1F0,60V,avoid,Male,Female,2019-04-01,JN,focalfollow,agonism.winner
+33V,juvenile female,contactAgg,Female,Unknown,2019-04-01,JN,focalfollow,agonism.winner
+38Z,6J4,contactAgg,Female,Female,2019-04-01,JN,focalfollow,agonism.winner
+38Z,9I3,avoid,Female,Female,2019-04-01,JN,focalfollow,agonism.winner
+3H6,3O0,avoid,Female,Female,2019-04-01,JN,focalfollow,agonism.winner
+3H6,juvenile male,displace,Female,Unknown,2019-04-01,JN,focalfollow,agonism.winner
+3K1,juvenile male,contactAgg,Male,Unknown,2019-04-01,JN,focalfollow,agonism.winner
+4G6,juvenile female,noncontactAgg,Male,Unknown,2019-04-01,JN,focalfollow,agonism.winner
+5E4,3O0,avoid,Male,Female,2019-04-01,JN,focalfollow,agonism.winner
+5E4,juvenile female,avoid,Male,Unknown,2019-04-01,JN,focalfollow,agonism.winner
+5E4,juvenile male,avoid,Male,Unknown,2019-04-01,JN,focalfollow,agonism.winner
+5E4,9O5,displace,Male,Male,2019-04-01,JN,focalfollow,agonism.winner
+5P2,6M8,FearGrm,Male,Male,2019-04-01,JN,focalfollow,agonism.winner
+0C9,2G8,avoid,Male,Female,2019-04-02,JN,focalfollow,agonism.winner
+0C9,juvenile female,threat,Male,Unknown,2019-04-02,JN,focalfollow,agonism.winner
+0I7,juvenile female,displace,Female,Unknown,2019-04-02,JN,focalfollow,agonism.winner
+11Z,juvenile female,FearGrm,Male,Unknown,2019-04-02,JN,focalfollow,agonism.winner
+11Z,3D4,FearGrm,Male,Female,2019-04-02,JN,focalfollow,agonism.winner
+2I1,0I7,noncontactAgg,Male,Female,2019-04-02,JN,focalfollow,agonism.winner
+2L6,6I7,avoid,Male,Male,2019-04-02,JN,focalfollow,agonism.winner
+3K1,8M5,threat,Male,Male,2019-04-02,JN,focalfollow,agonism.winner
+4P4,8M0,threat,Female,Female,2019-04-02,JN,focalfollow,agonism.winner
+6J4,juvenile male,avoid,Female,Unknown,2019-04-02,JN,focalfollow,agonism.winner
+6O6,9L6,avoid,Male,Female,2019-04-02,JN,focalfollow,agonism.winner
+6O6,7H0,avoid,Male,Male,2019-04-02,JN,focalfollow,agonism.winner
+7M4,juvenile female,FearGrm,Male,Unknown,2019-04-02,JN,focalfollow,agonism.winner
+7O1,2D1,avoid,Male,Female,2019-04-02,JN,focalfollow,agonism.winner
+7O1,2D1,displace,Male,Female,2019-04-02,JN,focalfollow,agonism.winner
+8M2,infant,contactAgg,Female,Unknown,2019-04-02,JN,focalfollow,agonism.winner
+8M2,juvenile female,threat,Female,Unknown,2019-04-02,JN,focalfollow,agonism.winner
+8M2,infant,contactAgg,Female,Unknown,2019-04-02,JN,focalfollow,agonism.winner
+9O5,juvenile male,displace,Male,Unknown,2019-04-02,JN,focalfollow,agonism.winner
+09Z,0B4,contactAgg,Female,Female,2019-04-03,JN,focalfollow,agonism.winner
+0C9,juvenile male,avoid,Male,Unknown,2019-04-03,JN,focalfollow,agonism.winner
+0C9,7L1,Submit,Male,Female,2019-04-03,JN,focalfollow,agonism.winner
+0G1,juvenile female,noncontactAgg,Male,Unknown,2019-04-03,JN,focalfollow,agonism.winner
+0G1,88N,displace,Male,Female,2019-04-03,JN,focalfollow,agonism.winner
+2L6,0H3,avoid,Male,Male,2019-04-03,JN,focalfollow,agonism.winner
+3D1,juvenile male,contactAgg,Female,Unknown,2019-04-03,JN,focalfollow,agonism.winner
+5P1,juvenile female,contactAgg,Female,Unknown,2019-04-03,JN,focalfollow,agonism.winner
+5P1,3I4,displace,Female,Female,2019-04-03,JN,focalfollow,agonism.winner
+60V,8M2,noncontactAgg,Female,Female,2019-04-03,JN,focalfollow,agonism.winner
+6C6,juvenile female,FearGrm,Male,Unknown,2019-04-03,JN,focalfollow,agonism.winner
+6M8,4E6,displace,Male,Male,2019-04-03,JN,focalfollow,agonism.winner
+6M9,3G2,displace,Female,Female,2019-04-03,JN,focalfollow,agonism.winner
+7H0,7M5,avoid,Male,Female,2019-04-03,JN,focalfollow,agonism.winner
+9O5,juvenile male,FearGrm,Male,Unknown,2019-04-03,JN,focalfollow,agonism.winner
+0P2,juvenile female,displace,Female,Unknown,2019-04-04,JN,focalfollow,agonism.winner
+2G8,3O0,avoid,Female,Female,2019-04-04,JN,focalfollow,agonism.winner
+2G8,7L1,avoid,Female,Female,2019-04-04,JN,focalfollow,agonism.winner
+2G8,4M2,displace,Female,Female,2019-04-04,JN,focalfollow,agonism.winner
+2G8,juvenile female,avoid,Female,Unknown,2019-04-04,JN,focalfollow,agonism.winner
+2G8,7I4,avoid,Female,Female,2019-04-04,JN,focalfollow,agonism.winner
+2G8,juvenile female,displace,Female,Unknown,2019-04-04,JN,focalfollow,agonism.winner
+3H6,4P4,avoid,Female,Female,2019-04-04,JN,focalfollow,agonism.winner
+4H7,infant,contactAgg,Female,Unknown,2019-04-04,JN,focalfollow,agonism.winner
+6O6,juvenile female,FearGrm,Male,Unknown,2019-04-04,JN,focalfollow,agonism.winner
+9I3,juvenile female,noncontactAgg,Female,Unknown,2019-04-04,JN,focalfollow,agonism.winner
+0G9,8M5,Submit,Male,Male,2019-04-09,JN,focalfollow,agonism.winner
+2L6,7A9,FearGrm,Male,Female,2019-04-09,JN,focalfollow,agonism.winner
+3D1,juvenile male,noncontactAgg,Female,Unknown,2019-04-09,JN,focalfollow,agonism.winner
+4G6,juvenile,contactAgg,Male,Unknown,2019-04-09,JN,focalfollow,agonism.winner
+4G6,juvenile male,avoid,Male,Unknown,2019-04-09,JN,focalfollow,agonism.winner
+4G6,0G1,FearGrm,Male,Male,2019-04-09,JN,focalfollow,agonism.winner
+5E6,juvenile male,FearGrm,Male,Unknown,2019-04-09,JN,focalfollow,agonism.winner
+6M9,juvenile female,avoid,Female,Unknown,2019-04-09,JN,focalfollow,agonism.winner
+6M9,8M6,contactAgg,Female,Female,2019-04-09,JN,focalfollow,agonism.winner
+6M9,juvenile female,avoid,Female,Unknown,2019-04-09,JN,focalfollow,agonism.winner
+7M4,6M8,displace,Male,Male,2019-04-09,JN,focalfollow,agonism.winner
+7O1,2D1,avoid,Male,Female,2019-04-09,JN,focalfollow,agonism.winner
+9O5,juvenile male,displace,Male,Unknown,2019-04-09,JN,focalfollow,agonism.winner
+11Z,2I0,avoid,Male,Male,2019-04-10,JN,focalfollow,agonism.winner
+1F0,juvenile female,avoid,Male,Unknown,2019-04-10,JN,focalfollow,agonism.winner
+2B4,2D4,displace,Female,Female,2019-04-10,JN,focalfollow,agonism.winner
+2C6,juvenile male,FearGrm,Male,Unknown,2019-04-10,JN,focalfollow,agonism.winner
+2C6,1B4,FearGrm,Male,Female,2019-04-10,JN,focalfollow,agonism.winner
+2C6,7L1,FearGrm,Male,Female,2019-04-10,JN,focalfollow,agonism.winner
+2I1,9I3,FearGrm,Male,Female,2019-04-10,JN,focalfollow,agonism.winner
+33V,infant,contactAgg,Female,Unknown,2019-04-10,JN,focalfollow,agonism.winner
+33V,juvenile female,contactAgg,Female,Unknown,2019-04-10,JN,focalfollow,agonism.winner
+38Z,juvenile female,Submit,Female,Unknown,2019-04-10,JN,focalfollow,agonism.winner
+38Z,juvenile female,threat,Female,Unknown,2019-04-10,JN,focalfollow,agonism.winner
+3B9,juvenile female,avoid,Male,Unknown,2019-04-10,JN,focalfollow,agonism.winner
+3B9,82V,avoid,Male,Female,2019-04-10,JN,focalfollow,agonism.winner
+3B9,juvenile male,displace,Male,Unknown,2019-04-10,JN,focalfollow,agonism.winner
+4P9,74K,avoid,Female,Female,2019-04-10,JN,focalfollow,agonism.winner
+5H6,juvenile female,displace,Female,Unknown,2019-04-10,JN,focalfollow,agonism.winner
+8I6,infant,contactAgg,Female,Unknown,2019-04-10,JN,focalfollow,agonism.winner
+8M2,juvenile female,noncontactAgg,Female,Unknown,2019-04-10,JN,focalfollow,agonism.winner
+9C7,82V,threat,Female,Female,2019-04-10,JN,focalfollow,agonism.winner
+7B3,7I4,avoid,Male,Female,2019-04-11,JN,focalfollow,agonism.winner
+7B3,2D4,avoid,Male,Female,2019-04-11,JN,focalfollow,agonism.winner
+7B3,5E4,FearGrm,Male,Male,2019-04-11,JN,focalfollow,agonism.winner
+7B3,98V,threat,Male,Female,2019-04-11,JN,focalfollow,agonism.winner
+7H0,juvenile female,avoid,Male,Unknown,2019-04-11,JN,focalfollow,agonism.winner
+7M4,juvenile female,noncontactAgg,Male,Unknown,2019-04-11,JN,focalfollow,agonism.winner
+0P2,juvenile female,contactAgg,Female,Unknown,2019-04-12,JN,focalfollow,agonism.winner
+5A1,1B4,displace,Female,Female,2019-04-12,JN,focalfollow,agonism.winner
+6M8,juvenile female,noncontactAgg,Male,Unknown,2019-04-12,JN,focalfollow,agonism.winner
+6M8,juvenile female,contactAgg,Male,Unknown,2019-04-12,JN,focalfollow,agonism.winner
+6M8,6J4,displace,Male,Female,2019-04-12,JN,focalfollow,agonism.winner
+6M8,juvenile female,threat,Male,Unknown,2019-04-12,JN,focalfollow,agonism.winner
+6M9,9L6,avoid,Female,Female,2019-04-12,JN,focalfollow,agonism.winner
+6M9,juvenile,contactAgg,Female,Unknown,2019-04-12,JN,focalfollow,agonism.winner
+7O1,juvenile female,FearGrm,Male,Unknown,2019-04-12,JN,focalfollow,agonism.winner
+7O1,1K8,displace,Male,Female,2019-04-12,JN,focalfollow,agonism.winner
+8M2,juvenile male,noncontactAgg,Female,Unknown,2019-04-12,JN,focalfollow,agonism.winner
+0C9,juvenile female,noncontactAgg,Male,Unknown,2019-04-15,JN,focalfollow,agonism.winner
+0C9,juvenile female,noncontactAgg,Male,Unknown,2019-04-15,JN,focalfollow,agonism.winner
+3D1,4I3,noncontactAgg,Female,Female,2019-04-15,JN,focalfollow,agonism.winner
+6C6,2D1,avoid,Male,Female,2019-04-15,JN,focalfollow,agonism.winner
+6O6,38Z,contactAgg,Male,Female,2019-04-15,JN,focalfollow,agonism.winner
+8M0,2B4,displace,Female,Female,2019-04-15,JN,focalfollow,agonism.winner
+9O5,5A1,avoid,Male,Female,2019-04-15,JN,focalfollow,agonism.winner
+0C9,5P2,displace,Male,Male,2019-04-16,JN,focalfollow,agonism.winner
+0C9,7M4,avoid,Male,Male,2019-04-16,JN,focalfollow,agonism.winner
+0C9,6J4,avoid,Male,Female,2019-04-16,JN,focalfollow,agonism.winner
+4I3,juvenile female,displace,Female,Unknown,2019-04-16,JN,focalfollow,agonism.winner
+6M8,juvenile male,displace,Male,Unknown,2019-04-16,JN,focalfollow,agonism.winner
+6O6,juvenile male,noncontactAgg,Male,Unknown,2019-04-16,JN,focalfollow,agonism.winner
+77V,7I4,avoid,Female,Female,2019-04-16,JN,focalfollow,agonism.winner
+7B3,91V,FearGrm,Male,Female,2019-04-16,JN,focalfollow,agonism.winner
+7B3,0B4,FearGrm,Male,Female,2019-04-16,JN,focalfollow,agonism.winner
+7B3,60V,noncontactAgg,Male,Female,2019-04-16,JN,focalfollow,agonism.winner
+7B3,juvenile male,noncontactAgg,Male,Unknown,2019-04-16,JN,focalfollow,agonism.winner
+0J9,juvenile female,avoid,Male,Unknown,2019-04-17,JN,focalfollow,agonism.winner
+1F0,juvenile male,threat,Male,Unknown,2019-04-17,JN,focalfollow,agonism.winner
+5E4,3G2,avoid,Male,Female,2019-04-17,JN,focalfollow,agonism.winner
+5E4,1K8,avoid,Male,Female,2019-04-17,JN,focalfollow,agonism.winner
+60V,4G6,threat,Female,Male,2019-04-17,JN,focalfollow,agonism.winner
+7F7,juvenile male,noncontactAgg,Female,Unknown,2019-04-17,JN,focalfollow,agonism.winner
+7F7,67Z,threat,Female,Male,2019-04-17,JN,focalfollow,agonism.winner
+91V,97R,displace,Female,Female,2019-04-17,JN,focalfollow,agonism.winner
+0C9,juvenile female,displace,Male,Unknown,2019-04-18,JN,focalfollow,agonism.winner
+1F0,3H6,avoid,Male,Female,2019-04-18,JN,focalfollow,agonism.winner
+48L,4A9,avoid,Male,Female,2019-04-18,JN,focalfollow,agonism.winner
+6O6,juvenile male,displace,Male,Unknown,2019-04-18,JN,focalfollow,agonism.winner
+6O6,9O5,avoid,Male,Male,2019-04-18,JN,focalfollow,agonism.winner
+6O6,3I4,avoid,Male,Female,2019-04-18,JN,focalfollow,agonism.winner
+9I4,1K8,Submit,Male,Female,2019-04-18,JN,focalfollow,agonism.winner
+0B4,juvenile female,avoid,Female,Unknown,2019-04-23,JN,focalfollow,agonism.winner
+2I1,2B1,avoid,Male,Female,2019-04-23,JN,focalfollow,agonism.winner
+38Z,4G6,noncontactAgg,Female,Male,2019-04-23,JN,focalfollow,agonism.winner
+3B8,juvenile male,noncontactAgg,Female,Unknown,2019-04-23,JN,focalfollow,agonism.winner
+3K1,juvenile male,threat,Male,Unknown,2019-04-23,JN,focalfollow,agonism.winner
+5A1,2B4,avoid,Female,Female,2019-04-23,JN,focalfollow,agonism.winner
+7M4,5A1,displace,Male,Female,2019-04-23,JN,focalfollow,agonism.winner
+7O1,juvenile,displace,Male,Unknown,2019-04-23,JN,focalfollow,agonism.winner
+0I7,infant,contactAgg,Female,Unknown,2019-04-24,JN,focalfollow,agonism.winner
+6J4,2B1,contactAgg,Female,Female,2019-04-24,JN,focalfollow,agonism.winner
+7B3,3B8,threat,Male,Female,2019-04-24,JN,focalfollow,agonism.winner
+7H0,juvenile male,FearGrm,Male,Unknown,2019-04-24,JN,focalfollow,agonism.winner
+7H0,2B4,displace,Male,Female,2019-04-24,JN,focalfollow,agonism.winner
+2P0,juvenile female,noncontactAgg,Female,Unknown,2019-04-25,JN,focalfollow,agonism.winner
+3I4,95V,threat,Female,Female,2019-04-25,JN,focalfollow,agonism.winner
+53N,4P3,avoid,Male,Female,2019-04-25,JN,focalfollow,agonism.winner
+5A1,juvenile male,displace,Female,Unknown,2019-04-25,JN,focalfollow,agonism.winner
+5E4,3B9,avoid,Male,Male,2019-04-25,JN,focalfollow,agonism.winner
+5E4,6M8,FearGrm,Male,Male,2019-04-25,JN,focalfollow,agonism.winner
+9I4,juvenile female,avoid,Male,Unknown,2019-04-25,JN,focalfollow,agonism.winner
+9I4,juvenile female,noncontactAgg,Male,Unknown,2019-04-25,JN,focalfollow,agonism.winner
+9I4,97R,avoid,Male,Female,2019-04-25,JN,focalfollow,agonism.winner
+5H6,juvenile female,avoid,Female,Unknown,2019-04-26,JN,focalfollow,agonism.winner
+6I7,3B9,displace,Male,Male,2019-04-26,JN,focalfollow,agonism.winner
+0G1,33V,displace,Male,Female,2019-04-30,JN,focalfollow,agonism.winner
+2D4,juvenile male,contactAgg,Female,Unknown,2019-04-30,JN,focalfollow,agonism.winner
+2L6,2B1,noncontactAgg,Male,Female,2019-04-30,JN,focalfollow,agonism.winner
+3I4,1K8,avoid,Female,Female,2019-04-30,JN,focalfollow,agonism.winner
+3I4,juvenile male,noncontactAgg,Female,Unknown,2019-04-30,JN,focalfollow,agonism.winner
+48L,3G2,displace,Male,Female,2019-04-30,JN,focalfollow,agonism.winner
+48L,juvenile female,avoid,Male,Unknown,2019-04-30,JN,focalfollow,agonism.winner
+5A1,4H7,displace,Female,Female,2019-04-30,JN,focalfollow,agonism.winner
+5E4,8I6,noncontactAgg,Male,Female,2019-04-30,JN,focalfollow,agonism.winner
+5E4,juvenile male,contactAgg,Male,Unknown,2019-04-30,JN,focalfollow,agonism.winner
+5E4,infant,noncontactAgg,Male,Unknown,2019-04-30,JN,focalfollow,agonism.winner
+5P2,5A1,contactAgg,Male,Female,2019-04-30,JN,focalfollow,agonism.winner
+5P2,6M8,displace,Male,Male,2019-04-30,JN,focalfollow,agonism.winner
+67Z,2L6,FearGrm,Male,Male,2019-04-30,JN,focalfollow,agonism.winner
+6M8,77V,displace,Male,Female,2019-04-30,JN,focalfollow,agonism.winner
+6M8,0G9,threat,Male,Male,2019-04-30,JN,focalfollow,agonism.winner
+6M8,4H7,avoid,Male,Female,2019-04-30,JN,focalfollow,agonism.winner
+6M8,3L9,avoid,Male,Female,2019-04-30,JN,focalfollow,agonism.winner
+6M8,juvenile female,displace,Male,Unknown,2019-04-30,JN,focalfollow,agonism.winner
+7A9,2D4,avoid,Female,Female,2019-04-30,JN,focalfollow,agonism.winner
+7H0,juvenile female,noncontactAgg,Male,Unknown,2019-04-30,JN,focalfollow,agonism.winner
+7H0,0I7,displace,Male,Female,2019-04-30,JN,focalfollow,agonism.winner
+7H0,0I7,threat,Male,Female,2019-04-30,JN,focalfollow,agonism.winner
+9I4,juvenile female,displace,Male,Unknown,2019-04-30,JN,focalfollow,agonism.winner
+9I4,2D1,avoid,Male,Female,2019-04-30,JN,focalfollow,agonism.winner
+2P0,33V,displace,Female,Female,2019-05-01,JN,focalfollow,agonism.winner
+3B8,adult male,threat,Female,Unknown,2019-05-01,JN,focalfollow,agonism.winner
+3H6,juvenile female,avoid,Female,Unknown,2019-05-01,JN,focalfollow,agonism.winner
+6O6,juvenile female,avoid,Male,Unknown,2019-05-01,JN,focalfollow,agonism.winner
+7L1,3B8,noncontactAgg,Female,Female,2019-05-01,JN,focalfollow,agonism.winner
+7M9,juvenile female,noncontactAgg,Female,Unknown,2019-05-01,JN,focalfollow,agonism.winner
+7M9,7F7,displace,Female,Female,2019-05-01,JN,focalfollow,agonism.winner
+9I3,infant,contactAgg,Female,Unknown,2019-05-01,JN,focalfollow,agonism.winner
+6O6,juvenile female,noncontactAgg,Male,Unknown,2019-05-07,JN,focalfollow,agonism.winner
+6O6,8M2,avoid,Male,Female,2019-05-07,JN,focalfollow,agonism.winner
+6O6,82V,avoid,Male,Female,2019-05-07,JN,focalfollow,agonism.winner
+9O5,juvenile female,contactAgg,Male,Unknown,2019-05-07,JN,focalfollow,agonism.winner
+11Z,juvenile female,avoid,Male,Unknown,2019-05-13,JN,focalfollow,agonism.winner
+5P2,3B8,noncontactAgg,Male,Female,2019-05-13,JN,focalfollow,agonism.winner
+60V,1K8,avoid,Female,Female,2019-05-13,JN,focalfollow,agonism.winner
+60V,3B8,avoid,Female,Female,2019-05-13,JN,focalfollow,agonism.winner
+67Z,74K,avoid,Male,Female,2019-05-13,JN,focalfollow,agonism.winner
+6M8,juvenile female,contactAgg,Male,Unknown,2019-05-13,JN,focalfollow,agonism.winner
+6M8,2I1,noncontactAgg,Male,Male,2019-05-13,JN,focalfollow,agonism.winner
+7H0,juvenile male,avoid,Male,Unknown,2019-05-13,JN,focalfollow,agonism.winner
+7H0,juvenile male,noncontactAgg,Male,Unknown,2019-05-13,JN,focalfollow,agonism.winner
+95V,juvenile male,displace,Female,Unknown,2019-05-13,JN,focalfollow,agonism.winner
+48L,3H6,displace,Male,Female,2019-05-15,JN,focalfollow,agonism.winner
+48L,juvenile male,displace,Male,Unknown,2019-05-15,JN,focalfollow,agonism.winner
+48L,juvenile female,avoid,Male,Unknown,2019-05-15,JN,focalfollow,agonism.winner
+48L,60V,avoid,Male,Female,2019-05-15,JN,focalfollow,agonism.winner
+5H6,1K8,threat,Female,Female,2019-05-15,JN,focalfollow,agonism.winner
+5H6,juvenile male,avoid,Female,Unknown,2019-05-15,JN,focalfollow,agonism.winner
+5P1,juvenile female,displace,Female,Unknown,2019-05-15,JN,focalfollow,agonism.winner
+7O1,juvenile female,displace,Male,Unknown,2019-05-15,JN,focalfollow,agonism.winner
+4P3,3I4,avoid,Female,Female,2019-05-16,JN,focalfollow,agonism.winner
+67Z,juvenile female,threat,Male,Unknown,2019-05-16,JN,focalfollow,agonism.winner
+6J4,infant,threat,Female,Unknown,2019-05-16,JN,focalfollow,agonism.winner
+2C6,1B4,noncontactAgg,Male,Female,2019-05-17,JN,focalfollow,agonism.winner
+2I1,3K1,FearGrm,Male,Male,2019-05-17,JN,focalfollow,agonism.winner
+3L9,juvenile female,noncontactAgg,Female,Unknown,2019-05-17,JN,focalfollow,agonism.winner
+4A9,4H3,displace,Female,Female,2019-05-17,JN,focalfollow,agonism.winner
+4A9,4H3,displace,Female,Female,2019-05-17,JN,focalfollow,agonism.winner
+4H3,8M0,threat,Female,Female,2019-05-17,JN,focalfollow,agonism.winner
+4P9,juvenile female,displace,Female,Unknown,2019-05-17,JN,focalfollow,agonism.winner
+6M8,2I1,threat,Male,Male,2019-05-17,JN,focalfollow,agonism.winner
+6M8,juvenile female,displace,Male,Unknown,2019-05-17,JN,focalfollow,agonism.winner
+6O6,infant,noncontactAgg,Male,Unknown,2019-05-17,JN,focalfollow,agonism.winner
+8M2,juvenile female,threat,Female,Unknown,2019-05-17,JN,focalfollow,agonism.winner
+98V,7I4,displace,Female,Female,2019-05-17,JN,focalfollow,agonism.winner
+9I4,juvenile male,avoid,Male,Unknown,2019-05-17,JN,focalfollow,agonism.winner
+9I4,juvenile female,contactAgg,Male,Unknown,2019-05-17,JN,focalfollow,agonism.winner
+9I4,8M0,noncontactAgg,Male,Female,2019-05-17,JN,focalfollow,agonism.winner
+0P2,3H6,avoid,Female,Female,2019-05-20,JN,focalfollow,agonism.winner
+2L6,juvenile male,displace,Male,Unknown,2019-05-20,JN,focalfollow,agonism.winner
+53N,1F0,avoid,Male,Male,2019-05-20,JN,focalfollow,agonism.winner
+6I7,4P9,displace,Male,Female,2019-05-20,JN,focalfollow,agonism.winner
+6I7,4A9,displace,Male,Female,2019-05-20,JN,focalfollow,agonism.winner
+7H0,2B1,avoid,Male,Female,2019-05-20,JN,focalfollow,agonism.winner
+0C9,4M2,threat,Male,Female,2019-05-21,JN,focalfollow,agonism.winner
+0H3,6O9,displace,Male,Female,2019-05-21,JN,focalfollow,agonism.winner
+0H3,6O9,avoid,Male,Female,2019-05-21,JN,focalfollow,agonism.winner
+0J9,5A1,displace,Male,Female,2019-05-21,JN,focalfollow,agonism.winner
+2C6,juvenile male,threat,Male,Unknown,2019-05-21,JN,focalfollow,agonism.winner
+2I1,2L6,contactAgg,Male,Male,2019-05-21,JN,focalfollow,agonism.winner
+2I1,6I7,avoid,Male,Male,2019-05-21,JN,focalfollow,agonism.winner
+2P0,juvenile male,contactAgg,Female,Unknown,2019-05-21,JN,focalfollow,agonism.winner
+33V,infant,threat,Female,Unknown,2019-05-21,JN,focalfollow,agonism.winner
+3O0,juvenile male,contactAgg,Female,Unknown,2019-05-21,JN,focalfollow,agonism.winner
+4G6,juvenile male,noncontactAgg,Male,Unknown,2019-05-21,JN,focalfollow,agonism.winner
+4G6,9L6,avoid,Male,Female,2019-05-21,JN,focalfollow,agonism.winner
+5E4,juvenile male,avoid,Male,Unknown,2019-05-21,JN,focalfollow,agonism.winner
+6C6,juvenile male,noncontactAgg,Male,Unknown,2019-05-21,JN,focalfollow,agonism.winner
+6C6,3H6,displace,Male,Female,2019-05-21,JN,focalfollow,agonism.winner
+6I7,juvenile male,avoid,Male,Unknown,2019-05-21,JN,focalfollow,agonism.winner
+6I7,3D4,avoid,Male,Female,2019-05-21,JN,focalfollow,agonism.winner
+7F7,juvenile female,contactAgg,Female,Unknown,2019-05-21,JN,focalfollow,agonism.winner
+8M6,juvenile,contactAgg,Female,Unknown,2019-05-21,JN,focalfollow,agonism.winner
+95V,4H3,displace,Female,Female,2019-05-21,JN,focalfollow,agonism.winner
+9I4,6M9,contactAgg,Male,Female,2019-05-21,JN,focalfollow,agonism.winner
+3B9,juvenile male,avoid,Male,Unknown,2019-05-22,JN,focalfollow,agonism.winner
+5A1,8M0,displace,Female,Female,2019-05-22,JN,focalfollow,agonism.winner
+5H6,1B4,contactAgg,Female,Female,2019-05-22,JN,focalfollow,agonism.winner
+5P2,3L9,contactAgg,Male,Female,2019-05-22,JN,focalfollow,agonism.winner
+5P2,6M8,FearGrm,Male,Male,2019-05-22,JN,focalfollow,agonism.winner
+5P2,11Z,FearGrm,Male,Male,2019-05-22,JN,focalfollow,agonism.winner
+67Z,0G1,FearGrm,Male,Male,2019-05-22,JN,focalfollow,agonism.winner
+67Z,0I7,contactAgg,Male,Female,2019-05-22,JN,focalfollow,agonism.winner
+7H0,11Z,FearGrm,Male,Male,2019-05-22,JN,focalfollow,agonism.winner
+82Z,juvenile female,noncontactAgg,Female,Unknown,2019-05-22,JN,focalfollow,agonism.winner
+4H3,7M4,noncontactAgg,Female,Male,2019-05-23,JN,focalfollow,agonism.winner
+4H3,6J4,displace,Female,Female,2019-05-23,JN,focalfollow,agonism.winner
+6J4,3I4,contactAgg,Female,Female,2019-05-23,JN,focalfollow,agonism.winner
+6M8,unknown,noncontactAgg,Male,Unknown,2019-05-23,JN,focalfollow,agonism.winner
+0C9,juvenile male,contactAgg,Male,Unknown,2019-05-28,JN,focalfollow,agonism.winner
+0C9,4H7,avoid,Male,Female,2019-05-28,JN,focalfollow,agonism.winner
+2I1,juvenile,contactAgg,Male,Unknown,2019-05-28,JN,focalfollow,agonism.winner
+2I1,82V,noncontactAgg,Male,Female,2019-05-28,JN,focalfollow,agonism.winner
+33V,4P9,threat,Female,Female,2019-05-28,JN,focalfollow,agonism.winner
+48L,5A1,displace,Male,Female,2019-05-28,JN,focalfollow,agonism.winner
+6M8,juvenile female,avoid,Male,Unknown,2019-05-28,JN,focalfollow,agonism.winner
+7M9,infant,threat,Female,Unknown,2019-05-28,JN,focalfollow,agonism.winner
+91V,7I4,threat,Female,Female,2019-05-28,JN,focalfollow,agonism.winner
+0I7,juvenile male,threat,Female,Unknown,2019-05-29,JN,focalfollow,agonism.winner
+4M2,7I4,avoid,Female,Female,2019-05-29,JN,focalfollow,agonism.winner
+5P1,4H3,displace,Female,Female,2019-05-29,JN,focalfollow,agonism.winner
+5P1,3G2,displace,Female,Female,2019-05-29,JN,focalfollow,agonism.winner
+5P1,infant,threat,Female,Unknown,2019-05-29,JN,focalfollow,agonism.winner
+0P2,60V,threat,Female,Female,2019-06-03,JN,focalfollow,agonism.winner
+2P0,infant,contactAgg,Female,Unknown,2019-06-03,JN,focalfollow,agonism.winner
+4M2,2B1,noncontactAgg,Female,Female,2019-06-03,JN,focalfollow,agonism.winner
+4P9,juvenile female,threat,Female,Unknown,2019-06-03,JN,focalfollow,agonism.winner
+0G1,juvenile male,contactAgg,Male,Unknown,2019-06-05,JN,focalfollow,agonism.winner
+33V,juvenile female,displace,Female,Unknown,2019-06-05,JN,focalfollow,agonism.winner
+3H6,3O0,avoid,Female,Female,2019-06-05,JN,focalfollow,agonism.winner
+5H6,4P3,threat,Female,Female,2019-06-05,JN,focalfollow,agonism.winner
+6C6,juvenile female,threat,Male,Unknown,2019-06-05,JN,focalfollow,agonism.winner
+6J4,6I7,noncontactAgg,Female,Male,2019-06-05,JN,focalfollow,agonism.winner
+9L6,infant,contactAgg,Female,Unknown,2019-06-05,JN,focalfollow,agonism.winner
+9O5,juvenile female,avoid,Male,Unknown,2019-06-05,JN,focalfollow,agonism.winner
+1B4,infant,contactAgg,Female,Unknown,2019-06-06,JN,focalfollow,agonism.winner
+6I7,97R,displace,Male,Female,2019-06-06,JN,focalfollow,agonism.winner
+0G1,3D4,threat,Male,Female,2019-06-10,JN,focalfollow,agonism.winner
+2L6,infant,threat,Male,Unknown,2019-06-10,JN,focalfollow,agonism.winner
+38Z,4H3,contactAgg,Female,Female,2019-06-10,JN,focalfollow,agonism.winner
+3B8,7I4,avoid,Female,Female,2019-06-10,JN,focalfollow,agonism.winner
+48L,3B9,FearGrm,Male,Male,2019-06-10,JN,focalfollow,agonism.winner
+4A9,2B1,displace,Female,Female,2019-06-10,JN,focalfollow,agonism.winner
+4I3,juvenile female,contactAgg,Female,Unknown,2019-06-10,JN,focalfollow,agonism.winner
+5P2,juvenile male,threat,Male,Unknown,2019-06-10,JN,focalfollow,agonism.winner
+6M8,juvenile female,displace,Male,Unknown,2019-06-10,JN,focalfollow,agonism.winner
+6M8,infant,noncontactAgg,Male,Unknown,2019-06-10,JN,focalfollow,agonism.winner
+6M8,4G6,FearGrm,Male,Male,2019-06-10,JN,focalfollow,agonism.winner
+6M9,juvenile female,contactAgg,Female,Unknown,2019-06-10,JN,focalfollow,agonism.winner
+7O1,6M8,FearGrm,Male,Male,2019-06-10,JN,focalfollow,agonism.winner
+9I4,juvenile female,noncontactAgg,Male,Unknown,2019-06-10,JN,focalfollow,agonism.winner
+1F0,2C6,avoid,Male,Male,2019-06-11,JN,focalfollow,agonism.winner
+1F0,38Z,avoid,Male,Female,2019-06-11,JN,focalfollow,agonism.winner
+4P9,4H3,threat,Female,Female,2019-06-11,JN,focalfollow,agonism.winner
+67Z,juvenile female,noncontactAgg,Male,Unknown,2019-06-11,JN,focalfollow,agonism.winner
+67Z,juvenile female,avoid,Male,Unknown,2019-06-11,JN,focalfollow,agonism.winner
+7B3,11Z,displace,Male,Male,2019-06-11,JN,focalfollow,agonism.winner
+7M9,2P0,displace,Female,Female,2019-06-11,JN,focalfollow,agonism.winner
+91V,9O5,noncontactAgg,Female,Male,2019-06-11,JN,focalfollow,agonism.winner
+91V,9O5,noncontactAgg,Female,Male,2019-06-11,JN,focalfollow,agonism.winner
+95V,juvenile female,threat,Female,Unknown,2019-06-11,JN,focalfollow,agonism.winner
+95V,juvenile female,FearGrm,Female,Unknown,2019-06-11,JN,focalfollow,agonism.winner
+2G8,infant,contactAgg,Female,Unknown,2019-06-12,JN,focalfollow,agonism.winner
+2G8,juvenile female,noncontactAgg,Female,Unknown,2019-06-12,JN,focalfollow,agonism.winner
+2I1,9I3,noncontactAgg,Male,Female,2019-06-12,JN,focalfollow,agonism.winner
+3B9,adult male,threat,Male,Unknown,2019-06-12,JN,focalfollow,agonism.winner
+6M9,juvenile female,avoid,Female,Unknown,2019-06-12,JN,focalfollow,agonism.winner
+7M4,4H3,avoid,Male,Female,2019-06-12,JN,focalfollow,agonism.winner
+7O1,7M4,FearGrm,Male,Male,2019-06-12,JN,focalfollow,agonism.winner
+9I4,4G6,FearGrm,Male,Male,2019-06-12,JN,focalfollow,agonism.winner
+60V,juvenile female,FearGrm,Female,Unknown,2019-06-13,JN,focalfollow,agonism.winner
+95V,82Z,avoid,Female,Female,2019-06-13,JN,focalfollow,agonism.winner
+0H3,0G9,noncontactAgg,Male,Male,2019-06-17,JN,focalfollow,agonism.winner
+0H3,7M7,avoid,Male,Male,2019-06-17,JN,focalfollow,agonism.winner
+1F0,juvenile female,avoid,Male,Unknown,2019-06-17,JN,focalfollow,agonism.winner
+2D4,juvenile male,noncontactAgg,Female,Unknown,2019-06-17,JN,focalfollow,agonism.winner
+6O6,4G6,contactAgg,Male,Male,2019-06-17,JN,focalfollow,agonism.winner
+6O6,juvenile female,threat,Male,Unknown,2019-06-17,JN,focalfollow,agonism.winner
+7M5,infant,contactAgg,Female,Unknown,2019-06-17,JN,overtime,agonism.winner
+0C9,2L6,avoid,Male,Male,2019-06-18,JN,focalfollow,agonism.winner
+0C9,9I4,contactAgg,Male,Male,2019-06-18,JN,focalfollow,agonism.winner
+2G8,juvenile female,noncontactAgg,Female,Unknown,2019-06-18,JN,focalfollow,agonism.winner
+2G8,juvenile male,displace,Female,Unknown,2019-06-18,JN,focalfollow,agonism.winner
+3K1,juvenile male,displace,Male,Unknown,2019-06-18,JN,focalfollow,agonism.winner
+67Z,juvenile female,avoid,Male,Unknown,2019-06-18,JN,focalfollow,agonism.winner
+6I7,4P3,displace,Male,Female,2019-06-18,JN,focalfollow,agonism.winner
+7H0,juvenile female,avoid,Male,Unknown,2019-06-18,JN,focalfollow,agonism.winner
+7H0,juvenile male,displace,Male,Unknown,2019-06-18,JN,focalfollow,agonism.winner
+9I4,juvenile male,threat,Male,Unknown,2019-06-18,JN,focalfollow,agonism.winner
+0G9,8I6,threat,Male,Female,2019-06-19,JN,focalfollow,agonism.winner
+48L,juvenile female,avoid,Male,Unknown,2019-06-19,JN,focalfollow,agonism.winner
+48L,juvenile male,avoid,Male,Unknown,2019-06-19,JN,focalfollow,agonism.winner
+48L,60V,avoid,Male,Female,2019-06-19,JN,focalfollow,agonism.winner
+4P4,juvenile,noncontactAgg,Female,Unknown,2019-06-19,JN,focalfollow,agonism.winner
+7F7,9O5,displace,Female,Male,2019-06-19,JN,focalfollow,agonism.winner
+7F7,2G8,noncontactAgg,Female,Female,2019-06-19,JN,focalfollow,agonism.winner
+7M4,juvenile,avoid,Male,Unknown,2019-06-19,JN,focalfollow,agonism.winner
+7M4,6M9,displace,Male,Female,2019-06-19,JN,focalfollow,agonism.winner
+7M4,juvenile male,displace,Male,Unknown,2019-06-19,JN,focalfollow,agonism.winner
+9I4,5P2,FearGrm,Male,Male,2019-06-19,JN,overtime,agonism.winner
+2G8,juvenile female,threat,Female,Unknown,2019-06-20,JN,focalfollow,agonism.winner
+3D1,7I4,displace,Female,Female,2019-06-20,JN,focalfollow,agonism.winner
+3O0,juvenile female,contactAgg,Female,Unknown,2019-06-20,JN,focalfollow,agonism.winner
+60V,juvenile female,avoid,Female,Unknown,2019-06-20,JN,focalfollow,agonism.winner
+95V,7L1,displace,Female,Female,2019-06-20,JN,focalfollow,agonism.winner
+3I6,juvenile male,threat,Male,Unknown,2019-06-21,JN,focalfollow,agonism.winner
+4A9,6O9,avoid,Female,Female,2019-06-21,JN,focalfollow,agonism.winner
+6O9,juvenile female,contactAgg,Female,Unknown,2019-06-21,JN,focalfollow,agonism.winner
+6O9,4I3,noncontactAgg,Female,Female,2019-06-21,JN,focalfollow,agonism.winner
+7M7,juvenile male,displace,Male,Unknown,2019-06-21,JN,focalfollow,agonism.winner
+0G9,7M7,displace,Male,Male,2019-06-25,JN,focalfollow,agonism.winner
+2B4,6O9,displace,Female,Female,2019-06-25,JN,focalfollow,agonism.winner
+3H6,juvenile female,noncontactAgg,Female,Unknown,2019-06-25,JN,focalfollow,agonism.winner
+3K1,3I6,displace,Male,Male,2019-06-25,JN,focalfollow,agonism.winner
+5E4,juvenile male,avoid,Male,Unknown,2019-06-25,JN,focalfollow,agonism.winner
+5P1,8M0,FearGrm,Female,Female,2019-06-25,JN,focalfollow,agonism.winner
+5P1,juvenile female,FearGrm,Female,Unknown,2019-06-25,JN,focalfollow,agonism.winner
+7B3,60V,displace,Male,Female,2019-06-25,JN,focalfollow,agonism.winner
+9O5,95V,displace,Male,Female,2019-06-25,JN,focalfollow,agonism.winner
+0G9,82Z,avoid,Male,Female,2019-06-26,JN,focalfollow,agonism.winner
+0G9,3K1,displace,Male,Male,2019-06-26,JN,focalfollow,agonism.winner
+2I1,juvenile female,threat,Male,Unknown,2019-06-26,JN,focalfollow,agonism.winner
+33V,98V,displace,Female,Female,2019-06-26,JN,focalfollow,agonism.winner
+48L,juvenile male,avoid,Male,Unknown,2019-06-26,JN,focalfollow,agonism.winner
+48L,9O5,avoid,Male,Male,2019-06-26,JN,focalfollow,agonism.winner
+48L,juvenile male,avoid,Male,Unknown,2019-06-26,JN,focalfollow,agonism.winner
+7F7,7A9,displace,Female,Female,2019-06-26,JN,focalfollow,agonism.winner
+7F7,3B8,displace,Female,Female,2019-06-26,JN,focalfollow,agonism.winner
+7M7,adult female,displace,Male,Unknown,2019-06-26,JN,focalfollow,agonism.winner
+7M7,infant,contactAgg,Male,Unknown,2019-06-26,JN,focalfollow,agonism.winner
+7M7,infant,contactAgg,Male,Unknown,2019-06-26,JN,focalfollow,agonism.winner
+7M7,juvenile male,noncontactAgg,Male,Unknown,2019-06-26,JN,focalfollow,agonism.winner
+7O1,9I4,displace,Male,Male,2019-06-26,JN,focalfollow,agonism.winner
+7O1,9I4,displace,Male,Male,2019-06-26,JN,focalfollow,agonism.winner
+8M6,juvenile female,displace,Female,Unknown,2019-06-26,JN,focalfollow,agonism.winner
+3H6,91V,threat,Female,Female,2019-06-27,JN,focalfollow,agonism.winner
+4M2,9L6,FearGrm,Female,Female,2019-06-27,JN,focalfollow,agonism.winner
+5A1,unknown,threat,Female,Unknown,2019-06-27,JN,focalfollow,agonism.winner
+5H6,1K8,threat,Female,Female,2019-06-27,JN,focalfollow,agonism.winner
+5H6,juvenile male,displace,Female,Unknown,2019-06-27,JN,focalfollow,agonism.winner
+6M9,2D1,avoid,Female,Female,2019-06-27,JN,focalfollow,agonism.winner
+6M9,4H3,Submit,Female,Female,2019-06-27,JN,focalfollow,agonism.winner
+6O6,juvenile male,noncontactAgg,Male,Unknown,2019-06-27,JN,focalfollow,agonism.winner
+6O6,4P4,avoid,Male,Female,2019-06-27,JN,focalfollow,agonism.winner
+7L1,98V,avoid,Female,Female,2019-06-27,JN,focalfollow,agonism.winner
+7M9,juvenile female,FearGrm,Female,Unknown,2019-06-27,JN,focalfollow,agonism.winner
+95V,adult male,threat,Female,Unknown,2019-06-27,JN,focalfollow,agonism.winner
+95V,3H6,displace,Female,Female,2019-06-27,JN,focalfollow,agonism.winner
+9O5,juvenile male,displace,Male,Unknown,2019-07-02,JN,focalfollow,agonism.winner
+3D4,infant,threat,Female,Unknown,2019-07-04,JN,focalfollow,agonism.winner
+3I6,juvenile male,noncontactAgg,Male,Unknown,2019-07-04,JN,focalfollow,agonism.winner
+3I6,juvenile male,noncontactAgg,Male,Unknown,2019-07-04,JN,focalfollow,agonism.winner
+3K1,juvenile male,threat,Male,Unknown,2019-07-04,JN,focalfollow,agonism.winner
+60V,juvenile male,noncontactAgg,Female,Unknown,2019-07-04,JN,focalfollow,agonism.winner
+60V,98V,FearGrm,Female,Female,2019-07-04,JN,focalfollow,agonism.winner
+67Z,infant,noncontactAgg,Male,Unknown,2019-07-04,JN,focalfollow,agonism.winner
+6I7,7M7,threat,Male,Male,2019-07-04,JN,focalfollow,agonism.winner
+6M8,2D1,displace,Male,Female,2019-07-04,JN,focalfollow,agonism.winner
+9I4,juvenile,displace,Male,Unknown,2019-07-04,JN,focalfollow,agonism.winner
+9O5,7M5,FearGrm,Male,Female,2019-07-04,JN,focalfollow,agonism.winner
+0G1,juvenile female,displace,Male,Unknown,2019-07-05,JN,focalfollow,agonism.winner
+0P2,juvenile female,avoid,Female,Unknown,2019-07-05,JN,focalfollow,agonism.winner
+4P3,juvenile,noncontactAgg,Female,Unknown,2019-07-05,JN,focalfollow,agonism.winner
+6M8,4G6,displace,Male,Male,2019-07-05,JN,focalfollow,agonism.winner
+88N,7M5,avoid,Female,Female,2019-07-05,JN,focalfollow,agonism.winner
+88N,3G2,displace,Female,Female,2019-07-05,JN,focalfollow,agonism.winner
+9I3,8M2,displace,Female,Female,2019-07-05,JN,focalfollow,agonism.winner
+0G1,7H0,avoid,Male,Male,2019-07-08,JN,focalfollow,agonism.winner
+0P2,juvenile female,displace,Female,Unknown,2019-07-08,JN,focalfollow,agonism.winner
+2G8,9L6,contactAgg,Female,Female,2019-07-08,JN,focalfollow,agonism.winner
+3H6,juvenile female,displace,Female,Unknown,2019-07-08,JN,focalfollow,agonism.winner
+5P2,0I7,displace,Male,Female,2019-07-08,JN,focalfollow,agonism.winner
+7O1,adult male,avoid,Male,Unknown,2019-07-08,JN,focalfollow,agonism.winner
+0B4,3O0,contactAgg,Female,Female,2019-07-09,JN,focalfollow,agonism.winner
+0G9,juvenile male,contactAgg,Male,Unknown,2019-07-09,JN,focalfollow,agonism.winner
+0I7,juvenile female,noncontactAgg,Female,Unknown,2019-07-09,JN,focalfollow,agonism.winner
+2C6,1B4,displace,Male,Female,2019-07-09,JN,focalfollow,agonism.winner
+2I1,4G6,FearGrm,Male,Male,2019-07-09,JN,focalfollow,agonism.winner
+3K1,82V,FearGrm,Male,Female,2019-07-09,JN,focalfollow,agonism.winner
+3L9,juvenile female,noncontactAgg,Female,Unknown,2019-07-09,JN,focalfollow,agonism.winner
+4P4,infant,threat,Female,Unknown,2019-07-09,JN,focalfollow,agonism.winner
+53N,0P2,FearGrm,Male,Female,2019-07-09,JN,focalfollow,agonism.winner
+6J4,7M5,displace,Female,Female,2019-07-09,JN,focalfollow,agonism.winner
+7M4,juvenile male,displace,Male,Unknown,2019-07-09,JN,focalfollow,agonism.winner
+3H6,juvenile male,noncontactAgg,Female,Unknown,2019-07-10,JN,focalfollow,agonism.winner
+67Z,juvenile male,noncontactAgg,Male,Unknown,2019-07-10,JN,focalfollow,agonism.winner
+7M5,82V,displace,Female,Female,2019-07-10,JN,focalfollow,agonism.winner
+97R,2D1,displace,Female,Female,2019-07-10,JN,focalfollow,agonism.winner
+9I4,juvenile female,Submit,Male,Unknown,2019-07-10,JN,focalfollow,agonism.winner
+9O5,0P2,displace,Male,Female,2019-07-10,JN,focalfollow,agonism.winner
+9O5,4H7,FearGrm,Male,Female,2019-07-10,JN,focalfollow,agonism.winner
+0H3,juvenile female,avoid,Male,Unknown,2019-07-11,JN,focalfollow,agonism.winner
+0J9,0H3,displace,Male,Male,2019-07-11,JN,focalfollow,agonism.winner
+1B4,3G2,threat,Female,Female,2019-07-11,JN,focalfollow,agonism.winner
+3B9,4P9,noncontactAgg,Male,Female,2019-07-11,JN,focalfollow,agonism.winner
+3H6,7M5,Submit,Female,Female,2019-07-11,JN,focalfollow,agonism.winner
+3I4,juvenile female,displace,Female,Unknown,2019-07-11,JN,focalfollow,agonism.winner
+3I6,3B9,avoid,Male,Male,2019-07-11,JN,focalfollow,agonism.winner
+3I6,juvenile male,noncontactAgg,Male,Unknown,2019-07-11,JN,focalfollow,agonism.winner
+48L,9L6,displace,Male,Female,2019-07-11,JN,focalfollow,agonism.winner
+7M5,2B1,avoid,Female,Female,2019-07-11,JN,focalfollow,agonism.winner
+91V,98V,avoid,Female,Female,2019-07-11,JN,focalfollow,agonism.winner
+9L6,82V,FearGrm,Female,Female,2019-07-11,JN,focalfollow,agonism.winner
+4G6,2D1,avoid,Male,Female,2019-07-12,JN,focalfollow,agonism.winner
+4G6,juvenile female,contactAgg,Male,Unknown,2019-07-12,JN,focalfollow,agonism.winner
+4G6,4P9,avoid,Male,Female,2019-07-12,JN,focalfollow,agonism.winner
+4G6,7A9,avoid,Male,Female,2019-07-12,JN,focalfollow,agonism.winner
+4G6,juvenile female,contactAgg,Male,Unknown,2019-07-12,JN,focalfollow,agonism.winner
+4G6,7M7,FearGrm,Male,Male,2019-07-12,JN,focalfollow,agonism.winner
+4G6,7M7,displace,Male,Male,2019-07-12,JN,focalfollow,agonism.winner
+6O6,0J9,displace,Male,Male,2019-07-12,JN,focalfollow,agonism.winner
+6O6,3B9,avoid,Male,Male,2019-07-12,JN,focalfollow,agonism.winner
+97R,juvenile male,threat,Female,Unknown,2019-07-12,JN,focalfollow,agonism.winner
+9C7,6J4,displace,Female,Female,2019-07-12,JN,focalfollow,agonism.winner
+9O5,0I7,avoid,Male,Female,2019-07-12,JN,focalfollow,agonism.winner
+9O5,7A9,avoid,Male,Female,2019-07-12,JN,focalfollow,agonism.winner
+0P2,juvenile,threat,Female,Unknown,2019-07-16,JN,focalfollow,agonism.winner
+0P2,juvenile female,noncontactAgg,Female,Unknown,2019-07-16,JN,focalfollow,agonism.winner
+3I4,infant,noncontactAgg,Female,Unknown,2019-07-16,JN,focalfollow,agonism.winner
+5H6,7M5,threat,Female,Female,2019-07-16,JN,focalfollow,agonism.winner
+2I1,6I7,avoid,Male,Male,2019-07-17,JN,focalfollow,agonism.winner
+3G2,3L9,displace,Female,Female,2019-07-17,JN,focalfollow,agonism.winner
+5A1,juvenile male,noncontactAgg,Female,Unknown,2019-07-17,JN,focalfollow,agonism.winner
+5E4,juvenile male,noncontactAgg,Male,Unknown,2019-07-17,JN,focalfollow,agonism.winner
+5E4,3I6,displace,Male,Male,2019-07-17,JN,focalfollow,agonism.winner
+95V,3L9,displace,Female,Female,2019-07-17,JN,focalfollow,agonism.winner
+95V,juvenile female,displace,Female,Unknown,2019-07-17,JN,focalfollow,agonism.winner
+0B4,3B8,avoid,Female,Female,2019-07-18,JN,focalfollow,agonism.winner
+0B4,97R,avoid,Female,Female,2019-07-18,JN,focalfollow,agonism.winner
+0C9,9I4,FearGrm,Male,Male,2019-07-18,JN,focalfollow,agonism.winner
+0C9,8M0,Submit,Male,Female,2019-07-18,JN,focalfollow,agonism.winner
+0C9,juvenile male,contactAgg,Male,Unknown,2019-07-18,JN,focalfollow,agonism.winner
+3B9,juvenile male,FearGrm,Male,Unknown,2019-07-18,JN,focalfollow,agonism.winner
+3H6,6O9,displace,Female,Female,2019-07-18,JN,focalfollow,agonism.winner
+3K1,4H3,noncontactAgg,Male,Female,2019-07-18,JN,focalfollow,agonism.winner
+4G6,juvenile female,noncontactAgg,Male,Unknown,2019-07-18,JN,focalfollow,agonism.winner
+4G6,7H0,avoid,Male,Male,2019-07-18,JN,focalfollow,agonism.winner
+6J4,infant,contactAgg,Female,Unknown,2019-07-18,JN,focalfollow,agonism.winner
+7A9,juvenile female,displace,Female,Unknown,2019-07-18,JN,focalfollow,agonism.winner
+7A9,97R,displace,Female,Female,2019-07-18,JN,focalfollow,agonism.winner
+7F7,juvenile female,contactAgg,Female,Unknown,2019-07-18,JN,focalfollow,agonism.winner
+7H0,6M9,contactAgg,Male,Female,2019-07-18,JN,focalfollow,agonism.winner
+7M7,juvenile male,avoid,Male,Unknown,2019-07-18,JN,focalfollow,agonism.winner
+8M6,juvenile male,displace,Female,Unknown,2019-07-18,JN,focalfollow,agonism.winner
+3I4,3G2,contactAgg,Female,Female,2019-07-19,JN,focalfollow,agonism.winner
+3I4,juvenile female,threat,Female,Unknown,2019-07-19,JN,overtime,agonism.winner
+3I6,juvenile male,displace,Male,Unknown,2019-07-19,JN,focalfollow,agonism.winner
+3I6,88N,avoid,Male,Female,2019-07-19,JN,focalfollow,agonism.winner
+8M2,juvenile female,displace,Female,Unknown,2019-07-19,JN,focalfollow,agonism.winner
+8M6,juvenile female,displace,Female,Unknown,2019-07-19,JN,focalfollow,agonism.winner
+48L,60V,avoid,Male,Female,2019-07-20,JN,focalfollow,agonism.winner
+67Z,0C9,displace,Male,Male,2019-07-20,JN,focalfollow,agonism.winner
+7H0,juvenile male,noncontactAgg,Male,Unknown,2019-07-20,JN,focalfollow,agonism.winner
+0J9,juvenile female,noncontactAgg,Male,Unknown,2019-07-23,JN,focalfollow,agonism.winner
+2C6,juvenile male,FearGrm,Male,Unknown,2019-07-23,JN,focalfollow,agonism.winner
+4A9,4H3,displace,Female,Female,2019-07-23,JN,focalfollow,agonism.winner
+4A9,juvenile female,displace,Female,Unknown,2019-07-23,JN,focalfollow,agonism.winner
+7A9,9C7,avoid,Female,Female,2019-07-23,JN,focalfollow,agonism.winner
+7O1,juvenile male,contactAgg,Male,Unknown,2019-07-23,JN,focalfollow,agonism.winner
+7O1,juvenile female,contactAgg,Male,Unknown,2019-07-23,JN,focalfollow,agonism.winner
+7O1,4H3,displace,Male,Female,2019-07-23,JN,focalfollow,agonism.winner
+3K1,juvenile male,threat,Male,Unknown,2019-07-24,JN,focalfollow,agonism.winner
+3K1,infant,contactAgg,Male,Unknown,2019-07-24,JN,focalfollow,agonism.winner
+5P2,juvenile male,threat,Male,Unknown,2019-07-24,JN,focalfollow,agonism.winner
+7M4,0G9,FearGrm,Male,Male,2019-07-24,JN,focalfollow,agonism.winner
+0I7,juvenile female,displace,Female,Unknown,2019-08-01,JN,focalfollow,agonism.winner
+1F0,0C9,avoid,Male,Male,2019-08-01,JN,focalfollow,agonism.winner
+4G6,juvenile female,avoid,Male,Unknown,2019-08-01,JN,focalfollow,agonism.winner
+6M8,juvenile male,noncontactAgg,Male,Unknown,2019-08-01,JN,focalfollow,agonism.winner
+6O6,4G6,avoid,Male,Male,2019-08-01,JN,focalfollow,agonism.winner
+7L1,4A9,FearGrm,Female,Female,2019-08-01,JN,focalfollow,agonism.winner
+7L1,5A1,displace,Female,Female,2019-08-01,JN,focalfollow,agonism.winner
+98V,3D1,avoid,Female,Female,2019-08-01,JN,focalfollow,agonism.winner
+2C6,4G6,FearGrm,Male,Male,2019-08-05,JN,focalfollow,agonism.winner
+3B9,juvenile female,threat,Male,Unknown,2019-08-05,JN,focalfollow,agonism.winner
+48L,5E4,contactAgg,Male,Male,2019-08-05,JN,focalfollow,agonism.winner
+48L,6M8,avoid,Male,Male,2019-08-05,JN,focalfollow,agonism.winner
+4I3,7M5,threat,Female,Female,2019-08-05,JN,focalfollow,agonism.winner
+6M9,7M4,noncontactAgg,Female,Male,2019-08-05,JN,focalfollow,agonism.winner
+7M7,juvenile male,threat,Male,Unknown,2019-08-05,JN,focalfollow,agonism.winner
+8I6,3B8,noncontactAgg,Female,Female,2019-08-05,JN,focalfollow,agonism.winner
+9I4,11Z,avoid,Male,Male,2019-08-05,JN,focalfollow,agonism.winner
+1F0,juvenile male,avoid,Male,Unknown,2019-08-06,JN,focalfollow,agonism.winner
+4G6,juvenile male,Submit,Male,Unknown,2019-08-06,JN,focalfollow,agonism.winner
+3L9,74K,displace,Female,Female,2019-08-07,JN,focalfollow,agonism.winner
+7I4,7M5,noncontactAgg,Female,Female,2019-08-07,JN,focalfollow,agonism.winner
+7M7,2I1,displace,Male,Male,2019-08-07,JN,focalfollow,agonism.winner
+8I6,juvenile female,displace,Female,Unknown,2019-08-07,JN,focalfollow,agonism.winner
+9L6,8M2,contactAgg,Female,Female,2019-08-07,JN,focalfollow,agonism.winner
+0H3,3K1,displace,Male,Male,2019-08-09,JN,focalfollow,agonism.winner
+0H3,juvenile male,displace,Male,Unknown,2019-08-09,JN,focalfollow,agonism.winner
+0I7,5P1,displace,Female,Female,2019-08-09,JN,focalfollow,agonism.winner
+2I1,0H3,displace,Male,Male,2019-08-09,JN,focalfollow,agonism.winner
+2I1,juvenile male,avoid,Male,Unknown,2019-08-09,JN,focalfollow,agonism.winner
+2I1,3K1,avoid,Male,Male,2019-08-09,JN,focalfollow,agonism.winner
+3B9,7A9,FearGrm,Male,Female,2019-08-09,JN,focalfollow,agonism.winner
+67Z,7O1,noncontactAgg,Male,Male,2019-08-09,JN,focalfollow,agonism.winner
+6I7,0H3,avoid,Male,Male,2019-08-09,JN,focalfollow,agonism.winner
+95V,juvenile male,FearGrm,Female,Unknown,2019-08-09,JN,focalfollow,agonism.winner
+95V,juvenile male,noncontactAgg,Female,Unknown,2019-08-09,JN,focalfollow,agonism.winner
+09Z,9O5,Submit,Female,Male,2019-08-12,JN,focalfollow,agonism.winner
+3O0,juvenile male,displace,Female,Unknown,2019-08-12,JN,focalfollow,agonism.winner
+48L,3D4,avoid,Male,Female,2019-08-12,JN,focalfollow,agonism.winner
+5P2,5A1,displace,Male,Female,2019-08-12,JN,focalfollow,agonism.winner
+5P2,3L9,displace,Male,Female,2019-08-12,JN,focalfollow,agonism.winner
+5P2,juvenile female,displace,Male,Unknown,2019-08-12,JN,focalfollow,agonism.winner
+5P2,0I7,avoid,Male,Female,2019-08-12,JN,focalfollow,agonism.winner
+77V,juvenile female,displace,Female,Unknown,2019-08-12,JN,focalfollow,agonism.winner
+7F7,juvenile female,threat,Female,Unknown,2019-08-12,JN,focalfollow,agonism.winner
+09Z,2G8,avoid,Female,Female,2019-08-13,JN,focalfollow,agonism.winner
+2G8,98V,FearGrm,Female,Female,2019-08-13,JN,focalfollow,agonism.winner
+2G8,juvenile female,avoid,Female,Unknown,2019-08-13,JN,focalfollow,agonism.winner
+38Z,6M9,displace,Female,Female,2019-08-13,JN,focalfollow,agonism.winner
+3B8,7M5,contactAgg,Female,Female,2019-08-13,JN,focalfollow,agonism.winner
+4M2,juvenile female,avoid,Female,Unknown,2019-08-13,JN,focalfollow,agonism.winner
+4M2,juvenile male,threat,Female,Unknown,2019-08-13,JN,focalfollow,agonism.winner
+4P9,juvenile male,noncontactAgg,Female,Unknown,2019-08-13,JN,focalfollow,agonism.winner
+53N,4G6,FearGrm,Male,Male,2019-08-13,JN,focalfollow,agonism.winner
+6I7,3I4,Submit,Male,Female,2019-08-13,JN,focalfollow,agonism.winner
+7H0,juvenile male,threat,Male,Unknown,2019-08-13,JN,focalfollow,agonism.winner
+88N,82Z,Submit,Female,Female,2019-08-13,JN,focalfollow,agonism.winner
+88N,82Z,displace,Female,Female,2019-08-13,JN,focalfollow,agonism.winner
+0C9,5P1,avoid,Male,Female,2019-08-14,JN,focalfollow,agonism.winner
+0P2,4H7,displace,Female,Female,2019-08-14,JN,focalfollow,agonism.winner
+2G8,juvenile male,threat,Female,Unknown,2019-08-14,JN,focalfollow,agonism.winner
+2G8,juvenile female,noncontactAgg,Female,Unknown,2019-08-14,JN,focalfollow,agonism.winner
+2L6,3I6,noncontactAgg,Male,Male,2019-08-14,JN,focalfollow,agonism.winner
+2L6,11Z,avoid,Male,Male,2019-08-14,JN,focalfollow,agonism.winner
+2L6,9L6,FearGrm,Male,Female,2019-08-14,JN,focalfollow,agonism.winner
+2P0,91V,displace,Female,Female,2019-08-14,JN,focalfollow,agonism.winner
+5P2,juvenile,displace,Male,Unknown,2019-08-14,JN,focalfollow,agonism.winner
+7M9,2D1,noncontactAgg,Female,Female,2019-08-14,JN,focalfollow,agonism.winner
+2G8,82Z,displace,Female,Female,2019-08-16,JN,focalfollow,agonism.winner
+3I4,juvenile female,threat,Female,Unknown,2019-08-16,JN,focalfollow,agonism.winner
+9L6,juvenile female,displace,Female,Unknown,2019-08-16,JN,focalfollow,agonism.winner
+9L6,6J4,displace,Female,Female,2019-08-16,JN,focalfollow,agonism.winner
+3I6,3B9,avoid,Male,Male,2019-08-19,JN,focalfollow,agonism.winner
+6M9,5H6,avoid,Female,Female,2019-08-19,JN,focalfollow,agonism.winner
+1B4,3G2,avoid,Female,Female,2019-08-20,JN,focalfollow,agonism.winner
+4M2,5H6,displace,Female,Female,2019-08-20,JN,focalfollow,agonism.winner
+9O5,juvenile female,FearGrm,Male,Unknown,2019-08-20,JN,focalfollow,agonism.winner
+3H6,4M2,avoid,Female,Female,2019-08-21,JN,focalfollow,agonism.winner
+3H6,5P1,avoid,Female,Female,2019-08-21,JN,focalfollow,agonism.winner
+4G6,1K8,noncontactAgg,Male,Female,2019-08-21,JN,focalfollow,agonism.winner
+5P2,juvenile female,noncontactAgg,Male,Unknown,2019-08-21,JN,focalfollow,agonism.winner
+5P2,juvenile female,threat,Male,Unknown,2019-08-21,JN,focalfollow,agonism.winner
+6M8,juvenile male,avoid,Male,Unknown,2019-08-21,JN,focalfollow,agonism.winner
+6M8,juvenile male,avoid,Male,Unknown,2019-08-21,JN,focalfollow,agonism.winner
+7O1,6J4,noncontactAgg,Male,Female,2019-08-21,JN,focalfollow,agonism.winner
+7O1,juvenile female,displace,Male,Unknown,2019-08-21,JN,focalfollow,agonism.winner
+2B4,juvenile female,threat,Female,Unknown,2019-08-22,JN,focalfollow,agonism.winner
+5P1,juvenile,noncontactAgg,Female,Unknown,2019-08-22,JN,focalfollow,agonism.winner
+6I7,88N,threat,Male,Female,2019-08-22,JN,focalfollow,agonism.winner
+6I7,juvenile male,noncontactAgg,Male,Unknown,2019-08-22,JN,focalfollow,agonism.winner
+6I7,0G9,avoid,Male,Male,2019-08-22,JN,focalfollow,agonism.winner
+6M8,0H3,FearGrm,Male,Male,2019-08-22,JN,focalfollow,agonism.winner
+7I4,juvenile male,threat,Female,Unknown,2019-08-22,JN,focalfollow,agonism.winner
+7O1,4H3,avoid,Male,Female,2019-08-22,JN,focalfollow,agonism.winner
+7O1,juvenile male,avoid,Male,Unknown,2019-08-22,JN,focalfollow,agonism.winner
+7O1,4H3,noncontactAgg,Male,Female,2019-08-22,JN,focalfollow,agonism.winner
+0H3,juvenile female,displace,Male,Unknown,2019-08-23,JN,focalfollow,agonism.winner
+0J9,4I3,threat,Male,Female,2019-08-23,JN,focalfollow,agonism.winner
+0P2,juvenile male,noncontactAgg,Female,Unknown,2019-08-23,JN,focalfollow,agonism.winner
+48L,74K,contactAgg,Male,Female,2019-08-23,JN,focalfollow,agonism.winner
+4H3,2D4,displace,Female,Female,2019-08-23,JN,focalfollow,agonism.winner
+6M9,6O9,FearGrm,Female,Female,2019-08-23,JN,focalfollow,agonism.winner
+2D1,2D4,displace,Female,Female,2019-08-26,JN,focalfollow,agonism.winner
+2D4,82V,displace,Female,Female,2019-08-26,JN,focalfollow,agonism.winner
+2D4,82V,noncontactAgg,Female,Female,2019-08-26,JN,focalfollow,agonism.winner
+3D1,82V,displace,Female,Female,2019-08-26,JN,focalfollow,agonism.winner
+3G2,juvenile female,displace,Female,Unknown,2019-08-26,JN,focalfollow,agonism.winner
+3G2,juvenile female,displace,Female,Unknown,2019-08-26,JN,focalfollow,agonism.winner
+3K1,3B9,displace,Male,Male,2019-08-26,JN,focalfollow,agonism.winner
+7O1,juvenile male,noncontactAgg,Male,Unknown,2019-08-26,JN,focalfollow,agonism.winner
+9O5,4H3,avoid,Male,Female,2019-08-26,JN,focalfollow,agonism.winner
+2G8,4A9,Submit,Female,Female,2019-09-09,JN,focalfollow,agonism.winner
+4H7,juvenile female,avoid,Female,Unknown,2019-09-09,JN,focalfollow,agonism.winner
+60V,74K,avoid,Female,Female,2019-09-09,JN,focalfollow,agonism.winner
+6I7,98V,threat,Male,Female,2019-09-09,JN,focalfollow,agonism.winner
+7A9,juvenile female,noncontactAgg,Female,Unknown,2019-09-09,JN,focalfollow,agonism.winner
+7A9,3I4,avoid,Female,Female,2019-09-09,JN,focalfollow,agonism.winner
+0I7,5P1,contactAgg,Female,Female,2019-09-10,JN,focalfollow,agonism.winner
+0J9,juvenile male,avoid,Male,Unknown,2019-09-10,JN,focalfollow,agonism.winner
+2I1,3B9,FearGrm,Male,Male,2019-09-10,JN,focalfollow,agonism.winner
+5P2,4H3,avoid,Male,Female,2019-09-10,JN,focalfollow,agonism.winner
+5P2,4P3,displace,Male,Female,2019-09-10,JN,focalfollow,agonism.winner
+0J9,juvenile male,avoid,Male,Unknown,2019-09-12,JN,focalfollow,agonism.winner
+3L9,4P4,noncontactAgg,Female,Female,2019-09-12,JN,focalfollow,agonism.winner
+3L9,juvenile female,displace,Female,Unknown,2019-09-12,JN,focalfollow,agonism.winner
+4G6,infant,threat,Male,Unknown,2019-09-12,JN,focalfollow,agonism.winner
+5A1,infant,contactAgg,Female,Unknown,2019-09-12,JN,focalfollow,agonism.winner
+7M5,juvenile female,displace,Female,Unknown,2019-09-12,JN,focalfollow,agonism.winner
+0G9,juvenile male,threat,Male,Unknown,2019-09-13,JN,focalfollow,agonism.winner
+4P3,8I6,avoid,Female,Female,2019-09-13,JN,focalfollow,agonism.winner
+4P3,juvenile female,avoid,Female,Unknown,2019-09-13,JN,focalfollow,agonism.winner
+5E4,juvenile female,avoid,Male,Unknown,2019-09-13,JN,focalfollow,agonism.winner
+5E4,82V,FearGrm,Male,Female,2019-09-13,JN,focalfollow,agonism.winner
+6J4,2L6,noncontactAgg,Female,Male,2019-09-13,JN,focalfollow,agonism.winner
+77V,infant,noncontactAgg,Female,Unknown,2019-09-13,JN,focalfollow,agonism.winner
+7B3,juvenile male,noncontactAgg,Male,Unknown,2019-09-13,JN,focalfollow,agonism.winner
+7B3,8I6,FearGrm,Male,Female,2019-09-13,JN,focalfollow,agonism.winner
+2G8,juvenile,noncontactAgg,Female,Unknown,2019-09-16,JN,focalfollow,agonism.winner
+3G2,3D4,threat,Female,Female,2019-09-16,JN,focalfollow,agonism.winner
+5P2,0G9,contactAgg,Male,Male,2019-09-16,JN,focalfollow,agonism.winner
+5P2,0G9,FearGrm,Male,Male,2019-09-16,JN,focalfollow,agonism.winner
+7B3,juvenile male,contactAgg,Male,Unknown,2019-09-16,JN,focalfollow,agonism.winner
+7M4,8M5,avoid,Male,Male,2019-09-16,JN,focalfollow,agonism.winner
+7M4,juvenile female,avoid,Male,Unknown,2019-09-16,JN,focalfollow,agonism.winner
+95V,7I4,avoid,Female,Female,2019-09-16,JN,focalfollow,agonism.winner
+9O5,9I3,contactAgg,Male,Female,2019-09-16,JN,focalfollow,agonism.winner
+9O5,4M2,avoid,Male,Female,2019-09-16,JN,focalfollow,agonism.winner
+2D1,infant,contactAgg,Female,Unknown,2019-09-18,JN,focalfollow,agonism.winner
+6M8,6O9,displace,Male,Female,2019-09-18,JN,focalfollow,agonism.winner
+7M9,0C9,threat,Female,Male,2019-09-18,JN,focalfollow,agonism.winner
+7O1,juvenile female,avoid,Male,Unknown,2019-09-18,JN,focalfollow,agonism.winner
+7O1,97R,avoid,Male,Female,2019-09-18,JN,focalfollow,agonism.winner
+7O1,5E4,FearGrm,Male,Male,2019-09-18,JN,focalfollow,agonism.winner
+7O1,82Z,avoid,Male,Female,2019-09-18,JN,focalfollow,agonism.winner
+7O1,5E4,FearGrm,Male,Male,2019-09-18,JN,focalfollow,agonism.winner
+7O1,4I3,displace,Male,Female,2019-09-18,JN,focalfollow,agonism.winner
+1F0,juvenile male,contactAgg,Male,Unknown,2019-09-19,JN,focalfollow,agonism.winner
+4A9,juvenile female,displace,Female,Unknown,2019-09-19,JN,focalfollow,agonism.winner
+4A9,juvenile male,displace,Female,Unknown,2019-09-19,JN,focalfollow,agonism.winner
+53N,juvenile female,threat,Male,Unknown,2019-09-19,JN,focalfollow,agonism.winner
+5A1,juvenile female,noncontactAgg,Female,Unknown,2019-09-19,JN,focalfollow,agonism.winner
+6C6,juvenile female,noncontactAgg,Male,Unknown,2019-09-19,JN,focalfollow,agonism.winner
+0B4,4P3,avoid,Female,Female,2019-09-20,JN,focalfollow,agonism.winner
+6M8,juvenile male,avoid,Male,Unknown,2019-09-20,JN,focalfollow,agonism.winner
+6M8,6I7,avoid,Male,Male,2019-09-20,JN,focalfollow,agonism.winner
+6M8,6I7,displace,Male,Male,2019-09-20,JN,focalfollow,agonism.winner
+9O5,juvenile male,avoid,Male,Unknown,2019-09-20,JN,focalfollow,agonism.winner
+0C9,juvenile female,contactAgg,Male,Unknown,2019-09-27,JN,focalfollow,agonism.winner
+2B4,juvenile female,contactAgg,Female,Unknown,2019-09-27,JN,focalfollow,agonism.winner
+3G2,juvenile,displace,Female,Unknown,2019-09-27,JN,focalfollow,agonism.winner
+3I4,0G1,threat,Female,Male,2019-09-27,JN,focalfollow,agonism.winner
+3I6,95V,noncontactAgg,Male,Female,2019-09-27,JN,focalfollow,agonism.winner
+3L9,7I4,avoid,Female,Female,2019-09-27,JN,focalfollow,agonism.winner
+4G6,3B9,displace,Male,Male,2019-09-27,JN,focalfollow,agonism.winner
+4I3,3D4,avoid,Female,Female,2019-09-27,JN,focalfollow,agonism.winner
+5E4,4H7,threat,Male,Female,2019-09-27,JN,focalfollow,agonism.winner
+6O6,11Z,FearGrm,Male,Male,2019-09-27,JN,focalfollow,agonism.winner
+7B3,juvenile female,noncontactAgg,Male,Unknown,2019-09-27,JN,focalfollow,agonism.winner
+7H0,97R,avoid,Male,Female,2019-09-27,JN,focalfollow,agonism.winner
+7H0,juvenile female,Submit,Male,Unknown,2019-09-27,JN,focalfollow,agonism.winner
+7M5,juvenile female,avoid,Female,Unknown,2019-09-27,JN,focalfollow,agonism.winner
+7M5,juvenile female,displace,Female,Unknown,2019-09-27,JN,focalfollow,agonism.winner
+7M7,juvenile female,FearGrm,Male,Unknown,2019-09-27,JN,focalfollow,agonism.winner
+8M0,3D1,noncontactAgg,Female,Female,2019-09-27,JN,focalfollow,agonism.winner
+9I4,juvenile male,noncontactAgg,Male,Unknown,2019-09-27,JN,focalfollow,agonism.winner
+2C6,juvenile male,displace,Male,Unknown,2019-09-30,JN,focalfollow,agonism.winner
+2C6,38Z,contactAgg,Male,Female,2019-09-30,JN,focalfollow,agonism.winner
+2P0,infant,contactAgg,Female,Unknown,2019-09-30,JN,focalfollow,agonism.winner
+38Z,3L9,displace,Female,Female,2019-09-30,JN,focalfollow,agonism.winner
+3K1,1B4,threat,Male,Female,2019-09-30,JN,focalfollow,agonism.winner
+6M9,3D4,noncontactAgg,Female,Female,2019-09-30,JN,focalfollow,agonism.winner
+7L1,juvenile female,contactAgg,Female,Unknown,2019-09-30,JN,focalfollow,agonism.winner
+9I4,6O6,avoid,Male,Male,2019-09-30,JN,focalfollow,agonism.winner
+09Z,97R,threat,Female,Female,2019-10-01,JN,focalfollow,agonism.winner
+0C9,juvenile male,avoid,Male,Unknown,2019-10-01,JN,focalfollow,agonism.winner
+0C9,33V,noncontactAgg,Male,Female,2019-10-01,JN,focalfollow,agonism.winner
+0C9,2G8,threat,Male,Female,2019-10-01,JN,focalfollow,agonism.winner
+0C9,juvenile male,avoid,Male,Unknown,2019-10-01,JN,focalfollow,agonism.winner
+3K1,juvenile male,avoid,Male,Unknown,2019-10-01,JN,focalfollow,agonism.winner
+3O0,7M5,displace,Female,Female,2019-10-01,JN,focalfollow,agonism.winner
+6I7,juvenile female,contactAgg,Male,Unknown,2019-10-01,JN,focalfollow,agonism.winner
+6O9,juvenile female,avoid,Female,Unknown,2019-10-01,JN,focalfollow,agonism.winner
+77V,91V,avoid,Female,Female,2019-10-01,JN,focalfollow,agonism.winner
+9C7,1B4,contactAgg,Female,Female,2019-10-01,JN,focalfollow,agonism.winner
+9O5,4M2,displace,Male,Female,2019-10-01,JN,focalfollow,agonism.winner
+9O5,juvenile female,displace,Male,Unknown,2019-10-01,JN,focalfollow,agonism.winner
+09Z,juvenile female,Submit,Female,Unknown,2019-10-02,JN,focalfollow,agonism.winner
+0G9,juvenile female,displace,Male,Unknown,2019-10-02,JN,focalfollow,agonism.winner
+3B8,0J9,threat,Female,Male,2019-10-02,JN,focalfollow,agonism.winner
+4A9,juvenile female,noncontactAgg,Female,Unknown,2019-10-02,JN,focalfollow,agonism.winner
+4A9,3I4,Submit,Female,Female,2019-10-02,JN,focalfollow,agonism.winner
+4A9,2B4,Submit,Female,Female,2019-10-02,JN,focalfollow,agonism.winner
+5A1,juvenile male,avoid,Female,Unknown,2019-10-02,JN,focalfollow,agonism.winner
+6J4,6O9,displace,Female,Female,2019-10-02,JN,focalfollow,agonism.winner
+6J4,juvenile female,displace,Female,Unknown,2019-10-02,JN,focalfollow,agonism.winner
+8M6,8I6,avoid,Female,Female,2019-10-02,JN,focalfollow,agonism.winner
+2L6,4P3,avoid,Male,Female,2019-10-03,JN,focalfollow,agonism.winner
+2L6,juvenile female,displace,Male,Unknown,2019-10-03,JN,focalfollow,agonism.winner
+3O0,juvenile female,Submit,Female,Unknown,2019-10-03,JN,focalfollow,agonism.winner
+5A1,juvenile female,avoid,Female,Unknown,2019-10-03,JN,focalfollow,agonism.winner
+5P2,4P9,displace,Male,Female,2019-10-03,JN,focalfollow,agonism.winner
+7H0,juvenile male,avoid,Male,Unknown,2019-10-03,JN,focalfollow,agonism.winner
+7H0,3L9,displace,Male,Female,2019-10-03,JN,focalfollow,agonism.winner
+7H0,5A1,displace,Male,Female,2019-10-03,JN,focalfollow,agonism.winner
+7H0,juvenile female,displace,Male,Unknown,2019-10-03,JN,focalfollow,agonism.winner
+82Z,juvenile female,threat,Female,Unknown,2019-10-03,JN,focalfollow,agonism.winner
+82Z,juvenile female,threat,Female,Unknown,2019-10-03,JN,focalfollow,agonism.winner
+8M0,juvenile male,noncontactAgg,Female,Unknown,2019-10-03,JN,focalfollow,agonism.winner
+9O5,juvenile male,avoid,Male,Unknown,2019-10-03,JN,focalfollow,agonism.winner
+9O5,juvenile male,displace,Male,Unknown,2019-10-03,JN,focalfollow,agonism.winner
+2I1,2L6,contactAgg,Male,Male,2019-10-04,JN,focalfollow,agonism.winner
+2I1,2L6,Submit,Male,Male,2019-10-04,JN,focalfollow,agonism.winner
+33V,juvenile female,displace,Female,Unknown,2019-10-04,JN,focalfollow,agonism.winner
+3H6,5A1,avoid,Female,Female,2019-10-04,JN,focalfollow,agonism.winner
+3H6,3L9,displace,Female,Female,2019-10-04,JN,focalfollow,agonism.winner
+3H6,juvenile female,FearGrm,Female,Unknown,2019-10-04,JN,focalfollow,agonism.winner
+7M5,11Z,noncontactAgg,Female,Male,2019-10-04,JN,focalfollow,agonism.winner
+7M5,2I1,threat,Female,Male,2019-10-04,JN,focalfollow,agonism.winner
+2L6,9I3,displace,Male,Female,2019-10-09,JN,focalfollow,agonism.winner
+6K2,88N,displace,Male,Female,2019-02-05,JN,focalfollow,agonism.loser
+9M2,0G9,FearGrm,Male,Male,2019-02-06,JN,focalfollow,agonism.loser
+9M2,0G9,displace,Male,Male,2019-02-06,JN,focalfollow,agonism.loser
+7H0,0H3,avoid,Male,Male,2019-02-06,JN,focalfollow,agonism.loser
+adult male,0H3,FearGrm,Unknown,Male,2019-02-06,JN,focalfollow,agonism.loser
+juvenile female,2B1,avoid,Unknown,Female,2019-02-06,JN,focalfollow,agonism.loser
+adult male,2B1,avoid,Unknown,Female,2019-02-06,JN,focalfollow,agonism.loser
+7F7,2P0,threat,Female,Female,2019-02-06,JN,focalfollow,agonism.loser
+38Z,3B8,avoid,Female,Female,2019-02-06,JN,focalfollow,agonism.loser
+6M8,3B8,avoid,Male,Female,2019-02-06,JN,focalfollow,agonism.loser
+3G2,3D4,displace,Female,Female,2019-02-06,JN,focalfollow,agonism.loser
+43P,3D4,avoid,Male,Female,2019-02-06,JN,focalfollow,agonism.loser
+2C6,4G6,FearGrm,Male,Male,2019-02-06,JN,focalfollow,agonism.loser
+6I7,4H7,displace,Male,Female,2019-02-06,JN,focalfollow,agonism.loser
+82V,4I3,threat,Female,Female,2019-02-06,JN,focalfollow,agonism.loser
+88N,4I3,Submit,Female,Female,2019-02-06,JN,focalfollow,agonism.loser
+6I7,4P4,avoid,Male,Female,2019-02-06,JN,focalfollow,agonism.loser
+9I4,6I7,avoid,Male,Male,2019-02-06,JN,focalfollow,agonism.loser
+7M4,6M8,Submit,Male,Male,2019-02-06,JN,focalfollow,agonism.loser
+09Z,6O6,noncontactAgg,Female,Male,2019-02-06,JN,focalfollow,agonism.loser
+7M9,6O6,noncontactAgg,Female,Male,2019-02-06,JN,focalfollow,agonism.loser
+5E4,8M0,avoid,Male,Female,2019-02-06,JN,focalfollow,agonism.loser
+9C7,8M6,noncontactAgg,Female,Female,2019-02-06,JN,focalfollow,agonism.loser
+6C6,95V,Submit,Male,Female,2019-02-06,JN,focalfollow,agonism.loser
+53N,95V,FearGrm,Male,Female,2019-02-06,JN,focalfollow,agonism.loser
+adult male,9L6,FearGrm,Unknown,Female,2019-02-06,JN,focalfollow,agonism.loser
+33V,9O5,threat,Female,Male,2019-02-06,JN,focalfollow,agonism.loser
+5L1,0B4,avoid,Male,Female,2019-02-07,JN,focalfollow,agonism.loser
+7M4,3I4,Submit,Male,Female,2019-02-07,JN,focalfollow,agonism.loser
+9I4,3I4,avoid,Male,Female,2019-02-07,JN,focalfollow,agonism.loser
+9I4,3I4,FearGrm,Male,Female,2019-02-07,JN,focalfollow,agonism.loser
+6O6,4P3,Submit,Male,Female,2019-02-07,JN,focalfollow,agonism.loser
+4A9,4P3,displace,Female,Female,2019-02-07,JN,focalfollow,agonism.loser
+82V,4P3,avoid,Female,Female,2019-02-07,JN,focalfollow,agonism.loser
+2I1,74K,avoid,Male,Female,2019-02-07,JN,focalfollow,agonism.loser
+7M4,1B4,displace,Male,Female,2019-02-11,JN,focalfollow,agonism.loser
+9I4,1B4,displace,Male,Female,2019-02-11,JN,focalfollow,agonism.loser
+6I7,2D1,FearGrm,Male,Female,2019-02-11,JN,focalfollow,agonism.loser
+adult male,2D4,FearGrm,Unknown,Female,2019-02-11,JN,focalfollow,agonism.loser
+7B3,2D4,avoid,Male,Female,2019-02-11,JN,focalfollow,agonism.loser
+6M8,2L6,FearGrm,Male,Male,2019-02-11,JN,focalfollow,agonism.loser
+6C6,2L6,avoid,Male,Male,2019-02-11,JN,focalfollow,agonism.loser
+4P9,38Z,avoid,Female,Female,2019-02-11,JN,focalfollow,agonism.loser
+48L,38Z,avoid,Male,Female,2019-02-11,JN,focalfollow,agonism.loser
+4M2,4H3,avoid,Female,Female,2019-02-11,JN,focalfollow,agonism.loser
+adult male,5P1,FearGrm,Unknown,Female,2019-02-11,JN,focalfollow,agonism.loser
+0J9,7I4,avoid,Male,Female,2019-02-11,JN,focalfollow,agonism.loser
+2C6,8M2,threat,Male,Female,2019-02-11,JN,focalfollow,agonism.loser
+9I4,8M2,Submit,Male,Female,2019-02-11,JN,focalfollow,agonism.loser
+0J9,8M5,displace,Male,Male,2019-02-11,JN,focalfollow,agonism.loser
+4G6,1K8,avoid,Male,Female,2019-02-12,JN,focalfollow,agonism.loser
+adult male,2B1,avoid,Unknown,Female,2019-02-12,JN,focalfollow,agonism.loser
+juvenile female,2B4,avoid,Unknown,Female,2019-02-12,JN,focalfollow,agonism.loser
+48L,3O0,avoid,Male,Female,2019-02-12,JN,focalfollow,agonism.loser
+0G1,3O0,avoid,Male,Female,2019-02-12,JN,focalfollow,agonism.loser
+0J9,5P1,avoid,Male,Female,2019-02-12,JN,focalfollow,agonism.loser
+juvenile male,5P1,noncontactAgg,Unknown,Female,2019-02-12,JN,focalfollow,agonism.loser
+5P2,7H0,displace,Male,Male,2019-02-12,JN,focalfollow,agonism.loser
+48L,7M4,avoid,Male,Male,2019-02-12,JN,focalfollow,agonism.loser
+2G8,7M4,noncontactAgg,Female,Male,2019-02-12,JN,focalfollow,agonism.loser
+2B4,8M5,threat,Female,Male,2019-02-12,JN,focalfollow,agonism.loser
+0C9,9I4,avoid,Male,Male,2019-02-12,JN,focalfollow,agonism.loser
+7M9,2P0,FearGrm,Female,Female,2019-02-13,JN,focalfollow,agonism.loser
+0H3,5H6,avoid,Male,Female,2019-02-13,JN,focalfollow,agonism.loser
+0H3,5H6,avoid,Male,Female,2019-02-13,JN,focalfollow,agonism.loser
+juvenile male,6M9,noncontactAgg,Unknown,Female,2019-02-13,JN,focalfollow,agonism.loser
+5E4,2D1,avoid,Male,Female,2019-02-18,JN,focalfollow,agonism.loser
+60V,4P4,avoid,Female,Female,2019-02-18,JN,focalfollow,agonism.loser
+2G8,4P4,avoid,Female,Female,2019-02-18,JN,focalfollow,agonism.loser
+2I1,6J4,avoid,Male,Female,2019-02-18,JN,focalfollow,agonism.loser
+9E6,11Z,FearGrm,Male,Male,2019-02-19,JN,focalfollow,agonism.loser
+7B3,11Z,avoid,Male,Male,2019-02-19,JN,focalfollow,agonism.loser
+67Z,1B4,FearGrm,Male,Female,2019-02-19,JN,focalfollow,agonism.loser
+77V,1B4,contactAgg,Female,Female,2019-02-19,JN,focalfollow,agonism.loser
+2C6,4P3,Submit,Male,Female,2019-02-19,JN,focalfollow,agonism.loser
+67Z,95V,avoid,Male,Female,2019-02-19,JN,focalfollow,agonism.loser
+67Z,95V,noncontactAgg,Male,Female,2019-02-19,JN,focalfollow,agonism.loser
+adult male,98V,FearGrm,Unknown,Female,2019-02-19,JN,focalfollow,agonism.loser
+7M4,9O5,avoid,Male,Male,2019-02-19,JN,focalfollow,agonism.loser
+juvenile male,0C9,avoid,Unknown,Male,2019-02-20,JN,focalfollow,agonism.loser
+67Z,1B4,FearGrm,Male,Female,2019-02-20,JN,focalfollow,agonism.loser
+4M2,1B4,displace,Female,Female,2019-02-20,JN,focalfollow,agonism.loser
+juvenile female,3D4,displace,Unknown,Female,2019-02-20,JN,focalfollow,agonism.loser
+6O6,4A9,avoid,Male,Female,2019-02-20,JN,focalfollow,agonism.loser
+9E6,5P2,noncontactAgg,Male,Male,2019-02-20,JN,focalfollow,agonism.loser
+8H0,82Z,avoid,Male,Female,2019-02-20,JN,focalfollow,agonism.loser
+7O1,88N,FearGrm,Male,Female,2019-02-20,JN,focalfollow,agonism.loser
+7O1,88N,noncontactAgg,Male,Female,2019-02-20,JN,focalfollow,agonism.loser
+7O1,88N,noncontactAgg,Male,Female,2019-02-20,JN,focalfollow,agonism.loser
+juvenile male,6J4,noncontactAgg,Unknown,Female,2019-02-22,JN,focalfollow,agonism.loser
+9O5,77V,FearGrm,Male,Female,2019-02-22,JN,focalfollow,agonism.loser
+3B9,7A9,FearGrm,Male,Female,2019-02-22,JN,focalfollow,agonism.loser
+77V,0P2,contactAgg,Female,Female,2019-02-25,JN,focalfollow,agonism.loser
+7O1,1K8,Submit,Male,Female,2019-02-25,JN,focalfollow,agonism.loser
+3D1,1K8,displace,Female,Female,2019-02-25,JN,focalfollow,agonism.loser
+88N,2D4,avoid,Female,Female,2019-02-25,JN,focalfollow,agonism.loser
+adult male,2D4,avoid,Unknown,Female,2019-02-25,JN,focalfollow,agonism.loser
+88N,2D4,FearGrm,Female,Female,2019-02-25,JN,focalfollow,agonism.loser
+9I4,4H7,avoid,Male,Female,2019-02-25,JN,focalfollow,agonism.loser
+3H6,4M2,avoid,Female,Female,2019-02-25,JN,focalfollow,agonism.loser
+9C7,7F7,avoid,Female,Female,2019-02-25,JN,focalfollow,agonism.loser
+6M8,9C7,avoid,Male,Female,2019-02-25,JN,focalfollow,agonism.loser
+7H0,0B4,avoid,Male,Female,2019-02-26,JN,focalfollow,agonism.loser
+77V,0B4,threat,Female,Female,2019-02-26,JN,focalfollow,agonism.loser
+9O5,2D4,FearGrm,Male,Female,2019-02-26,JN,focalfollow,agonism.loser
+7M4,2I1,FearGrm,Male,Male,2019-02-26,JN,focalfollow,agonism.loser
+8C0,4P3,noncontactAgg,Male,Female,2019-02-26,JN,focalfollow,agonism.loser
+1F0,4P3,Submit,Male,Female,2019-02-26,JN,focalfollow,agonism.loser
+adult male,4P4,displace,Unknown,Female,2019-02-26,JN,focalfollow,agonism.loser
+0G1,5E6,avoid,Male,Male,2019-02-26,JN,focalfollow,agonism.loser
+3B9,5E6,threat,Male,Male,2019-02-26,JN,focalfollow,agonism.loser
+5A1,5H6,displace,Female,Female,2019-02-26,JN,focalfollow,agonism.loser
+4E6,6I7,avoid,Male,Male,2019-02-26,JN,focalfollow,agonism.loser
+9O5,91V,displace,Male,Female,2019-02-26,JN,focalfollow,agonism.loser
+juvenile male,91V,contactAgg,Unknown,Female,2019-02-26,JN,focalfollow,agonism.loser
+7H0,98V,avoid,Male,Female,2019-02-26,JN,focalfollow,agonism.loser
+7B3,9I3,avoid,Male,Female,2019-02-26,JN,focalfollow,agonism.loser
+5E4,2D1,avoid,Male,Female,2019-02-27,JN,focalfollow,agonism.loser
+3K1,2G8,FearGrm,Male,Female,2019-02-27,JN,focalfollow,agonism.loser
+0C9,3H6,displace,Male,Female,2019-02-27,JN,focalfollow,agonism.loser
+9I4,3L9,noncontactAgg,Male,Female,2019-02-27,JN,focalfollow,agonism.loser
+1G9,4I3,contactAgg,Male,Female,2019-02-27,JN,focalfollow,agonism.loser
+7M4,6J4,threat,Male,Female,2019-02-27,JN,focalfollow,agonism.loser
+7M4,6J4,Submit,Male,Female,2019-02-27,JN,focalfollow,agonism.loser
+unknown,6J4,noncontactAgg,Unknown,Female,2019-02-27,JN,focalfollow,agonism.loser
+juvenile male,7A9,contactAgg,Unknown,Female,2019-02-27,JN,focalfollow,agonism.loser
+juvenile male,7B3,avoid,Unknown,Male,2019-02-27,JN,focalfollow,agonism.loser
+0J9,7L1,avoid,Male,Female,2019-02-27,JN,focalfollow,agonism.loser
+8H0,82Z,contactAgg,Male,Female,2019-02-27,JN,focalfollow,agonism.loser
+juvenile male,8I6,contactAgg,Unknown,Female,2019-02-27,JN,focalfollow,agonism.loser
+48L,8M0,noncontactAgg,Male,Female,2019-02-27,JN,focalfollow,agonism.loser
+0C9,8M0,avoid,Male,Female,2019-02-27,JN,focalfollow,agonism.loser
+5E4,0I7,displace,Male,Female,2019-02-28,JN,focalfollow,agonism.loser
+2P0,0P2,noncontactAgg,Female,Female,2019-02-28,JN,focalfollow,agonism.loser
+7F7,2P0,displace,Female,Female,2019-02-28,JN,focalfollow,agonism.loser
+48L,3D4,avoid,Male,Female,2019-02-28,JN,focalfollow,agonism.loser
+2D4,3D4,displace,Female,Female,2019-02-28,JN,focalfollow,agonism.loser
+48L,3D4,avoid,Male,Female,2019-02-28,JN,focalfollow,agonism.loser
+0P2,3O0,avoid,Female,Female,2019-02-28,JN,focalfollow,agonism.loser
+0J9,7H0,contactAgg,Male,Male,2019-02-28,JN,focalfollow,agonism.loser
+7O1,82V,avoid,Male,Female,2019-02-28,JN,focalfollow,agonism.loser
+67Z,82V,avoid,Male,Female,2019-02-28,JN,focalfollow,agonism.loser
+6I7,8M6,avoid,Male,Female,2019-02-28,JN,focalfollow,agonism.loser
+6I7,8M6,avoid,Male,Female,2019-02-28,JN,focalfollow,agonism.loser
+7O1,0H3,FearGrm,Male,Male,2019-03-04,JN,focalfollow,agonism.loser
+5A1,0H3,avoid,Female,Male,2019-03-04,JN,focalfollow,agonism.loser
+0G1,0P2,displace,Male,Female,2019-03-04,JN,focalfollow,agonism.loser
+0C9,0P2,avoid,Male,Female,2019-03-04,JN,focalfollow,agonism.loser
+8M5,1B4,FearGrm,Male,Female,2019-03-04,JN,focalfollow,agonism.loser
+0H3,1B4,FearGrm,Male,Female,2019-03-04,JN,focalfollow,agonism.loser
+9O9,1B4,avoid,Male,Female,2019-03-04,JN,focalfollow,agonism.loser
+1F0,2D1,avoid,Male,Female,2019-03-04,JN,focalfollow,agonism.loser
+7M4,2D1,avoid,Male,Female,2019-03-04,JN,focalfollow,agonism.loser
+7M4,2D1,displace,Male,Female,2019-03-04,JN,focalfollow,agonism.loser
+1F0,3O0,avoid,Male,Female,2019-03-04,JN,focalfollow,agonism.loser
+3L9,4H7,displace,Female,Female,2019-03-04,JN,focalfollow,agonism.loser
+3L9,4H7,displace,Female,Female,2019-03-04,JN,focalfollow,agonism.loser
+3L9,4H7,displace,Female,Female,2019-03-04,JN,focalfollow,agonism.loser
+48L,5P2,avoid,Male,Male,2019-03-04,JN,focalfollow,agonism.loser
+7F7,6J4,avoid,Female,Female,2019-03-04,JN,focalfollow,agonism.loser
+67Z,7M9,avoid,Male,Female,2019-03-04,JN,focalfollow,agonism.loser
+67Z,7M9,noncontactAgg,Male,Female,2019-03-04,JN,focalfollow,agonism.loser
+3L9,8M2,displace,Female,Female,2019-03-04,JN,focalfollow,agonism.loser
+adult male,8M5,FearGrm,Unknown,Male,2019-03-04,JN,focalfollow,agonism.loser
+juvenile female,1F0,avoid,Unknown,Male,2019-03-06,JN,focalfollow,agonism.loser
+adult male,2D4,FearGrm,Unknown,Female,2019-03-06,JN,focalfollow,agonism.loser
+67Z,2G8,avoid,Male,Female,2019-03-06,JN,focalfollow,agonism.loser
+67Z,3H6,Submit,Male,Female,2019-03-06,JN,focalfollow,agonism.loser
+3B9,4I3,FearGrm,Male,Female,2019-03-06,JN,focalfollow,agonism.loser
+09Z,77V,displace,Female,Female,2019-03-06,JN,focalfollow,agonism.loser
+0H3,7I4,avoid,Male,Female,2019-03-06,JN,focalfollow,agonism.loser
+6O6,8M0,avoid,Male,Female,2019-03-06,JN,focalfollow,agonism.loser
+juvenile male,8M0,contactAgg,Unknown,Female,2019-03-06,JN,focalfollow,agonism.loser
+0G1,9L6,displace,Male,Female,2019-03-06,JN,focalfollow,agonism.loser
+0G1,9L6,avoid,Male,Female,2019-03-06,JN,focalfollow,agonism.loser
+67Z,0B4,avoid,Male,Female,2019-03-07,JN,focalfollow,agonism.loser
+67Z,0B4,displace,Male,Female,2019-03-07,JN,focalfollow,agonism.loser
+9I4,2I1,avoid,Male,Male,2019-03-07,JN,focalfollow,agonism.loser
+3K1,3B8,threat,Male,Female,2019-03-07,JN,focalfollow,agonism.loser
+3K1,3B8,noncontactAgg,Male,Female,2019-03-07,JN,focalfollow,agonism.loser
+48L,4H3,displace,Male,Female,2019-03-07,JN,focalfollow,agonism.loser
+juvenile male,4H3,avoid,Unknown,Female,2019-03-07,JN,focalfollow,agonism.loser
+3B9,4P3,avoid,Male,Female,2019-03-07,JN,focalfollow,agonism.loser
+48L,5P1,FearGrm,Male,Female,2019-03-07,JN,focalfollow,agonism.loser
+4G6,5P1,avoid,Male,Female,2019-03-07,JN,focalfollow,agonism.loser
+4A9,67Z,noncontactAgg,Female,Male,2019-03-07,JN,focalfollow,agonism.loser
+4G6,74K,FearGrm,Male,Female,2019-03-07,JN,focalfollow,agonism.loser
+3H6,7I4,FearGrm,Female,Female,2019-03-07,JN,focalfollow,agonism.loser
+3L9,8M2,noncontactAgg,Female,Female,2019-03-07,JN,focalfollow,agonism.loser
+7H0,0G9,noncontactAgg,Male,Male,2019-03-08,JN,focalfollow,agonism.loser
+9I3,0G9,avoid,Female,Male,2019-03-08,JN,focalfollow,agonism.loser
+9I4,1B4,avoid,Male,Female,2019-03-08,JN,focalfollow,agonism.loser
+8H0,1K8,FearGrm,Male,Female,2019-03-08,JN,focalfollow,agonism.loser
+2I1,1K8,avoid,Male,Female,2019-03-08,JN,focalfollow,agonism.loser
+7F7,1K8,avoid,Female,Female,2019-03-08,JN,focalfollow,agonism.loser
+7F7,1K8,FearGrm,Female,Female,2019-03-08,JN,focalfollow,agonism.loser
+7M4,1K8,FearGrm,Male,Female,2019-03-08,JN,focalfollow,agonism.loser
+6M8,1K8,FearGrm,Male,Female,2019-03-08,JN,focalfollow,agonism.loser
+6O6,2D1,avoid,Male,Female,2019-03-08,JN,focalfollow,agonism.loser
+91V,38Z,avoid,Female,Female,2019-03-08,JN,focalfollow,agonism.loser
+4P4,3D1,avoid,Female,Female,2019-03-08,JN,focalfollow,agonism.loser
+9L6,3D1,noncontactAgg,Female,Female,2019-03-08,JN,focalfollow,agonism.loser
+48L,3I4,avoid,Male,Female,2019-03-08,JN,focalfollow,agonism.loser
+48L,3I4,avoid,Male,Female,2019-03-08,JN,focalfollow,agonism.loser
+2C6,4G6,FearGrm,Male,Male,2019-03-08,JN,focalfollow,agonism.loser
+6M8,4P9,avoid,Male,Female,2019-03-08,JN,focalfollow,agonism.loser
+3O0,60V,displace,Female,Female,2019-03-08,JN,focalfollow,agonism.loser
+48L,60V,avoid,Male,Female,2019-03-08,JN,focalfollow,agonism.loser
+7F7,6J4,avoid,Female,Female,2019-03-08,JN,focalfollow,agonism.loser
+2L6,7H0,FearGrm,Male,Male,2019-03-08,JN,focalfollow,agonism.loser
+2L6,7H0,avoid,Male,Male,2019-03-08,JN,focalfollow,agonism.loser
+53N,7O1,avoid,Male,Male,2019-03-08,JN,focalfollow,agonism.loser
+6M8,82V,avoid,Male,Female,2019-03-08,JN,focalfollow,agonism.loser
+6K2,88N,avoid,Male,Female,2019-03-08,JN,focalfollow,agonism.loser
+0G1,8I6,avoid,Male,Female,2019-03-08,JN,focalfollow,agonism.loser
+48L,8M0,avoid,Male,Female,2019-03-08,JN,focalfollow,agonism.loser
+7D2,8M5,Submit,Male,Male,2019-03-08,JN,focalfollow,agonism.loser
+0J9,09Z,avoid,Male,Female,2019-03-11,JN,focalfollow,agonism.loser
+5P2,09Z,avoid,Male,Female,2019-03-11,JN,focalfollow,agonism.loser
+juvenile male,2B4,avoid,Unknown,Female,2019-03-11,JN,focalfollow,agonism.loser
+2I1,2D1,FearGrm,Male,Female,2019-03-11,JN,focalfollow,agonism.loser
+2I1,2D1,avoid,Male,Female,2019-03-11,JN,focalfollow,agonism.loser
+3K1,2D4,avoid,Male,Female,2019-03-11,JN,focalfollow,agonism.loser
+3K1,2D4,FearGrm,Male,Female,2019-03-11,JN,focalfollow,agonism.loser
+7B3,3G2,displace,Male,Female,2019-03-11,JN,focalfollow,agonism.loser
+4G6,3G2,avoid,Male,Female,2019-03-11,JN,focalfollow,agonism.loser
+4P4,3I4,avoid,Female,Female,2019-03-11,JN,focalfollow,agonism.loser
+juvenile female,3I4,avoid,Unknown,Female,2019-03-11,JN,focalfollow,agonism.loser
+4P4,3I4,avoid,Female,Female,2019-03-11,JN,focalfollow,agonism.loser
+2C6,3L9,threat,Male,Female,2019-03-11,JN,focalfollow,agonism.loser
+9O5,3O0,avoid,Male,Female,2019-03-11,JN,focalfollow,agonism.loser
+0H3,4P4,contactAgg,Male,Female,2019-03-11,JN,focalfollow,agonism.loser
+6M9,4P4,avoid,Female,Female,2019-03-11,JN,focalfollow,agonism.loser
+9O9,7M5,avoid,Male,Female,2019-03-11,JN,focalfollow,agonism.loser
+adult male,7M5,avoid,Unknown,Female,2019-03-11,JN,focalfollow,agonism.loser
+adult male,7M5,noncontactAgg,Unknown,Female,2019-03-11,JN,focalfollow,agonism.loser
+8H0,82Z,FearGrm,Male,Female,2019-03-11,JN,focalfollow,agonism.loser
+9E6,82Z,avoid,Male,Female,2019-03-11,JN,focalfollow,agonism.loser
+adult male,88N,FearGrm,Unknown,Female,2019-03-11,JN,focalfollow,agonism.loser
+4G6,88N,avoid,Male,Female,2019-03-11,JN,focalfollow,agonism.loser
+adult male,9I3,avoid,Unknown,Female,2019-03-11,JN,focalfollow,agonism.loser
+7O1,9O5,avoid,Male,Male,2019-03-11,JN,focalfollow,agonism.loser
+48L,1F0,avoid,Male,Male,2019-03-12,JN,focalfollow,agonism.loser
+juvenile female,1K8,noncontactAgg,Unknown,Female,2019-03-12,JN,focalfollow,agonism.loser
+7O1,2L6,avoid,Male,Male,2019-03-12,JN,focalfollow,agonism.loser
+3B9,33V,avoid,Male,Female,2019-03-12,JN,focalfollow,agonism.loser
+2I1,4H7,avoid,Male,Female,2019-03-12,JN,focalfollow,agonism.loser
+0C9,60V,avoid,Male,Female,2019-03-12,JN,focalfollow,agonism.loser
+1F0,7L1,avoid,Male,Female,2019-03-12,JN,focalfollow,agonism.loser
+4P4,9L6,displace,Female,Female,2019-03-12,JN,focalfollow,agonism.loser
+9I4,9L6,avoid,Male,Female,2019-03-12,JN,focalfollow,agonism.loser
+juvenile,0P2,avoid,Unknown,Female,2019-03-13,JN,focalfollow,agonism.loser
+6I7,1B4,FearGrm,Male,Female,2019-03-13,JN,focalfollow,agonism.loser
+6J4,1B4,avoid,Female,Female,2019-03-13,JN,focalfollow,agonism.loser
+7B3,2C6,displace,Male,Male,2019-03-13,JN,focalfollow,agonism.loser
+3H6,3D1,Submit,Female,Female,2019-03-13,JN,focalfollow,agonism.loser
+juvenile male,3D1,avoid,Unknown,Female,2019-03-13,JN,focalfollow,agonism.loser
+2I1,3D1,noncontactAgg,Male,Female,2019-03-13,JN,focalfollow,agonism.loser
+9O9,3D1,avoid,Male,Female,2019-03-13,JN,focalfollow,agonism.loser
+3H6,4H7,noncontactAgg,Female,Female,2019-03-13,JN,focalfollow,agonism.loser
+1B4,4H7,avoid,Female,Female,2019-03-13,JN,focalfollow,agonism.loser
+7O1,5E6,avoid,Male,Male,2019-03-13,JN,focalfollow,agonism.loser
+juvenile male,5E6,avoid,Unknown,Male,2019-03-13,JN,overtime,agonism.loser
+3K1,8I6,avoid,Male,Female,2019-03-13,JN,focalfollow,agonism.loser
+2G8,2B4,avoid,Female,Female,2019-03-14,JN,focalfollow,agonism.loser
+7L1,2B4,displace,Female,Female,2019-03-14,JN,focalfollow,agonism.loser
+juvenile female,2B4,avoid,Unknown,Female,2019-03-14,JN,focalfollow,agonism.loser
+9I4,3B9,avoid,Male,Male,2019-03-14,JN,focalfollow,agonism.loser
+adult male,3D4,noncontactAgg,Unknown,Female,2019-03-14,JN,focalfollow,agonism.loser
+12Z,3L9,avoid,Male,Female,2019-03-14,JN,focalfollow,agonism.loser
+12Z,3L9,avoid,Male,Female,2019-03-14,JN,focalfollow,agonism.loser
+6C6,4A9,FearGrm,Male,Female,2019-03-14,JN,focalfollow,agonism.loser
+6K2,4I3,avoid,Male,Female,2019-03-14,JN,focalfollow,agonism.loser
+7B3,4M2,avoid,Male,Female,2019-03-14,JN,focalfollow,agonism.loser
+0C9,5P2,threat,Male,Male,2019-03-14,JN,focalfollow,agonism.loser
+53N,5P2,avoid,Male,Male,2019-03-14,JN,focalfollow,agonism.loser
+0C9,6M8,FearGrm,Male,Male,2019-03-14,JN,focalfollow,agonism.loser
+67Z,6M8,FearGrm,Male,Male,2019-03-14,JN,focalfollow,agonism.loser
+2L6,6M9,noncontactAgg,Male,Female,2019-03-14,JN,focalfollow,agonism.loser
+adult male,6M9,avoid,Unknown,Female,2019-03-14,JN,focalfollow,agonism.loser
+38Z,6O6,threat,Female,Male,2019-03-14,JN,focalfollow,agonism.loser
+48L,77V,avoid,Male,Female,2019-03-14,JN,focalfollow,agonism.loser
+9C7,7I4,Submit,Female,Female,2019-03-14,JN,focalfollow,agonism.loser
+3B9,7I4,noncontactAgg,Male,Female,2019-03-14,JN,focalfollow,agonism.loser
+74K,97R,displace,Female,Female,2019-03-14,JN,focalfollow,agonism.loser
+6I7,97R,avoid,Male,Female,2019-03-14,JN,focalfollow,agonism.loser
+2I1,97R,avoid,Male,Female,2019-03-14,JN,focalfollow,agonism.loser
+7O1,0G1,avoid,Male,Male,2019-03-18,JN,focalfollow,agonism.loser
+48L,1K8,Submit,Male,Female,2019-03-18,JN,focalfollow,agonism.loser
+4P9,1K8,displace,Female,Female,2019-03-18,JN,focalfollow,agonism.loser
+4P9,1K8,threat,Female,Female,2019-03-18,JN,focalfollow,agonism.loser
+9L6,1K8,threat,Female,Female,2019-03-18,JN,focalfollow,agonism.loser
+1F0,33V,displace,Male,Female,2019-03-18,JN,focalfollow,agonism.loser
+7B3,3I4,avoid,Male,Female,2019-03-18,JN,focalfollow,agonism.loser
+6M8,3I4,noncontactAgg,Male,Female,2019-03-18,JN,focalfollow,agonism.loser
+adult male,3I4,avoid,Unknown,Female,2019-03-18,JN,focalfollow,agonism.loser
+juvenile male,4H3,avoid,Unknown,Female,2019-03-18,JN,focalfollow,agonism.loser
+juvenile female,4P3,displace,Unknown,Female,2019-03-18,JN,focalfollow,agonism.loser
+3H6,5A1,displace,Female,Female,2019-03-18,JN,focalfollow,agonism.loser
+1C2,6O6,avoid,Male,Male,2019-03-18,JN,focalfollow,agonism.loser
+adult male,6O6,avoid,Unknown,Male,2019-03-18,JN,focalfollow,agonism.loser
+5P2,7H0,avoid,Male,Male,2019-03-18,JN,focalfollow,agonism.loser
+3K1,82V,avoid,Male,Female,2019-03-18,JN,focalfollow,agonism.loser
+2D4,82V,displace,Female,Female,2019-03-18,JN,focalfollow,agonism.loser
+2D4,82V,avoid,Female,Female,2019-03-18,JN,focalfollow,agonism.loser
+3K1,8M2,avoid,Male,Female,2019-03-18,JN,focalfollow,agonism.loser
+7O1,8M2,FearGrm,Male,Female,2019-03-18,JN,focalfollow,agonism.loser
+6I7,8M6,avoid,Male,Female,2019-03-18,JN,focalfollow,agonism.loser
+3B9,8M6,Submit,Male,Female,2019-03-18,JN,focalfollow,agonism.loser
+5A1,8M6,avoid,Female,Female,2019-03-18,JN,focalfollow,agonism.loser
+2C6,95V,avoid,Male,Female,2019-03-18,JN,focalfollow,agonism.loser
+juvenile male,1B4,avoid,Unknown,Female,2019-03-19,JN,focalfollow,agonism.loser
+0J9,2L6,avoid,Male,Male,2019-03-19,JN,focalfollow,agonism.loser
+4P4,3D4,threat,Female,Female,2019-03-19,JN,focalfollow,agonism.loser
+adult male,3G2,displace,Unknown,Female,2019-03-19,JN,focalfollow,agonism.loser
+6K2,3G2,Submit,Male,Female,2019-03-19,JN,focalfollow,agonism.loser
+6M8,4H7,avoid,Male,Female,2019-03-19,JN,focalfollow,agonism.loser
+adult male,6O6,avoid,Unknown,Male,2019-03-19,JN,focalfollow,agonism.loser
+1H9,7M5,FearGrm,Male,Female,2019-03-19,JN,focalfollow,agonism.loser
+3K1,82Z,avoid,Male,Female,2019-03-19,JN,focalfollow,agonism.loser
+0J9,95V,avoid,Male,Female,2019-03-19,JN,focalfollow,agonism.loser
+2G8,0B4,displace,Female,Female,2019-03-20,JN,focalfollow,agonism.loser
+7M9,0B4,avoid,Female,Female,2019-03-20,JN,focalfollow,agonism.loser
+juvenile male,3D1,Submit,Unknown,Female,2019-03-20,JN,focalfollow,agonism.loser
+adult male,3D1,avoid,Unknown,Female,2019-03-20,JN,focalfollow,agonism.loser
+0I7,3L9,avoid,Female,Female,2019-03-20,JN,focalfollow,agonism.loser
+0C6,3O0,noncontactAgg,Female,Female,2019-03-20,JN,focalfollow,agonism.loser
+0J9,4P3,avoid,Male,Female,2019-03-20,JN,focalfollow,agonism.loser
+5E4,5H6,avoid,Male,Female,2019-03-20,JN,focalfollow,agonism.loser
+9O9,6J4,avoid,Male,Female,2019-03-20,JN,focalfollow,agonism.loser
+2I1,6O9,avoid,Male,Female,2019-03-20,JN,focalfollow,agonism.loser
+48L,6O9,avoid,Male,Female,2019-03-20,JN,focalfollow,agonism.loser
+7B3,6O9,avoid,Male,Female,2019-03-20,JN,focalfollow,agonism.loser
+9I4,7H0,FearGrm,Male,Male,2019-03-20,JN,focalfollow,agonism.loser
+6I7,7H0,noncontactAgg,Male,Male,2019-03-20,JN,focalfollow,agonism.loser
+adult male,7O1,FearGrm,Unknown,Male,2019-03-20,JN,focalfollow,agonism.loser
+48L,9I4,FearGrm,Male,Male,2019-03-20,JN,focalfollow,agonism.loser
+1F0,0P2,displace,Male,Female,2019-03-21,JN,focalfollow,agonism.loser
+juvenile male,2D4,avoid,Unknown,Female,2019-03-21,JN,focalfollow,agonism.loser
+95V,4H3,avoid,Female,Female,2019-03-21,JN,focalfollow,agonism.loser
+1F0,74K,avoid,Male,Female,2019-03-21,JN,focalfollow,agonism.loser
+juvenile female,82V,avoid,Unknown,Female,2019-03-21,JN,focalfollow,agonism.loser
+97R,8I6,displace,Female,Female,2019-03-21,JN,focalfollow,agonism.loser
+3B9,8I6,avoid,Male,Female,2019-03-21,JN,focalfollow,agonism.loser
+7O1,8M0,noncontactAgg,Male,Female,2019-03-21,JN,focalfollow,agonism.loser
+0C9,9O5,noncontactAgg,Male,Male,2019-03-21,JN,focalfollow,agonism.loser
+6M8,11Z,avoid,Male,Male,2019-03-22,JN,focalfollow,agonism.loser
+7A9,3B8,noncontactAgg,Female,Female,2019-03-22,JN,focalfollow,agonism.loser
+1B4,4P4,avoid,Female,Female,2019-03-22,JN,focalfollow,agonism.loser
+0C9,5P1,FearGrm,Male,Female,2019-03-22,JN,focalfollow,agonism.loser
+0G1,6J4,Submit,Male,Female,2019-03-22,JN,focalfollow,agonism.loser
+6O6,6J4,avoid,Male,Female,2019-03-22,JN,focalfollow,agonism.loser
+0C9,7L1,avoid,Male,Female,2019-03-22,JN,focalfollow,agonism.loser
+9O5,7L1,avoid,Male,Female,2019-03-22,JN,focalfollow,agonism.loser
+95V,7L1,displace,Female,Female,2019-03-22,JN,focalfollow,agonism.loser
+0C9,7L1,avoid,Male,Female,2019-03-22,JN,focalfollow,agonism.loser
+5P2,8M2,noncontactAgg,Male,Female,2019-03-22,JN,focalfollow,agonism.loser
+5P2,8M2,avoid,Male,Female,2019-03-22,JN,focalfollow,agonism.loser
+3L9,8M2,avoid,Female,Female,2019-03-22,JN,focalfollow,agonism.loser
+3B8,8M2,avoid,Female,Female,2019-03-22,JN,focalfollow,agonism.loser
+5P2,9C7,FearGrm,Male,Female,2019-03-22,JN,focalfollow,agonism.loser
+5P2,9C7,FearGrm,Male,Female,2019-03-22,JN,focalfollow,agonism.loser
+7H0,0H3,avoid,Male,Male,2019-03-25,JN,focalfollow,agonism.loser
+38Z,2B4,Submit,Female,Female,2019-03-25,JN,focalfollow,agonism.loser
+7F7,3O0,avoid,Female,Female,2019-03-25,JN,focalfollow,agonism.loser
+9I4,4G6,FearGrm,Male,Male,2019-03-25,JN,focalfollow,agonism.loser
+2L6,4H7,displace,Male,Female,2019-03-25,JN,focalfollow,agonism.loser
+5A1,4P4,contactAgg,Female,Female,2019-03-25,JN,focalfollow,agonism.loser
+juvenile female,4P4,displace,Unknown,Female,2019-03-25,JN,focalfollow,agonism.loser
+juvenile female,4P4,noncontactAgg,Unknown,Female,2019-03-25,JN,focalfollow,agonism.loser
+4G6,7H0,avoid,Male,Male,2019-03-25,JN,focalfollow,agonism.loser
+7M4,7H0,avoid,Male,Male,2019-03-25,JN,focalfollow,agonism.loser
+5A1,7H0,noncontactAgg,Female,Male,2019-03-25,JN,focalfollow,agonism.loser
+4G6,7H0,avoid,Male,Male,2019-03-25,JN,focalfollow,agonism.loser
+1B4,7M4,noncontactAgg,Female,Male,2019-03-25,JN,focalfollow,agonism.loser
+48L,7M5,avoid,Male,Female,2019-03-25,JN,focalfollow,agonism.loser
+0J9,7M5,FearGrm,Male,Female,2019-03-25,JN,focalfollow,agonism.loser
+7M4,88N,avoid,Male,Female,2019-03-25,JN,focalfollow,agonism.loser
+6K2,88N,avoid,Male,Female,2019-03-25,JN,focalfollow,agonism.loser
+0C9,8M2,FearGrm,Male,Female,2019-03-25,JN,focalfollow,agonism.loser
+60V,8M2,displace,Female,Female,2019-03-25,JN,focalfollow,agonism.loser
+09Z,9I3,Submit,Female,Female,2019-03-25,JN,focalfollow,agonism.loser
+5P2,9L6,Submit,Male,Female,2019-03-25,JN,focalfollow,agonism.loser
+juvenile female,9L6,avoid,Unknown,Female,2019-03-25,JN,focalfollow,agonism.loser
+6O6,9L6,noncontactAgg,Male,Female,2019-03-25,JN,focalfollow,agonism.loser
+1F0,09Z,avoid,Male,Female,2019-03-26,JN,focalfollow,agonism.loser
+9O5,0B4,displace,Male,Female,2019-03-26,JN,focalfollow,agonism.loser
+9O5,0B4,avoid,Male,Female,2019-03-26,JN,focalfollow,agonism.loser
+9O5,0B4,displace,Male,Female,2019-03-26,JN,focalfollow,agonism.loser
+3B9,2L6,FearGrm,Male,Male,2019-03-26,JN,focalfollow,agonism.loser
+1F0,3H6,avoid,Male,Female,2019-03-26,JN,focalfollow,agonism.loser
+6I7,3K1,displace,Male,Male,2019-03-26,JN,focalfollow,agonism.loser
+3H6,4H7,displace,Female,Female,2019-03-26,JN,focalfollow,agonism.loser
+adult male,5E6,noncontactAgg,Unknown,Male,2019-03-26,JN,focalfollow,agonism.loser
+4A9,5H6,avoid,Female,Female,2019-03-26,JN,focalfollow,agonism.loser
+67Z,5H6,avoid,Male,Female,2019-03-26,JN,focalfollow,agonism.loser
+3L9,5P1,displace,Female,Female,2019-03-26,JN,focalfollow,agonism.loser
+6O6,7H0,avoid,Male,Male,2019-03-26,JN,focalfollow,agonism.loser
+6J4,82Z,FearGrm,Female,Female,2019-03-26,JN,focalfollow,agonism.loser
+2I1,8M0,avoid,Male,Female,2019-03-26,JN,focalfollow,agonism.loser
+7M4,97R,avoid,Male,Female,2019-03-26,JN,focalfollow,agonism.loser
+7I4,2B1,avoid,Female,Female,2019-03-27,JN,focalfollow,agonism.loser
+2I1,4H3,avoid,Male,Female,2019-03-27,JN,focalfollow,agonism.loser
+7O1,4P3,displace,Male,Female,2019-03-27,JN,focalfollow,agonism.loser
+7B3,6J4,avoid,Male,Female,2019-03-27,JN,focalfollow,agonism.loser
+6M9,6J4,Submit,Female,Female,2019-03-27,JN,focalfollow,agonism.loser
+7O1,7A9,displace,Male,Female,2019-03-27,JN,focalfollow,agonism.loser
+9I4,7H0,avoid,Male,Male,2019-03-27,JN,focalfollow,agonism.loser
+7M4,7H0,displace,Male,Male,2019-03-27,JN,focalfollow,agonism.loser
+juvenile male,7L1,contactAgg,Unknown,Female,2019-03-27,JN,focalfollow,agonism.loser
+juvenile male,7L1,Submit,Unknown,Female,2019-03-27,JN,focalfollow,agonism.loser
+67Z,82V,displace,Male,Female,2019-03-27,JN,focalfollow,agonism.loser
+53N,91V,FearGrm,Male,Female,2019-03-27,JN,focalfollow,agonism.loser
+1F0,0C9,displace,Male,Male,2019-03-28,JN,focalfollow,agonism.loser
+7M4,38Z,noncontactAgg,Male,Female,2019-03-28,JN,focalfollow,agonism.loser
+2I1,3B8,avoid,Male,Female,2019-03-28,JN,focalfollow,agonism.loser
+2C6,3B8,FearGrm,Male,Female,2019-03-28,JN,focalfollow,agonism.loser
+juvenile female,3D4,noncontactAgg,Unknown,Female,2019-03-28,JN,focalfollow,agonism.loser
+7O1,3D4,avoid,Male,Female,2019-03-28,JN,focalfollow,agonism.loser
+9O5,3O0,contactAgg,Male,Female,2019-03-28,JN,focalfollow,agonism.loser
+adult male,4I3,avoid,Unknown,Female,2019-03-28,JN,focalfollow,agonism.loser
+7O1,4I3,avoid,Male,Female,2019-03-28,JN,focalfollow,agonism.loser
+7O1,4I3,avoid,Male,Female,2019-03-28,JN,focalfollow,agonism.loser
+7O1,5A1,avoid,Male,Female,2019-03-28,JN,focalfollow,agonism.loser
+7O1,88N,Submit,Male,Female,2019-03-28,JN,focalfollow,agonism.loser
+48L,2C6,FearGrm,Male,Male,2019-04-01,JN,focalfollow,agonism.loser
+3I4,2D4,displace,Female,Female,2019-04-01,JN,focalfollow,agonism.loser
+3I4,2D4,avoid,Female,Female,2019-04-01,JN,focalfollow,agonism.loser
+3I4,2D4,FearGrm,Female,Female,2019-04-01,JN,focalfollow,agonism.loser
+4G6,33V,displace,Male,Female,2019-04-01,JN,focalfollow,agonism.loser
+0G1,3D4,displace,Male,Female,2019-04-01,JN,focalfollow,agonism.loser
+6M9,3D4,displace,Female,Female,2019-04-01,JN,focalfollow,agonism.loser
+3I4,3D4,avoid,Female,Female,2019-04-01,JN,focalfollow,agonism.loser
+2L6,3D4,threat,Male,Female,2019-04-01,JN,focalfollow,agonism.loser
+48L,3K1,avoid,Male,Male,2019-04-01,JN,focalfollow,agonism.loser
+3B9,3L9,avoid,Male,Female,2019-04-01,JN,focalfollow,agonism.loser
+2C6,4H7,avoid,Male,Female,2019-04-01,JN,focalfollow,agonism.loser
+67Z,4P3,displace,Male,Female,2019-04-01,JN,focalfollow,agonism.loser
+7M4,4P4,Submit,Male,Female,2019-04-01,JN,focalfollow,agonism.loser
+2G8,5H6,avoid,Female,Female,2019-04-01,JN,focalfollow,agonism.loser
+7B3,6M9,contactAgg,Male,Female,2019-04-01,JN,focalfollow,agonism.loser
+3B8,7I4,displace,Female,Female,2019-04-01,JN,focalfollow,agonism.loser
+5E4,7I4,avoid,Male,Female,2019-04-01,JN,focalfollow,agonism.loser
+4P4,7M5,avoid,Female,Female,2019-04-01,JN,focalfollow,agonism.loser
+6M9,88N,Submit,Female,Female,2019-04-01,JN,focalfollow,agonism.loser
+2L6,0I7,displace,Male,Female,2019-04-02,JN,focalfollow,agonism.loser
+1F0,0I7,avoid,Male,Female,2019-04-02,JN,focalfollow,agonism.loser
+6O6,2B1,displace,Male,Female,2019-04-02,JN,focalfollow,agonism.loser
+6O9,3G2,avoid,Female,Female,2019-04-02,JN,focalfollow,agonism.loser
+7I4,3G2,avoid,Female,Female,2019-04-02,JN,focalfollow,agonism.loser
+7O1,3L9,Submit,Male,Female,2019-04-02,JN,focalfollow,agonism.loser
+7H0,4H3,avoid,Male,Female,2019-04-02,JN,focalfollow,agonism.loser
+5P1,4H3,noncontactAgg,Female,Female,2019-04-02,JN,focalfollow,agonism.loser
+6M8,4P4,threat,Male,Female,2019-04-02,JN,focalfollow,agonism.loser
+9C7,4P4,noncontactAgg,Female,Female,2019-04-02,JN,focalfollow,agonism.loser
+juvenile male,53N,avoid,Unknown,Male,2019-04-02,JN,focalfollow,agonism.loser
+5E4,7A9,avoid,Male,Female,2019-04-02,JN,focalfollow,agonism.loser
+67Z,7A9,avoid,Male,Female,2019-04-02,JN,focalfollow,agonism.loser
+juvenile female,7A9,avoid,Unknown,Female,2019-04-02,JN,focalfollow,agonism.loser
+6C6,7H0,FearGrm,Male,Male,2019-04-02,JN,focalfollow,agonism.loser
+adult male,7O1,avoid,Unknown,Male,2019-04-02,JN,focalfollow,agonism.loser
+7B3,7O1,avoid,Male,Male,2019-04-02,JN,focalfollow,agonism.loser
+1F0,9O5,displace,Male,Male,2019-04-02,JN,focalfollow,agonism.loser
+7B3,0B4,FearGrm,Male,Female,2019-04-03,JN,focalfollow,agonism.loser
+6M8,0G9,avoid,Male,Male,2019-04-03,JN,focalfollow,agonism.loser
+adult female,2D4,avoid,Unknown,Female,2019-04-03,JN,focalfollow,agonism.loser
+adult male,2D4,noncontactAgg,Unknown,Female,2019-04-03,JN,focalfollow,agonism.loser
+0G1,2D4,Submit,Male,Female,2019-04-03,JN,focalfollow,agonism.loser
+adult male,2D4,avoid,Unknown,Female,2019-04-03,JN,focalfollow,agonism.loser
+2P0,33V,avoid,Female,Female,2019-04-03,JN,focalfollow,agonism.loser
+33V,3B8,threat,Female,Female,2019-04-03,JN,focalfollow,agonism.loser
+7O1,3B9,displace,Male,Male,2019-04-03,JN,focalfollow,agonism.loser
+3B8,3D4,avoid,Female,Female,2019-04-03,JN,focalfollow,agonism.loser
+9O5,3D4,avoid,Male,Female,2019-04-03,JN,focalfollow,agonism.loser
+88N,3G2,contactAgg,Female,Female,2019-04-03,JN,focalfollow,agonism.loser
+3K1,3G2,avoid,Male,Female,2019-04-03,JN,focalfollow,agonism.loser
+6I7,3I4,Submit,Male,Female,2019-04-03,JN,focalfollow,agonism.loser
+74K,3I4,avoid,Female,Female,2019-04-03,JN,focalfollow,agonism.loser
+6C6,3O0,avoid,Male,Female,2019-04-03,JN,focalfollow,agonism.loser
+7H0,4M2,avoid,Male,Female,2019-04-03,JN,focalfollow,agonism.loser
+6C6,5P1,noncontactAgg,Male,Female,2019-04-03,JN,focalfollow,agonism.loser
+48L,5P1,threat,Male,Female,2019-04-03,JN,focalfollow,agonism.loser
+25L,6M8,avoid,Male,Male,2019-04-03,JN,focalfollow,agonism.loser
+7H0,7M5,contactAgg,Male,Female,2019-04-03,JN,focalfollow,agonism.loser
+2D1,82V,avoid,Female,Female,2019-04-03,JN,focalfollow,agonism.loser
+9I4,8M2,contactAgg,Male,Female,2019-04-03,JN,focalfollow,agonism.loser
+0G9,1B4,FearGrm,Male,Female,2019-04-04,JN,focalfollow,agonism.loser
+6M8,1B4,displace,Male,Female,2019-04-04,JN,focalfollow,agonism.loser
+97R,1K8,displace,Female,Female,2019-04-04,JN,focalfollow,agonism.loser
+88N,1K8,avoid,Female,Female,2019-04-04,JN,focalfollow,agonism.loser
+1F0,3H6,avoid,Male,Female,2019-04-04,JN,focalfollow,agonism.loser
+juvenile female,3O0,avoid,Unknown,Female,2019-04-04,JN,focalfollow,agonism.loser
+2P0,3O0,contactAgg,Female,Female,2019-04-04,JN,focalfollow,agonism.loser
+6M9,4H3,avoid,Female,Female,2019-04-04,JN,focalfollow,agonism.loser
+6M9,4H3,avoid,Female,Female,2019-04-04,JN,focalfollow,agonism.loser
+6M9,4I3,avoid,Female,Female,2019-04-04,JN,focalfollow,agonism.loser
+9L6,4I3,displace,Female,Female,2019-04-04,JN,focalfollow,agonism.loser
+8M6,4P4,avoid,Female,Female,2019-04-04,JN,focalfollow,agonism.loser
+8M6,4P4,avoid,Female,Female,2019-04-04,JN,focalfollow,agonism.loser
+9I4,4P4,avoid,Male,Female,2019-04-04,JN,focalfollow,agonism.loser
+97R,6J4,avoid,Female,Female,2019-04-04,JN,focalfollow,agonism.loser
+2L6,7I4,FearGrm,Male,Female,2019-04-04,JN,focalfollow,agonism.loser
+33V,7M4,threat,Female,Male,2019-04-04,JN,focalfollow,agonism.loser
+juvenile male,82Z,contactAgg,Unknown,Female,2019-04-04,JN,focalfollow,agonism.loser
+juvenile male,82Z,avoid,Unknown,Female,2019-04-04,JN,focalfollow,agonism.loser
+adult male,9L6,avoid,Unknown,Female,2019-04-04,JN,focalfollow,agonism.loser
+5P2,0G9,noncontactAgg,Male,Male,2019-04-09,JN,focalfollow,agonism.loser
+6I7,0G9,contactAgg,Male,Male,2019-04-09,JN,focalfollow,agonism.loser
+4G6,0H3,displace,Male,Male,2019-04-09,JN,focalfollow,agonism.loser
+5E4,2B4,avoid,Male,Female,2019-04-09,JN,focalfollow,agonism.loser
+96Z,2D1,FearGrm,Male,Female,2019-04-09,JN,focalfollow,agonism.loser
+7O1,2D1,avoid,Male,Female,2019-04-09,JN,focalfollow,agonism.loser
+juvenile male,3D1,noncontactAgg,Unknown,Female,2019-04-09,JN,focalfollow,agonism.loser
+5E4,3D1,FearGrm,Male,Female,2019-04-09,JN,focalfollow,agonism.loser
+6M8,4H7,avoid,Male,Female,2019-04-09,JN,focalfollow,agonism.loser
+4G6,4H7,avoid,Male,Female,2019-04-09,JN,focalfollow,agonism.loser
+9I4,4P4,displace,Male,Female,2019-04-09,JN,focalfollow,agonism.loser
+48L,5E4,FearGrm,Male,Male,2019-04-09,JN,focalfollow,agonism.loser
+adult male,5E6,avoid,Unknown,Male,2019-04-09,JN,focalfollow,agonism.loser
+7O1,6M9,avoid,Male,Female,2019-04-09,JN,focalfollow,agonism.loser
+4A9,9L6,avoid,Female,Female,2019-04-09,JN,focalfollow,agonism.loser
+5E4,1K8,Submit,Male,Female,2019-04-10,JN,focalfollow,agonism.loser
+0C9,1K8,Submit,Male,Female,2019-04-10,JN,focalfollow,agonism.loser
+0H3,2B4,displace,Male,Female,2019-04-10,JN,focalfollow,agonism.loser
+2C6,2I1,FearGrm,Male,Male,2019-04-10,JN,focalfollow,agonism.loser
+06O,3B9,noncontactAgg,Male,Male,2019-04-10,JN,focalfollow,agonism.loser
+juvenile female,3D4,noncontactAgg,Unknown,Female,2019-04-10,JN,focalfollow,agonism.loser
+95V,3H6,avoid,Female,Female,2019-04-10,JN,focalfollow,agonism.loser
+1K8,3K1,noncontactAgg,Female,Male,2019-04-10,JN,focalfollow,agonism.loser
+82V,3K1,noncontactAgg,Female,Male,2019-04-10,JN,focalfollow,agonism.loser
+adult male,3K1,avoid,Unknown,Male,2019-04-10,JN,focalfollow,agonism.loser
+1F0,4M2,avoid,Male,Female,2019-04-10,JN,focalfollow,agonism.loser
+adult male,4P3,avoid,Unknown,Female,2019-04-10,JN,focalfollow,agonism.loser
+9O9,5A1,avoid,Male,Female,2019-04-10,JN,focalfollow,agonism.loser
+67Z,5A1,avoid,Male,Female,2019-04-10,JN,focalfollow,agonism.loser
+juvenile female,5H6,displace,Unknown,Female,2019-04-10,JN,focalfollow,agonism.loser
+3L9,5H6,displace,Female,Female,2019-04-10,JN,focalfollow,agonism.loser
+5A1,6J4,avoid,Female,Female,2019-04-10,JN,focalfollow,agonism.loser
+1F0,7I4,avoid,Male,Female,2019-04-10,JN,focalfollow,agonism.loser
+6C6,7I4,threat,Male,Female,2019-04-10,JN,focalfollow,agonism.loser
+9O5,7L1,displace,Male,Female,2019-04-10,JN,focalfollow,agonism.loser
+5P2,8M2,FearGrm,Male,Female,2019-04-10,JN,focalfollow,agonism.loser
+juvenile male,8M2,noncontactAgg,Unknown,Female,2019-04-10,JN,focalfollow,agonism.loser
+juvenile male,0B4,FearGrm,Unknown,Female,2019-04-11,JN,focalfollow,agonism.loser
+9I4,2D1,avoid,Male,Female,2019-04-11,JN,focalfollow,agonism.loser
+7F7,2P0,Submit,Female,Female,2019-04-11,JN,focalfollow,agonism.loser
+juvenile female,3I4,displace,Unknown,Female,2019-04-11,JN,focalfollow,agonism.loser
+4E6,4A9,FearGrm,Male,Female,2019-04-11,JN,focalfollow,agonism.loser
+4E6,4A9,contactAgg,Male,Female,2019-04-11,JN,focalfollow,agonism.loser
+6O6,5E6,FearGrm,Male,Male,2019-04-11,JN,focalfollow,agonism.loser
+53N,77V,FearGrm,Male,Female,2019-04-11,JN,focalfollow,agonism.loser
+juvenile male,7L1,avoid,Unknown,Female,2019-04-11,JN,focalfollow,agonism.loser
+adult male,7M5,avoid,Unknown,Female,2019-04-11,JN,focalfollow,agonism.loser
+4G6,9L6,avoid,Male,Female,2019-04-11,JN,focalfollow,agonism.loser
+4A9,9L6,avoid,Female,Female,2019-04-11,JN,focalfollow,agonism.loser
+4G6,9L6,avoid,Male,Female,2019-04-11,JN,focalfollow,agonism.loser
+9C7,6J4,avoid,Female,Female,2019-04-12,JN,focalfollow,agonism.loser
+5P1,6J4,avoid,Female,Female,2019-04-12,JN,focalfollow,agonism.loser
+0B4,6M9,avoid,Female,Female,2019-04-12,JN,focalfollow,agonism.loser
+6M8,6M9,avoid,Male,Female,2019-04-12,JN,focalfollow,agonism.loser
+67Z,6M9,avoid,Male,Female,2019-04-12,JN,focalfollow,agonism.loser
+0C9,6M9,avoid,Male,Female,2019-04-12,JN,focalfollow,agonism.loser
+33V,2B1,avoid,Female,Female,2019-04-15,JN,focalfollow,agonism.loser
+7M9,2B1,noncontactAgg,Female,Female,2019-04-15,JN,focalfollow,agonism.loser
+juvenile male,2B1,noncontactAgg,Unknown,Female,2019-04-15,JN,focalfollow,agonism.loser
+3H6,3O0,displace,Female,Female,2019-04-15,JN,focalfollow,agonism.loser
+48L,3O0,noncontactAgg,Male,Female,2019-04-15,JN,focalfollow,agonism.loser
+6O6,4P4,displace,Male,Female,2019-04-15,JN,focalfollow,agonism.loser
+3L9,8M0,displace,Female,Female,2019-04-15,JN,focalfollow,agonism.loser
+0J9,0H3,FearGrm,Male,Male,2019-04-16,JN,focalfollow,agonism.loser
+48L,0I7,avoid,Male,Female,2019-04-16,JN,focalfollow,agonism.loser
+3H6,1K8,avoid,Female,Female,2019-04-16,JN,focalfollow,agonism.loser
+juvenile female,1K8,threat,Unknown,Female,2019-04-16,JN,focalfollow,agonism.loser
+6C6,2D1,FearGrm,Male,Female,2019-04-16,JN,focalfollow,agonism.loser
+juvenile female,4I3,avoid,Unknown,Female,2019-04-16,JN,focalfollow,agonism.loser
+5E4,4I3,Submit,Male,Female,2019-04-16,JN,focalfollow,agonism.loser
+4H7,4I3,displace,Female,Female,2019-04-16,JN,focalfollow,agonism.loser
+4G6,4P9,avoid,Male,Female,2019-04-16,JN,focalfollow,agonism.loser
+adult male,6J4,avoid,Unknown,Female,2019-04-16,JN,focalfollow,agonism.loser
+5P2,82V,FearGrm,Male,Female,2019-04-16,JN,focalfollow,agonism.loser
+adult male,82V,avoid,Unknown,Female,2019-04-16,JN,focalfollow,agonism.loser
+2L6,88N,avoid,Male,Female,2019-04-16,JN,focalfollow,agonism.loser
+2I1,88N,avoid,Male,Female,2019-04-16,JN,focalfollow,agonism.loser
+1F0,8M2,avoid,Male,Female,2019-04-16,JN,focalfollow,agonism.loser
+4A9,98V,avoid,Female,Female,2019-04-16,JN,focalfollow,agonism.loser
+0J9,2L6,displace,Male,Male,2019-04-17,JN,focalfollow,agonism.loser
+juvenile male,33V,threat,Unknown,Female,2019-04-17,JN,focalfollow,agonism.loser
+9L6,3I4,avoid,Female,Female,2019-04-17,JN,focalfollow,agonism.loser
+2L6,4H7,avoid,Male,Female,2019-04-17,JN,focalfollow,agonism.loser
+2L6,4H7,avoid,Male,Female,2019-04-17,JN,focalfollow,agonism.loser
+1F0,4M2,avoid,Male,Female,2019-04-17,JN,focalfollow,agonism.loser
+0C9,5E4,displace,Male,Male,2019-04-17,JN,focalfollow,agonism.loser
+7O1,5E4,noncontactAgg,Male,Male,2019-04-17,JN,focalfollow,agonism.loser
+67Z,7F7,noncontactAgg,Male,Female,2019-04-17,JN,focalfollow,agonism.loser
+0J9,7I4,displace,Male,Female,2019-04-17,JN,focalfollow,agonism.loser
+7F7,95V,Submit,Female,Female,2019-04-17,JN,focalfollow,agonism.loser
+3G2,2D4,avoid,Female,Female,2019-04-18,JN,focalfollow,agonism.loser
+3G2,2D4,avoid,Female,Female,2019-04-18,JN,focalfollow,agonism.loser
+adult male,2D4,displace,Unknown,Female,2019-04-18,JN,focalfollow,agonism.loser
+4G6,2G8,noncontactAgg,Male,Female,2019-04-18,JN,focalfollow,agonism.loser
+juvenile female,3D4,displace,Unknown,Female,2019-04-18,JN,focalfollow,agonism.loser
+juvenile female,3D4,displace,Unknown,Female,2019-04-18,JN,focalfollow,agonism.loser
+juvenile male,48L,avoid,Unknown,Male,2019-04-18,JN,focalfollow,agonism.loser
+juvenile female,6O6,noncontactAgg,Unknown,Male,2019-04-18,JN,focalfollow,agonism.loser
+1F0,6O6,avoid,Male,Male,2019-04-18,JN,focalfollow,agonism.loser
+38Z,7I4,Submit,Female,Female,2019-04-18,JN,focalfollow,agonism.loser
+3H6,7I4,avoid,Female,Female,2019-04-18,JN,focalfollow,agonism.loser
+7L1,7I4,avoid,Female,Female,2019-04-18,JN,focalfollow,agonism.loser
+4H3,82Z,avoid,Female,Female,2019-04-18,JN,focalfollow,agonism.loser
+48L,2I1,FearGrm,Male,Male,2019-04-23,JN,focalfollow,agonism.loser
+4G6,38Z,avoid,Male,Female,2019-04-23,JN,focalfollow,agonism.loser
+7H0,3L9,avoid,Male,Female,2019-04-23,JN,focalfollow,agonism.loser
+5P2,3L9,avoid,Male,Female,2019-04-23,JN,focalfollow,agonism.loser
+juvenile male,60V,avoid,Unknown,Female,2019-04-23,JN,focalfollow,agonism.loser
+9I4,6M9,displace,Male,Female,2019-04-23,JN,focalfollow,agonism.loser
+9I4,6M9,avoid,Male,Female,2019-04-23,JN,focalfollow,agonism.loser
+9C7,8M2,avoid,Female,Female,2019-04-23,JN,focalfollow,agonism.loser
+38Z,9I3,avoid,Female,Female,2019-04-23,JN,focalfollow,agonism.loser
+6C6,0J9,avoid,Male,Male,2019-04-24,JN,focalfollow,agonism.loser
+3O0,2B1,avoid,Female,Female,2019-04-24,JN,focalfollow,agonism.loser
+5P1,2B1,avoid,Female,Female,2019-04-24,JN,focalfollow,agonism.loser
+6I7,2D4,avoid,Male,Female,2019-04-24,JN,focalfollow,agonism.loser
+0C9,4P4,avoid,Male,Female,2019-04-24,JN,focalfollow,agonism.loser
+9I4,6J4,displace,Male,Female,2019-04-24,JN,focalfollow,agonism.loser
+1J0,7H0,avoid,Male,Male,2019-04-24,JN,focalfollow,agonism.loser
+5P2,7H0,avoid,Male,Male,2019-04-24,JN,focalfollow,agonism.loser
+juvenile female,7I4,avoid,Unknown,Female,2019-04-24,JN,focalfollow,agonism.loser
+7O1,7M4,displace,Male,Male,2019-04-24,JN,focalfollow,agonism.loser
+98V,8I6,avoid,Female,Female,2019-04-24,JN,focalfollow,agonism.loser
+67Z,8M0,displace,Male,Female,2019-04-24,JN,focalfollow,agonism.loser
+48L,97R,displace,Male,Female,2019-04-24,JN,focalfollow,agonism.loser
+9O9,0H3,FearGrm,Male,Male,2019-04-25,JN,focalfollow,agonism.loser
+9O9,0H3,avoid,Male,Male,2019-04-25,JN,focalfollow,agonism.loser
+adult male,0H3,FearGrm,Unknown,Male,2019-04-25,JN,focalfollow,agonism.loser
+7F7,2B1,displace,Female,Female,2019-04-25,JN,focalfollow,agonism.loser
+67Z,2L6,avoid,Male,Male,2019-04-25,JN,focalfollow,agonism.loser
+60V,3B8,avoid,Female,Female,2019-04-25,JN,focalfollow,agonism.loser
+juvenile female,3D4,avoid,Unknown,Female,2019-04-25,JN,focalfollow,agonism.loser
+88N,3D4,avoid,Female,Female,2019-04-25,JN,focalfollow,agonism.loser
+juvenile male,3I4,noncontactAgg,Unknown,Female,2019-04-25,JN,focalfollow,agonism.loser
+0B4,3I4,avoid,Female,Female,2019-04-25,JN,focalfollow,agonism.loser
+3D1,3I4,avoid,Female,Female,2019-04-25,JN,focalfollow,agonism.loser
+2C6,4H3,avoid,Male,Female,2019-04-25,JN,focalfollow,agonism.loser
+48L,5A1,avoid,Male,Female,2019-04-25,JN,focalfollow,agonism.loser
+67Z,6M8,FearGrm,Male,Male,2019-04-25,JN,focalfollow,agonism.loser
+juvenile male,7A9,avoid,Unknown,Female,2019-04-25,JN,focalfollow,agonism.loser
+9L6,88N,FearGrm,Female,Female,2019-04-25,JN,focalfollow,agonism.loser
+4P4,88N,avoid,Female,Female,2019-04-25,JN,focalfollow,agonism.loser
+5A1,9I4,noncontactAgg,Female,Male,2019-04-25,JN,focalfollow,agonism.loser
+7H0,5P1,avoid,Male,Female,2019-04-26,JN,focalfollow,agonism.loser
+adult male,6I7,avoid,Unknown,Male,2019-04-26,JN,focalfollow,agonism.loser
+33V,74K,avoid,Female,Female,2019-04-26,JN,focalfollow,agonism.loser
+0C9,0G1,displace,Male,Male,2019-04-30,JN,focalfollow,agonism.loser
+2P0,1B4,avoid,Female,Female,2019-04-30,JN,focalfollow,agonism.loser
+adult male,2D4,noncontactAgg,Unknown,Female,2019-04-30,JN,focalfollow,agonism.loser
+2A2,2D4,threat,Female,Female,2019-04-30,JN,focalfollow,agonism.loser
+6M9,2D4,avoid,Female,Female,2019-04-30,JN,focalfollow,agonism.loser
+4P4,2D4,FearGrm,Female,Female,2019-04-30,JN,focalfollow,agonism.loser
+adult male,3D4,displace,Unknown,Female,2019-04-30,JN,focalfollow,agonism.loser
+juvenile female,3D4,avoid,Unknown,Female,2019-04-30,JN,focalfollow,agonism.loser
+5P1,3G2,displace,Female,Female,2019-04-30,JN,focalfollow,agonism.loser
+4P3,4P4,noncontactAgg,Female,Female,2019-04-30,JN,focalfollow,agonism.loser
+juvenile female,5A1,avoid,Unknown,Female,2019-04-30,JN,focalfollow,agonism.loser
+2C6,5A1,avoid,Male,Female,2019-04-30,JN,focalfollow,agonism.loser
+7B3,5E4,noncontactAgg,Male,Male,2019-04-30,JN,focalfollow,agonism.loser
+1F0,60V,avoid,Male,Female,2019-04-30,JN,focalfollow,agonism.loser
+5E4,6M8,FearGrm,Male,Male,2019-04-30,JN,focalfollow,agonism.loser
+5E4,6M8,displace,Male,Male,2019-04-30,JN,focalfollow,agonism.loser
+38Z,7A9,displace,Female,Female,2019-04-30,JN,focalfollow,agonism.loser
+6M8,7H0,FearGrm,Male,Male,2019-04-30,JN,focalfollow,agonism.loser
+6C6,2B4,FearGrm,Male,Female,2019-05-01,JN,focalfollow,agonism.loser
+7M9,2P0,FearGrm,Female,Female,2019-05-01,JN,focalfollow,agonism.loser
+juvenile male,2P0,FearGrm,Unknown,Female,2019-05-01,JN,focalfollow,agonism.loser
+7M9,2P0,FearGrm,Female,Female,2019-05-01,JN,focalfollow,agonism.loser
+7M9,2P0,displace,Female,Female,2019-05-01,JN,focalfollow,agonism.loser
+7O1,38Z,avoid,Male,Female,2019-05-01,JN,focalfollow,agonism.loser
+3H6,3D1,displace,Female,Female,2019-05-01,JN,focalfollow,agonism.loser
+9I4,3D1,avoid,Male,Female,2019-05-01,JN,focalfollow,agonism.loser
+5P2,3D1,noncontactAgg,Male,Female,2019-05-01,JN,focalfollow,agonism.loser
+9O5,3H6,noncontactAgg,Male,Female,2019-05-01,JN,focalfollow,agonism.loser
+juvenile male,3O0,contactAgg,Unknown,Female,2019-05-01,JN,focalfollow,agonism.loser
+8M0,4I3,avoid,Female,Female,2019-05-01,JN,focalfollow,agonism.loser
+88N,4I3,avoid,Female,Female,2019-05-01,JN,focalfollow,agonism.loser
+juvenile male,4P9,avoid,Unknown,Female,2019-05-01,JN,focalfollow,agonism.loser
+48L,7L1,displace,Male,Female,2019-05-01,JN,focalfollow,agonism.loser
+adult male,88N,threat,Unknown,Female,2019-05-01,JN,focalfollow,agonism.loser
+6M9,8M6,displace,Female,Female,2019-05-01,JN,focalfollow,agonism.loser
+juvenile female,97R,displace,Unknown,Female,2019-05-01,JN,focalfollow,agonism.loser
+82Z,1K8,avoid,Female,Female,2019-05-07,JN,focalfollow,agonism.loser
+4G6,1K8,noncontactAgg,Male,Female,2019-05-07,JN,focalfollow,agonism.loser
+adult female,1K8,avoid,Unknown,Female,2019-05-07,JN,focalfollow,agonism.loser
+4P4,3I4,noncontactAgg,Female,Female,2019-05-07,JN,focalfollow,agonism.loser
+juvenile female,3I4,displace,Unknown,Female,2019-05-07,JN,focalfollow,agonism.loser
+6O6,6I7,displace,Male,Male,2019-05-07,JN,focalfollow,agonism.loser
+5A1,9C7,noncontactAgg,Female,Female,2019-05-07,JN,focalfollow,agonism.loser
+juvenile male,2D4,avoid,Unknown,Female,2019-05-13,JN,focalfollow,agonism.loser
+0B4,2D4,avoid,Female,Female,2019-05-13,JN,focalfollow,agonism.loser
+53N,2D4,displace,Male,Female,2019-05-13,JN,focalfollow,agonism.loser
+juvenile female,3D4,avoid,Unknown,Female,2019-05-13,JN,focalfollow,agonism.loser
+7O1,3D4,avoid,Male,Female,2019-05-13,JN,focalfollow,agonism.loser
+5E4,4I3,FearGrm,Male,Female,2019-05-13,JN,focalfollow,agonism.loser
+3O0,4P9,avoid,Female,Female,2019-05-13,JN,focalfollow,agonism.loser
+3B8,5P2,noncontactAgg,Female,Male,2019-05-13,JN,focalfollow,agonism.loser
+7M9,60V,avoid,Female,Female,2019-05-13,JN,focalfollow,agonism.loser
+3O0,60V,avoid,Female,Female,2019-05-13,JN,focalfollow,agonism.loser
+4M2,6M9,avoid,Female,Female,2019-05-13,JN,focalfollow,agonism.loser
+2C6,6M9,avoid,Male,Female,2019-05-13,JN,focalfollow,agonism.loser
+5P2,6O9,avoid,Male,Female,2019-05-13,JN,focalfollow,agonism.loser
+88N,82V,displace,Female,Female,2019-05-13,JN,focalfollow,agonism.loser
+juvenile male,82V,noncontactAgg,Unknown,Female,2019-05-13,JN,focalfollow,agonism.loser
+0C9,82V,FearGrm,Male,Female,2019-05-13,JN,focalfollow,agonism.loser
+48L,82V,Submit,Male,Female,2019-05-13,JN,focalfollow,agonism.loser
+6M9,82Z,contactAgg,Female,Female,2019-05-13,JN,focalfollow,agonism.loser
+juvenile female,82Z,avoid,Unknown,Female,2019-05-13,JN,focalfollow,agonism.loser
+5E4,8I6,displace,Male,Female,2019-05-13,JN,focalfollow,agonism.loser
+juvenile female,95V,displace,Unknown,Female,2019-05-13,JN,focalfollow,agonism.loser
+juvenile female,74K,avoid,Unknown,Female,2019-05-13,JN,focalfollow,agonism.loser
+7B3,2C6,avoid,Male,Male,2019-05-15,JN,focalfollow,agonism.loser
+0B4,4M2,avoid,Female,Female,2019-05-15,JN,focalfollow,agonism.loser
+9I4,5H6,displace,Male,Female,2019-05-15,JN,focalfollow,agonism.loser
+7O1,5P1,avoid,Male,Female,2019-05-15,JN,focalfollow,agonism.loser
+7O1,5P1,avoid,Male,Female,2019-05-15,JN,focalfollow,agonism.loser
+adult male,6J4,avoid,Unknown,Female,2019-05-15,JN,focalfollow,agonism.loser
+juvenile female,6J4,avoid,Unknown,Female,2019-05-15,JN,focalfollow,agonism.loser
+juvenile female,7A9,avoid,Unknown,Female,2019-05-15,JN,focalfollow,agonism.loser
+3H6,7I4,displace,Female,Female,2019-05-15,JN,focalfollow,agonism.loser
+60V,7I4,avoid,Female,Female,2019-05-15,JN,focalfollow,agonism.loser
+juvenile female,88N,avoid,Unknown,Female,2019-05-15,JN,focalfollow,agonism.loser
+juvenile male,97R,displace,Unknown,Female,2019-05-15,JN,focalfollow,agonism.loser
+2I1,2D4,avoid,Male,Female,2019-05-16,JN,focalfollow,agonism.loser
+adult male,3K1,displace,Unknown,Male,2019-05-16,JN,focalfollow,agonism.loser
+7H0,4P3,avoid,Male,Female,2019-05-16,JN,focalfollow,agonism.loser
+0C9,5H6,FearGrm,Male,Female,2019-05-16,JN,focalfollow,agonism.loser
+6O6,0G1,avoid,Male,Male,2019-05-17,JN,focalfollow,agonism.loser
+48L,2C6,Submit,Male,Male,2019-05-17,JN,focalfollow,agonism.loser
+4H7,2I1,threat,Female,Male,2019-05-17,JN,focalfollow,agonism.loser
+3I6,3D1,avoid,Male,Female,2019-05-17,JN,focalfollow,agonism.loser
+53N,3L9,avoid,Male,Female,2019-05-17,JN,focalfollow,agonism.loser
+5E4,4H3,noncontactAgg,Male,Female,2019-05-17,JN,focalfollow,agonism.loser
+5E4,4H3,Submit,Male,Female,2019-05-17,JN,focalfollow,agonism.loser
+0I7,4P9,displace,Female,Female,2019-05-17,JN,focalfollow,agonism.loser
+juvenile female,74K,displace,Unknown,Female,2019-05-17,JN,focalfollow,agonism.loser
+3I6,7M5,avoid,Male,Female,2019-05-17,JN,focalfollow,agonism.loser
+6O6,7M5,avoid,Male,Female,2019-05-17,JN,focalfollow,agonism.loser
+juvenile male,88N,avoid,Unknown,Female,2019-05-17,JN,focalfollow,agonism.loser
+3H6,98V,avoid,Female,Female,2019-05-17,JN,focalfollow,agonism.loser
+3H6,98V,noncontactAgg,Female,Female,2019-05-17,JN,focalfollow,agonism.loser
+9C7,9I4,noncontactAgg,Female,Male,2019-05-17,JN,focalfollow,agonism.loser
+67Z,4G6,FearGrm,Male,Male,2019-05-20,JN,focalfollow,agonism.loser
+67Z,4G6,avoid,Male,Male,2019-05-20,JN,focalfollow,agonism.loser
+53N,7I4,avoid,Male,Female,2019-05-20,JN,focalfollow,agonism.loser
+1F0,7I4,displace,Male,Female,2019-05-20,JN,focalfollow,agonism.loser
+9I4,9I3,avoid,Male,Female,2019-05-20,JN,focalfollow,agonism.loser
+1F0,0H3,avoid,Male,Male,2019-05-21,JN,focalfollow,agonism.loser
+2C6,2I1,displace,Male,Male,2019-05-21,JN,focalfollow,agonism.loser
+juvenile female,3G2,avoid,Unknown,Female,2019-05-21,JN,focalfollow,agonism.loser
+2I1,3G2,avoid,Male,Female,2019-05-21,JN,focalfollow,agonism.loser
+juvenile male,4G6,noncontactAgg,Unknown,Male,2019-05-21,JN,focalfollow,agonism.loser
+juvenile male,4P3,avoid,Unknown,Female,2019-05-21,JN,focalfollow,agonism.loser
+4H3,6J4,avoid,Female,Female,2019-05-21,JN,focalfollow,agonism.loser
+6O6,6J4,Submit,Male,Female,2019-05-21,JN,focalfollow,agonism.loser
+3H6,7I4,FearGrm,Female,Female,2019-05-21,JN,focalfollow,agonism.loser
+88N,7M5,avoid,Female,Female,2019-05-21,JN,focalfollow,agonism.loser
+96Z,82Z,FearGrm,Male,Female,2019-05-21,JN,focalfollow,agonism.loser
+7H0,8M2,avoid,Male,Female,2019-05-21,JN,focalfollow,agonism.loser
+5H6,8M6,contactAgg,Female,Female,2019-05-21,JN,focalfollow,agonism.loser
+77V,91V,displace,Female,Female,2019-05-21,JN,focalfollow,agonism.loser
+0H3,0G9,avoid,Male,Male,2019-05-22,JN,focalfollow,agonism.loser
+38Z,1K8,avoid,Female,Female,2019-05-22,JN,focalfollow,agonism.loser
+juvenile,1K8,displace,Unknown,Female,2019-05-22,JN,focalfollow,agonism.loser
+juvenile male,2B4,avoid,Unknown,Female,2019-05-22,JN,focalfollow,agonism.loser
+juvenile male,2G8,avoid,Unknown,Female,2019-05-22,JN,focalfollow,agonism.loser
+juvenile male,4I3,avoid,Unknown,Female,2019-05-22,JN,focalfollow,agonism.loser
+67Z,5A1,displace,Male,Female,2019-05-22,JN,focalfollow,agonism.loser
+09Z,5P1,avoid,Female,Female,2019-05-22,JN,focalfollow,agonism.loser
+7M9,5P1,avoid,Female,Female,2019-05-22,JN,focalfollow,agonism.loser
+38Z,5P1,avoid,Female,Female,2019-05-22,JN,focalfollow,agonism.loser
+33V,5P1,threat,Female,Female,2019-05-22,JN,focalfollow,agonism.loser
+48L,5P2,avoid,Male,Male,2019-05-22,JN,focalfollow,agonism.loser
+1F0,67Z,FearGrm,Male,Male,2019-05-22,JN,focalfollow,agonism.loser
+6C6,6O9,avoid,Male,Female,2019-05-22,JN,focalfollow,agonism.loser
+juvenile female,82Z,avoid,Unknown,Female,2019-05-22,JN,focalfollow,agonism.loser
+7A9,97R,displace,Female,Female,2019-05-22,JN,focalfollow,agonism.loser
+juvenile female,98V,noncontactAgg,Unknown,Female,2019-05-22,JN,focalfollow,agonism.loser
+6C6,9L6,FearGrm,Male,Female,2019-05-22,JN,focalfollow,agonism.loser
+7M4,4H7,avoid,Male,Female,2019-05-23,JN,focalfollow,agonism.loser
+7H0,4P3,avoid,Male,Female,2019-05-24,JN,focalfollow,agonism.loser
+1F0,0C9,Submit,Male,Male,2019-05-28,JN,focalfollow,agonism.loser
+juvenile male,0G9,noncontactAgg,Unknown,Male,2019-05-28,JN,focalfollow,agonism.loser
+48L,33V,avoid,Male,Female,2019-05-28,JN,focalfollow,agonism.loser
+juvenile male,48L,avoid,Unknown,Male,2019-05-28,JN,focalfollow,agonism.loser
+juvenile male,6M8,avoid,Unknown,Male,2019-05-28,JN,focalfollow,agonism.loser
+48L,7A9,displace,Male,Female,2019-05-28,JN,focalfollow,agonism.loser
+3L9,1K8,avoid,Female,Female,2019-05-29,JN,focalfollow,agonism.loser
+juvenile female,3I4,avoid,Unknown,Female,2019-05-29,JN,focalfollow,agonism.loser
+2L6,5A1,noncontactAgg,Male,Female,2019-05-29,JN,focalfollow,agonism.loser
+5E4,5P1,avoid,Male,Female,2019-05-29,JN,focalfollow,agonism.loser
+adult male,6M9,avoid,Unknown,Female,2019-05-29,JN,focalfollow,agonism.loser
+juvenile female,8M6,avoid,Unknown,Female,2019-05-29,JN,focalfollow,agonism.loser
+1F0,0C9,FearGrm,Male,Male,2019-06-03,JN,focalfollow,agonism.loser
+48L,2B1,avoid,Male,Female,2019-06-03,JN,focalfollow,agonism.loser
+33V,2B1,noncontactAgg,Female,Female,2019-06-03,JN,focalfollow,agonism.loser
+7F7,2P0,Submit,Female,Female,2019-06-03,JN,focalfollow,agonism.loser
+4H3,3B8,avoid,Female,Female,2019-06-03,JN,focalfollow,agonism.loser
+38Z,3G2,avoid,Female,Female,2019-06-03,JN,focalfollow,agonism.loser
+7M4,4P9,avoid,Male,Female,2019-06-03,JN,focalfollow,agonism.loser
+0H3,0G1,displace,Male,Male,2019-06-05,JN,focalfollow,agonism.loser
+6O6,0J9,displace,Male,Male,2019-06-05,JN,focalfollow,agonism.loser
+3B8,3I4,avoid,Female,Female,2019-06-05,JN,focalfollow,agonism.loser
+9O5,4H7,noncontactAgg,Male,Female,2019-06-05,JN,focalfollow,agonism.loser
+53N,4H7,avoid,Male,Female,2019-06-05,JN,focalfollow,agonism.loser
+juvenile female,4P3,displace,Unknown,Female,2019-06-05,JN,focalfollow,agonism.loser
+7B3,60V,contactAgg,Male,Female,2019-06-05,JN,focalfollow,agonism.loser
+2C6,6J4,avoid,Male,Female,2019-06-05,JN,focalfollow,agonism.loser
+5P2,6O9,avoid,Male,Female,2019-06-05,JN,focalfollow,agonism.loser
+juvenile male,7H0,avoid,Unknown,Male,2019-06-05,JN,focalfollow,agonism.loser
+1B4,7M5,displace,Female,Female,2019-06-05,JN,focalfollow,agonism.loser
+3B9,7M5,Submit,Male,Female,2019-06-05,JN,focalfollow,agonism.loser
+8M0,9L6,noncontactAgg,Female,Female,2019-06-05,JN,focalfollow,agonism.loser
+95V,9L6,avoid,Female,Female,2019-06-05,JN,focalfollow,agonism.loser
+48L,9L6,displace,Male,Female,2019-06-05,JN,focalfollow,agonism.loser
+0H3,11Z,contactAgg,Male,Male,2019-06-06,JN,focalfollow,agonism.loser
+7M7,1B4,displace,Male,Female,2019-06-06,JN,focalfollow,agonism.loser
+juvenile male,1B4,FearGrm,Unknown,Female,2019-06-06,JN,focalfollow,agonism.loser
+juvenile male,1B4,displace,Unknown,Female,2019-06-06,JN,focalfollow,agonism.loser
+juvenile male,1B4,avoid,Unknown,Female,2019-06-06,JN,focalfollow,agonism.loser
+9I4,3D1,contactAgg,Male,Female,2019-06-06,JN,focalfollow,agonism.loser
+juvenile male,7A9,noncontactAgg,Unknown,Female,2019-06-06,JN,focalfollow,agonism.loser
+6C6,7F7,avoid,Male,Female,2019-06-06,JN,focalfollow,agonism.loser
+60V,8M6,avoid,Female,Female,2019-06-06,JN,focalfollow,agonism.loser
+7O1,0H3,FearGrm,Male,Male,2019-06-10,JN,focalfollow,agonism.loser
+juvenile female,2D4,avoid,Unknown,Female,2019-06-10,JN,focalfollow,agonism.loser
+juvenile female,2D4,noncontactAgg,Unknown,Female,2019-06-10,JN,focalfollow,agonism.loser
+0C9,3D4,avoid,Male,Female,2019-06-10,JN,focalfollow,agonism.loser
+0B4,4A9,displace,Female,Female,2019-06-10,JN,focalfollow,agonism.loser
+3B9,4P3,avoid,Male,Female,2019-06-10,JN,focalfollow,agonism.loser
+juvenile male,5P2,noncontactAgg,Unknown,Male,2019-06-10,JN,focalfollow,agonism.loser
+juvenile male,5P2,displace,Unknown,Male,2019-06-10,JN,focalfollow,agonism.loser
+9I3,6J4,displace,Female,Female,2019-06-10,JN,focalfollow,agonism.loser
+9I4,6M8,displace,Male,Male,2019-06-10,JN,focalfollow,agonism.loser
+3K1,6M9,noncontactAgg,Male,Female,2019-06-10,JN,focalfollow,agonism.loser
+juvenile male,77V,displace,Unknown,Female,2019-06-10,JN,focalfollow,agonism.loser
+adult male,82V,avoid,Unknown,Female,2019-06-10,JN,focalfollow,agonism.loser
+juvenile male,82V,avoid,Unknown,Female,2019-06-10,JN,focalfollow,agonism.loser
+7M9,9C7,threat,Female,Female,2019-06-10,JN,focalfollow,agonism.loser
+48L,9O5,avoid,Male,Male,2019-06-10,JN,focalfollow,agonism.loser
+7O1,1K8,displace,Male,Female,2019-06-11,JN,focalfollow,agonism.loser
+juvenile female,1K8,displace,Unknown,Female,2019-06-11,JN,focalfollow,agonism.loser
+juvenile male,1K8,avoid,Unknown,Female,2019-06-11,JN,focalfollow,agonism.loser
+4H7,2D1,Submit,Female,Female,2019-06-11,JN,focalfollow,agonism.loser
+77V,3O0,contactAgg,Female,Female,2019-06-11,JN,focalfollow,agonism.loser
+48L,74K,FearGrm,Male,Female,2019-06-11,JN,focalfollow,agonism.loser
+juvenile male,77V,avoid,Unknown,Female,2019-06-11,JN,focalfollow,agonism.loser
+9L6,7I4,displace,Female,Female,2019-06-11,JN,focalfollow,agonism.loser
+1F0,7I4,threat,Male,Female,2019-06-11,JN,focalfollow,agonism.loser
+3B8,88N,avoid,Female,Female,2019-06-11,JN,focalfollow,agonism.loser
+juvenile female,8M0,displace,Unknown,Female,2019-06-11,JN,focalfollow,agonism.loser
+9O5,91V,noncontactAgg,Male,Female,2019-06-11,JN,focalfollow,agonism.loser
+juvenile female,97R,avoid,Unknown,Female,2019-06-11,JN,focalfollow,agonism.loser
+juvenile male,3B9,avoid,Unknown,Male,2019-06-12,JN,focalfollow,agonism.loser
+5P2,6M8,displace,Male,Male,2019-06-12,JN,focalfollow,agonism.loser
+1F0,7M4,displace,Male,Male,2019-06-12,JN,focalfollow,agonism.loser
+6M8,7O1,displace,Male,Male,2019-06-12,JN,focalfollow,agonism.loser
+juvenile male,2B1,avoid,Unknown,Female,2019-06-13,JN,focalfollow,agonism.loser
+juvenile male,2D4,avoid,Unknown,Female,2019-06-13,JN,focalfollow,agonism.loser
+juvenile male,2D4,noncontactAgg,Unknown,Female,2019-06-13,JN,focalfollow,agonism.loser
+adult male,3G2,avoid,Unknown,Female,2019-06-13,JN,focalfollow,agonism.loser
+adult male,3I4,avoid,Unknown,Female,2019-06-13,JN,focalfollow,agonism.loser
+juvenile female,6J4,avoid,Unknown,Female,2019-06-13,JN,focalfollow,agonism.loser
+juvenile male,7I4,avoid,Unknown,Female,2019-06-13,JN,focalfollow,agonism.loser
+6C6,7I4,avoid,Male,Female,2019-06-13,JN,focalfollow,agonism.loser
+77V,95V,displace,Female,Female,2019-06-13,JN,focalfollow,agonism.loser
+77V,95V,displace,Female,Female,2019-06-13,JN,focalfollow,agonism.loser
+5A1,9C7,avoid,Female,Female,2019-06-13,JN,focalfollow,agonism.loser
+33V,1B4,threat,Female,Female,2019-06-17,JN,focalfollow,agonism.loser
+adult male,2D4,displace,Unknown,Female,2019-06-17,JN,focalfollow,agonism.loser
+4H7,3B8,avoid,Female,Female,2019-06-17,JN,focalfollow,agonism.loser
+2I1,3D4,avoid,Male,Female,2019-06-17,JN,focalfollow,agonism.loser
+0J9,4G6,FearGrm,Male,Male,2019-06-17,JN,focalfollow,agonism.loser
+0J9,4G6,displace,Male,Male,2019-06-17,JN,focalfollow,agonism.loser
+juvenile male,74K,FearGrm,Unknown,Female,2019-06-17,JN,focalfollow,agonism.loser
+91V,7A9,avoid,Female,Female,2019-06-17,JN,focalfollow,agonism.loser
+juvenile male,7F7,avoid,Unknown,Female,2019-06-17,JN,focalfollow,agonism.loser
+juvenile female,82V,avoid,Unknown,Female,2019-06-17,JN,focalfollow,agonism.loser
+9I4,8M0,Submit,Male,Female,2019-06-17,JN,focalfollow,agonism.loser
+adult male,2B4,avoid,Unknown,Female,2019-06-18,JN,focalfollow,agonism.loser
+9O5,2B4,FearGrm,Male,Female,2019-06-18,JN,focalfollow,agonism.loser
+9O5,2B4,avoid,Male,Female,2019-06-18,JN,focalfollow,agonism.loser
+6C6,3G2,displace,Male,Female,2019-06-18,JN,focalfollow,agonism.loser
+4G6,4H7,contactAgg,Male,Female,2019-06-18,JN,focalfollow,agonism.loser
+adult male,4M2,FearGrm,Unknown,Female,2019-06-18,JN,focalfollow,agonism.loser
+adult male,4M2,threat,Unknown,Female,2019-06-18,JN,focalfollow,agonism.loser
+48L,5H6,avoid,Male,Female,2019-06-18,JN,focalfollow,agonism.loser
+2I1,6I7,avoid,Male,Male,2019-06-18,JN,focalfollow,agonism.loser
+2I1,88N,avoid,Male,Female,2019-06-18,JN,focalfollow,agonism.loser
+4P3,88N,displace,Female,Female,2019-06-18,JN,focalfollow,agonism.loser
+juvenile female,0B4,displace,Unknown,Female,2019-06-19,JN,focalfollow,agonism.loser
+8M5,11Z,FearGrm,Male,Male,2019-06-19,JN,focalfollow,agonism.loser
+8M5,11Z,displace,Male,Male,2019-06-19,JN,focalfollow,agonism.loser
+0C9,3B9,avoid,Male,Male,2019-06-19,JN,focalfollow,agonism.loser
+7B3,48L,Submit,Male,Male,2019-06-19,JN,focalfollow,agonism.loser
+juvenile female,4P4,Submit,Unknown,Female,2019-06-19,JN,focalfollow,agonism.loser
+juvenile female,4P4,noncontactAgg,Unknown,Female,2019-06-19,JN,focalfollow,agonism.loser
+0C9,6M9,FearGrm,Male,Female,2019-06-19,JN,focalfollow,agonism.loser
+38Z,6M9,contactAgg,Female,Female,2019-06-19,JN,focalfollow,agonism.loser
+7B3,0P2,avoid,Male,Female,2019-06-20,JN,focalfollow,agonism.loser
+5P1,1B4,FearGrm,Female,Female,2019-06-20,JN,focalfollow,agonism.loser
+7O1,2B1,avoid,Male,Female,2019-06-20,JN,focalfollow,agonism.loser
+7B3,2D1,avoid,Male,Female,2019-06-20,JN,focalfollow,agonism.loser
+juvenile female,2D1,noncontactAgg,Unknown,Female,2019-06-20,JN,focalfollow,agonism.loser
+juvenile female,3D4,avoid,Unknown,Female,2019-06-20,JN,focalfollow,agonism.loser
+2C6,3O0,avoid,Male,Female,2019-06-20,JN,focalfollow,agonism.loser
+38Z,4H3,noncontactAgg,Female,Female,2019-06-20,JN,focalfollow,agonism.loser
+7L1,4I3,avoid,Female,Female,2019-06-20,JN,focalfollow,agonism.loser
+juvenile male,7I4,avoid,Unknown,Female,2019-06-20,JN,focalfollow,agonism.loser
+67Z,38Z,displace,Male,Female,2019-06-21,JN,focalfollow,agonism.loser
+juvenile female,3I4,displace,Unknown,Female,2019-06-21,JN,focalfollow,agonism.loser
+0G1,3I6,displace,Male,Male,2019-06-21,JN,focalfollow,agonism.loser
+38Z,4A9,avoid,Female,Female,2019-06-21,JN,focalfollow,agonism.loser
+6C6,4G6,Submit,Male,Male,2019-06-21,JN,focalfollow,agonism.loser
+53N,74K,threat,Male,Female,2019-06-21,JN,focalfollow,agonism.loser
+2C6,74K,avoid,Male,Female,2019-06-21,JN,focalfollow,agonism.loser
+6O6,82V,avoid,Male,Female,2019-06-21,JN,focalfollow,agonism.loser
+3B9,9L6,avoid,Male,Female,2019-06-21,JN,focalfollow,agonism.loser
+77V,0B4,Submit,Female,Female,2019-06-25,JN,focalfollow,agonism.loser
+77V,0B4,threat,Female,Female,2019-06-25,JN,focalfollow,agonism.loser
+juvenile male,0B4,threat,Unknown,Female,2019-06-25,JN,focalfollow,agonism.loser
+adult male,0G9,displace,Unknown,Male,2019-06-25,JN,focalfollow,agonism.loser
+48L,0P2,FearGrm,Male,Female,2019-06-25,JN,focalfollow,agonism.loser
+7B3,3B8,FearGrm,Male,Female,2019-06-25,JN,focalfollow,agonism.loser
+4P3,3B8,displace,Female,Female,2019-06-25,JN,focalfollow,agonism.loser
+3B9,4I3,FearGrm,Male,Female,2019-06-25,JN,focalfollow,agonism.loser
+1F0,67Z,FearGrm,Male,Male,2019-06-25,JN,focalfollow,agonism.loser
+48L,7M5,avoid,Male,Female,2019-06-25,JN,focalfollow,agonism.loser
+7M4,0J9,Submit,Male,Male,2019-06-26,JN,focalfollow,agonism.loser
+09Z,33V,displace,Female,Female,2019-06-26,JN,focalfollow,agonism.loser
+98V,3I4,contactAgg,Female,Female,2019-06-26,JN,focalfollow,agonism.loser
+98V,3I4,threat,Female,Female,2019-06-26,JN,focalfollow,agonism.loser
+5E4,3K1,displace,Male,Male,2019-06-26,JN,focalfollow,agonism.loser
+7B3,60V,avoid,Male,Female,2019-06-26,JN,focalfollow,agonism.loser
+9O5,8I6,Submit,Male,Female,2019-06-26,JN,focalfollow,agonism.loser
+7M9,8I6,threat,Female,Female,2019-06-26,JN,focalfollow,agonism.loser
+48L,8M2,avoid,Male,Female,2019-06-26,JN,focalfollow,agonism.loser
+7B3,95V,avoid,Male,Female,2019-06-26,JN,focalfollow,agonism.loser
+2C6,0C9,displace,Male,Male,2019-06-27,JN,focalfollow,agonism.loser
+9I4,1B4,avoid,Male,Female,2019-06-27,JN,focalfollow,agonism.loser
+95V,3H6,noncontactAgg,Female,Female,2019-06-27,JN,focalfollow,agonism.loser
+3B9,4M2,avoid,Male,Female,2019-06-27,JN,focalfollow,agonism.loser
+1F0,5H6,displace,Male,Female,2019-06-27,JN,focalfollow,agonism.loser
+9L6,88N,displace,Female,Female,2019-06-27,JN,focalfollow,agonism.loser
+1F0,8M2,FearGrm,Male,Female,2019-06-27,JN,focalfollow,agonism.loser
+67Z,9I4,avoid,Male,Male,2019-06-27,JN,focalfollow,agonism.loser
+0B4,4A9,noncontactAgg,Female,Female,2019-07-02,JN,focalfollow,agonism.loser
+3I6,7M7,noncontactAgg,Male,Male,2019-07-02,JN,focalfollow,agonism.loser
+juvenile male,9O5,avoid,Unknown,Male,2019-07-02,JN,focalfollow,agonism.loser
+adult male,11Z,avoid,Unknown,Male,2019-07-04,JN,focalfollow,agonism.loser
+4H3,2B4,FearGrm,Female,Female,2019-07-04,JN,focalfollow,agonism.loser
+juvenile female,33V,avoid,Unknown,Female,2019-07-04,JN,focalfollow,agonism.loser
+2D1,3D1,avoid,Female,Female,2019-07-04,JN,focalfollow,agonism.loser
+3D1,3D4,avoid,Female,Female,2019-07-04,JN,focalfollow,agonism.loser
+98V,3D4,displace,Female,Female,2019-07-04,JN,focalfollow,agonism.loser
+97R,3I4,noncontactAgg,Female,Female,2019-07-04,JN,focalfollow,agonism.loser
+6M8,6I7,avoid,Male,Male,2019-07-04,JN,focalfollow,agonism.loser
+1F0,6I7,displace,Male,Male,2019-07-04,JN,focalfollow,agonism.loser
+juvenile male,6O9,displace,Unknown,Female,2019-07-04,JN,focalfollow,agonism.loser
+0G9,7A9,avoid,Male,Female,2019-07-04,JN,focalfollow,agonism.loser
+0G1,97R,avoid,Male,Female,2019-07-04,JN,focalfollow,agonism.loser
+juvenile female,97R,contactAgg,Unknown,Female,2019-07-04,JN,overtime,agonism.loser
+7H0,9L6,Submit,Male,Female,2019-07-04,JN,focalfollow,agonism.loser
+7B3,9O5,noncontactAgg,Male,Male,2019-07-04,JN,focalfollow,agonism.loser
+3B9,0C9,displace,Male,Male,2019-07-05,JN,focalfollow,agonism.loser
+7M4,0G1,avoid,Male,Male,2019-07-05,JN,focalfollow,agonism.loser
+juvenile female,1K8,avoid,Unknown,Female,2019-07-05,JN,focalfollow,agonism.loser
+67Z,2D4,avoid,Male,Female,2019-07-05,JN,focalfollow,agonism.loser
+95V,4I3,avoid,Female,Female,2019-07-05,JN,focalfollow,agonism.loser
+1F0,4P3,avoid,Male,Female,2019-07-05,JN,focalfollow,agonism.loser
+adult male,4P3,avoid,Unknown,Female,2019-07-05,JN,focalfollow,agonism.loser
+67Z,9I3,avoid,Male,Female,2019-07-05,JN,focalfollow,agonism.loser
+9C7,2D1,contactAgg,Female,Female,2019-07-08,JN,focalfollow,agonism.loser
+0G9,3D4,avoid,Male,Female,2019-07-08,JN,focalfollow,agonism.loser
+11Z,3I6,avoid,Male,Male,2019-07-08,JN,focalfollow,agonism.loser
+juvenile female,3O0,avoid,Unknown,Female,2019-07-08,JN,focalfollow,agonism.loser
+5P2,5H6,avoid,Male,Female,2019-07-08,JN,focalfollow,agonism.loser
+7H0,5H6,noncontactAgg,Male,Female,2019-07-08,JN,focalfollow,agonism.loser
+7B3,6C6,avoid,Male,Male,2019-07-08,JN,focalfollow,agonism.loser
+8M6,74K,contactAgg,Female,Female,2019-07-08,JN,focalfollow,agonism.loser
+infant,82V,contactAgg,Unknown,Female,2019-07-08,JN,focalfollow,agonism.loser
+7B3,8I6,displace,Male,Female,2019-07-08,JN,focalfollow,agonism.loser
+6O6,8M0,noncontactAgg,Male,Female,2019-07-08,JN,focalfollow,agonism.loser
+7M4,8M6,avoid,Male,Female,2019-07-08,JN,focalfollow,agonism.loser
+2L6,11Z,avoid,Male,Male,2019-07-09,JN,focalfollow,agonism.loser
+juvenile male,2B1,displace,Unknown,Female,2019-07-09,JN,focalfollow,agonism.loser
+5E4,3I6,Submit,Male,Male,2019-07-09,JN,focalfollow,agonism.loser
+4P3,4I3,avoid,Female,Female,2019-07-09,JN,focalfollow,agonism.loser
+3H6,5A1,displace,Female,Female,2019-07-09,JN,focalfollow,agonism.loser
+95V,6J4,avoid,Female,Female,2019-07-09,JN,focalfollow,agonism.loser
+48L,6J4,avoid,Male,Female,2019-07-09,JN,focalfollow,agonism.loser
+6M8,7H0,Submit,Male,Male,2019-07-09,JN,focalfollow,agonism.loser
+95V,7L1,displace,Female,Female,2019-07-09,JN,focalfollow,agonism.loser
+2C6,82Z,Submit,Male,Female,2019-07-09,JN,focalfollow,agonism.loser
+juvenile male,82Z,avoid,Unknown,Female,2019-07-09,JN,focalfollow,agonism.loser
+0I7,9C7,avoid,Female,Female,2019-07-09,JN,focalfollow,agonism.loser
+5E4,1B4,contactAgg,Male,Female,2019-07-10,JN,focalfollow,agonism.loser
+67Z,38Z,avoid,Male,Female,2019-07-10,JN,focalfollow,agonism.loser
+juvenile male,4P3,avoid,Unknown,Female,2019-07-10,JN,focalfollow,agonism.loser
+4H7,4P3,displace,Female,Female,2019-07-10,JN,focalfollow,agonism.loser
+7O1,67Z,FearGrm,Male,Male,2019-07-10,JN,focalfollow,agonism.loser
+7O1,67Z,displace,Male,Male,2019-07-10,JN,focalfollow,agonism.loser
+adult male,7M5,avoid,Unknown,Female,2019-07-10,JN,focalfollow,agonism.loser
+5E4,8M0,FearGrm,Male,Female,2019-07-10,JN,focalfollow,agonism.loser
+6O6,9L6,avoid,Male,Female,2019-07-10,JN,focalfollow,agonism.loser
+juvenile male,1B4,avoid,Unknown,Female,2019-07-11,JN,focalfollow,agonism.loser
+4A9,1B4,avoid,Female,Female,2019-07-11,JN,focalfollow,agonism.loser
+4P4,1K8,displace,Female,Female,2019-07-11,JN,focalfollow,agonism.loser
+1F0,38Z,displace,Male,Female,2019-07-11,JN,focalfollow,agonism.loser
+6I7,3B9,FearGrm,Male,Male,2019-07-11,JN,focalfollow,agonism.loser
+5E4,3I6,avoid,Male,Male,2019-07-11,JN,focalfollow,agonism.loser
+4A9,4P9,displace,Female,Female,2019-07-11,JN,focalfollow,agonism.loser
+7B2,4P9,avoid,Male,Female,2019-07-11,JN,focalfollow,agonism.loser
+juvenile male,53N,Submit,Unknown,Male,2019-07-11,JN,focalfollow,agonism.loser
+9L6,7M5,avoid,Female,Female,2019-07-11,JN,focalfollow,agonism.loser
+5P1,8M6,Submit,Female,Female,2019-07-11,JN,focalfollow,agonism.loser
+6I7,98V,FearGrm,Male,Female,2019-07-11,JN,focalfollow,agonism.loser
+67Z,98V,avoid,Male,Female,2019-07-11,JN,focalfollow,agonism.loser
+5E4,11Z,FearGrm,Male,Male,2019-07-12,JN,focalfollow,agonism.loser
+4H7,3D4,Submit,Female,Female,2019-07-12,JN,focalfollow,agonism.loser
+9L6,3D4,avoid,Female,Female,2019-07-12,JN,focalfollow,agonism.loser
+48L,4G6,FearGrm,Male,Male,2019-07-12,JN,focalfollow,agonism.loser
+3B9,88N,FearGrm,Male,Female,2019-07-12,JN,focalfollow,agonism.loser
+6M9,97R,avoid,Female,Female,2019-07-12,JN,focalfollow,agonism.loser
+7M4,9C7,avoid,Male,Female,2019-07-12,JN,focalfollow,agonism.loser
+7M4,9C7,avoid,Male,Female,2019-07-12,JN,focalfollow,agonism.loser
+2L6,4P4,FearGrm,Male,Female,2019-07-16,JN,focalfollow,agonism.loser
+97R,4P4,FearGrm,Female,Female,2019-07-16,JN,focalfollow,agonism.loser
+53N,67Z,avoid,Male,Male,2019-07-16,JN,focalfollow,agonism.loser
+adult male,67Z,FearGrm,Unknown,Male,2019-07-16,JN,focalfollow,agonism.loser
+9C7,6J4,avoid,Female,Female,2019-07-16,JN,focalfollow,agonism.loser
+1F0,6M8,avoid,Male,Male,2019-07-16,JN,focalfollow,agonism.loser
+6O6,6M8,avoid,Male,Male,2019-07-16,JN,focalfollow,agonism.loser
+1F0,6M8,avoid,Male,Male,2019-07-16,JN,focalfollow,agonism.loser
+juvenile female,77V,displace,Unknown,Female,2019-07-16,JN,focalfollow,agonism.loser
+09Z,77V,displace,Female,Female,2019-07-16,JN,focalfollow,agonism.loser
+1B4,7H0,noncontactAgg,Female,Male,2019-07-16,JN,focalfollow,agonism.loser
+2I1,8M0,avoid,Male,Female,2019-07-16,JN,focalfollow,agonism.loser
+7H0,6O9,noncontactAgg,Male,Female,2019-07-17,JN,focalfollow,agonism.loser
+6M8,8I6,avoid,Male,Female,2019-07-17,JN,focalfollow,agonism.loser
+9I4,8I6,FearGrm,Male,Female,2019-07-17,JN,focalfollow,agonism.loser
+9O5,95V,avoid,Male,Female,2019-07-17,JN,focalfollow,agonism.loser
+adult male,0J9,FearGrm,Unknown,Male,2019-07-18,JN,focalfollow,agonism.loser
+9O5,2B1,avoid,Male,Female,2019-07-18,JN,focalfollow,agonism.loser
+juvenile female,2B4,displace,Unknown,Female,2019-07-18,JN,focalfollow,agonism.loser
+97R,2B4,contactAgg,Female,Female,2019-07-18,JN,focalfollow,agonism.loser
+adult male,3B8,FearGrm,Unknown,Female,2019-07-18,JN,focalfollow,agonism.loser
+adult male,3B8,avoid,Unknown,Female,2019-07-18,JN,focalfollow,agonism.loser
+9O5,3B8,FearGrm,Male,Female,2019-07-18,JN,focalfollow,agonism.loser
+adult male,3D1,Submit,Unknown,Female,2019-07-18,JN,focalfollow,agonism.loser
+2G8,3H6,displace,Female,Female,2019-07-18,JN,focalfollow,agonism.loser
+4H3,3K1,threat,Female,Male,2019-07-18,JN,focalfollow,agonism.loser
+juvenile male,3K1,displace,Unknown,Male,2019-07-18,JN,focalfollow,agonism.loser
+juvenile female,4G6,displace,Unknown,Male,2019-07-18,JN,focalfollow,agonism.loser
+0C9,7A9,avoid,Male,Female,2019-07-18,JN,focalfollow,agonism.loser
+2L6,7H0,displace,Male,Male,2019-07-18,JN,focalfollow,agonism.loser
+6M9,7H0,threat,Female,Male,2019-07-18,JN,focalfollow,agonism.loser
+6M8,0G1,avoid,Male,Male,2019-07-19,JN,focalfollow,agonism.loser
+7H0,0H3,avoid,Male,Male,2019-07-19,JN,focalfollow,agonism.loser
+2C6,2D1,FearGrm,Male,Female,2019-07-19,JN,focalfollow,agonism.loser
+2C6,2D1,noncontactAgg,Male,Female,2019-07-19,JN,focalfollow,agonism.loser
+2C6,2D1,noncontactAgg,Male,Female,2019-07-19,JN,focalfollow,agonism.loser
+0J9,2L6,displace,Male,Male,2019-07-19,JN,focalfollow,agonism.loser
+5J5,38Z,avoid,Male,Female,2019-07-19,JN,focalfollow,agonism.loser
+4G6,3B9,avoid,Male,Male,2019-07-19,JN,focalfollow,agonism.loser
+6M8,3B9,avoid,Male,Male,2019-07-19,JN,focalfollow,agonism.loser
+adult male,3D1,FearGrm,Unknown,Female,2019-07-19,JN,focalfollow,agonism.loser
+2D4,3D4,Submit,Female,Female,2019-07-19,JN,focalfollow,agonism.loser
+7H0,3G2,avoid,Male,Female,2019-07-19,JN,focalfollow,agonism.loser
+juvenile male,3G2,avoid,Unknown,Female,2019-07-19,JN,focalfollow,agonism.loser
+8M2,3I4,displace,Female,Female,2019-07-19,JN,focalfollow,agonism.loser
+95V,4P4,Submit,Female,Female,2019-07-19,JN,focalfollow,agonism.loser
+juvenile female,4P4,noncontactAgg,Unknown,Female,2019-07-19,JN,focalfollow,agonism.loser
+9I4,4P4,avoid,Male,Female,2019-07-19,JN,focalfollow,agonism.loser
+0C9,5H6,FearGrm,Male,Female,2019-07-19,JN,focalfollow,agonism.loser
+3K1,6J4,avoid,Male,Female,2019-07-19,JN,focalfollow,agonism.loser
+88N,82Z,avoid,Female,Female,2019-07-19,JN,focalfollow,agonism.loser
+0J9,88N,avoid,Male,Female,2019-07-19,JN,focalfollow,agonism.loser
+2L6,88N,FearGrm,Male,Female,2019-07-19,JN,overtime,agonism.loser
+juvenile female,8I6,avoid,Unknown,Female,2019-07-19,JN,focalfollow,agonism.loser
+7M4,8M2,displace,Male,Female,2019-07-19,JN,focalfollow,agonism.loser
+9I4,7H0,avoid,Male,Male,2019-07-20,JN,focalfollow,agonism.loser
+9C7,7I4,avoid,Female,Female,2019-07-20,JN,focalfollow,agonism.loser
+juvenile female,9L6,avoid,Unknown,Female,2019-07-20,JN,focalfollow,agonism.loser
+7O1,9L6,noncontactAgg,Male,Female,2019-07-20,JN,focalfollow,agonism.loser
+juvenile female,0I7,contactAgg,Unknown,Female,2019-07-23,JN,focalfollow,agonism.loser
+3G2,4I3,noncontactAgg,Female,Female,2019-07-23,JN,focalfollow,agonism.loser
+3B9,7A9,avoid,Male,Female,2019-07-23,JN,focalfollow,agonism.loser
+juvenile male,7F7,contactAgg,Unknown,Female,2019-07-23,JN,focalfollow,agonism.loser
+0C9,7M5,displace,Male,Female,2019-07-23,JN,focalfollow,agonism.loser
+juvenile female,7M5,FearGrm,Unknown,Female,2019-07-23,JN,focalfollow,agonism.loser
+0C9,7M5,FearGrm,Male,Female,2019-07-23,JN,focalfollow,agonism.loser
+67Z,7O1,displace,Male,Male,2019-07-23,JN,focalfollow,agonism.loser
+0G1,9I3,displace,Male,Female,2019-07-23,JN,focalfollow,agonism.loser
+2I1,9I3,avoid,Male,Female,2019-07-23,JN,focalfollow,agonism.loser
+7H0,3K1,displace,Male,Male,2019-07-24,JN,focalfollow,agonism.loser
+67Z,5P2,FearGrm,Male,Male,2019-07-24,JN,focalfollow,agonism.loser
+5A1,8M2,displace,Female,Female,2019-07-24,JN,focalfollow,agonism.loser
+2I1,2L6,noncontactAgg,Male,Male,2019-08-01,JN,focalfollow,agonism.loser
+7H0,6J4,avoid,Male,Female,2019-08-01,JN,focalfollow,agonism.loser
+juvenile female,3D4,avoid,Unknown,Female,2019-08-05,JN,focalfollow,agonism.loser
+9O5,3O0,avoid,Male,Female,2019-08-05,JN,focalfollow,agonism.loser
+juvenile male,3O0,Submit,Unknown,Female,2019-08-05,JN,focalfollow,agonism.loser
+1B4,4H7,noncontactAgg,Female,Female,2019-08-05,JN,focalfollow,agonism.loser
+7M4,74K,FearGrm,Male,Female,2019-08-05,JN,focalfollow,agonism.loser
+adult male,7M9,FearGrm,Unknown,Female,2019-08-05,JN,focalfollow,agonism.loser
+6C6,9I3,FearGrm,Male,Female,2019-08-05,JN,focalfollow,agonism.loser
+2D1,9I3,threat,Female,Female,2019-08-05,JN,overtime,agonism.loser
+7F7,9O5,displace,Female,Male,2019-08-05,JN,focalfollow,agonism.loser
+48L,9O5,displace,Male,Male,2019-08-05,JN,focalfollow,agonism.loser
+48L,9O5,displace,Male,Male,2019-08-05,JN,focalfollow,agonism.loser
+0B4,0H3,avoid,Female,Male,2019-08-06,JN,focalfollow,agonism.loser
+48L,1F0,avoid,Male,Male,2019-08-06,JN,focalfollow,agonism.loser
+09Z,3D4,displace,Female,Female,2019-08-06,JN,focalfollow,agonism.loser
+48L,2L6,avoid,Male,Male,2019-08-07,JN,focalfollow,agonism.loser
+juvenile male,4M2,threat,Unknown,Female,2019-08-07,JN,focalfollow,agonism.loser
+9I4,7I4,avoid,Male,Female,2019-08-07,JN,focalfollow,agonism.loser
+7B3,7I4,avoid,Male,Female,2019-08-07,JN,focalfollow,agonism.loser
+4A9,82Z,threat,Female,Female,2019-08-07,JN,focalfollow,agonism.loser
+juvenile male,8I6,avoid,Unknown,Female,2019-08-07,JN,focalfollow,agonism.loser
+48L,8I6,Submit,Male,Female,2019-08-07,JN,focalfollow,agonism.loser
+0B4,8I6,noncontactAgg,Female,Female,2019-08-07,JN,focalfollow,agonism.loser
+5P2,0I7,displace,Male,Female,2019-08-09,JN,focalfollow,agonism.loser
+juvenile female,2B1,displace,Unknown,Female,2019-08-09,JN,focalfollow,agonism.loser
+7M4,2D4,FearGrm,Male,Female,2019-08-09,JN,focalfollow,agonism.loser
+48L,3B8,avoid,Male,Female,2019-08-09,JN,focalfollow,agonism.loser
+3L9,4H7,avoid,Female,Female,2019-08-09,JN,focalfollow,agonism.loser
+7O1,5A1,avoid,Male,Female,2019-08-09,JN,focalfollow,agonism.loser
+3G2,88N,avoid,Female,Female,2019-08-09,JN,focalfollow,agonism.loser
+6C6,95V,avoid,Male,Female,2019-08-09,JN,focalfollow,agonism.loser
+6C6,95V,avoid,Male,Female,2019-08-09,JN,focalfollow,agonism.loser
+0H3,2D4,displace,Male,Female,2019-08-12,JN,focalfollow,agonism.loser
+7O1,5P2,displace,Male,Male,2019-08-12,JN,focalfollow,agonism.loser
+juvenile female,6O9,avoid,Unknown,Female,2019-08-12,JN,focalfollow,agonism.loser
+0P2,6O9,avoid,Female,Female,2019-08-12,JN,focalfollow,agonism.loser
+5P2,7M4,FearGrm,Male,Male,2019-08-12,JN,focalfollow,agonism.loser
+96Z,82Z,Submit,Male,Female,2019-08-12,JN,focalfollow,agonism.loser
+juvenile female,88N,displace,Unknown,Female,2019-08-12,JN,focalfollow,agonism.loser
+0G1,8I6,FearGrm,Male,Female,2019-08-12,JN,focalfollow,agonism.loser
+7M4,0I7,avoid,Male,Female,2019-08-13,JN,focalfollow,agonism.loser
+4M2,2B4,Submit,Female,Female,2019-08-13,JN,focalfollow,agonism.loser
+5E4,3B9,avoid,Male,Male,2019-08-13,JN,focalfollow,agonism.loser
+4A9,3G2,avoid,Female,Female,2019-08-13,JN,focalfollow,agonism.loser
+7H0,4A9,avoid,Male,Female,2019-08-13,JN,focalfollow,agonism.loser
+09Z,4P9,avoid,Female,Female,2019-08-13,JN,focalfollow,agonism.loser
+juvenile male,4P9,threat,Unknown,Female,2019-08-13,JN,focalfollow,agonism.loser
+juvenile male,4P9,noncontactAgg,Unknown,Female,2019-08-13,JN,focalfollow,agonism.loser
+juvenile female,74K,avoid,Unknown,Female,2019-08-13,JN,focalfollow,agonism.loser
+5E4,8M0,displace,Male,Female,2019-08-13,JN,focalfollow,agonism.loser
+2G8,8M6,avoid,Female,Female,2019-08-13,JN,focalfollow,agonism.loser
+3H6,9L6,avoid,Female,Female,2019-08-13,JN,focalfollow,agonism.loser
+1F0,0C9,Submit,Male,Male,2019-08-14,JN,focalfollow,agonism.loser
+2L6,0G9,FearGrm,Male,Male,2019-08-14,JN,focalfollow,agonism.loser
+48L,1B4,displace,Male,Female,2019-08-14,JN,focalfollow,agonism.loser
+juvenile male,1B4,avoid,Unknown,Female,2019-08-14,JN,focalfollow,agonism.loser
+juvenile male,2G8,FearGrm,Unknown,Female,2019-08-14,JN,focalfollow,agonism.loser
+7F7,2G8,avoid,Female,Female,2019-08-14,JN,focalfollow,agonism.loser
+7F7,6J4,contactAgg,Female,Female,2019-08-14,JN,focalfollow,agonism.loser
+38Z,6M9,displace,Female,Female,2019-08-14,JN,focalfollow,agonism.loser
+2I1,6O9,avoid,Male,Female,2019-08-14,JN,focalfollow,agonism.loser
+48L,77V,avoid,Male,Female,2019-08-14,JN,focalfollow,agonism.loser
+6M9,9I3,avoid,Female,Female,2019-08-14,JN,focalfollow,agonism.loser
+6I7,0G9,avoid,Male,Male,2019-08-16,JN,focalfollow,agonism.loser
+9I4,3I4,displace,Male,Female,2019-08-16,JN,focalfollow,agonism.loser
+82V,3I4,avoid,Female,Female,2019-08-16,JN,focalfollow,agonism.loser
+5P2,1K8,displace,Male,Female,2019-08-19,JN,focalfollow,agonism.loser
+48L,3G2,displace,Male,Female,2019-08-19,JN,focalfollow,agonism.loser
+4A9,3G2,avoid,Female,Female,2019-08-19,JN,focalfollow,agonism.loser
+6O6,3I6,noncontactAgg,Male,Male,2019-08-19,JN,focalfollow,agonism.loser
+juvenile male,6M9,avoid,Unknown,Female,2019-08-19,JN,focalfollow,agonism.loser
+7H0,7A9,avoid,Male,Female,2019-08-19,JN,focalfollow,agonism.loser
+6M8,8M2,avoid,Male,Female,2019-08-19,JN,focalfollow,agonism.loser
+juvenile male,8M2,noncontactAgg,Unknown,Female,2019-08-19,JN,focalfollow,agonism.loser
+60V,2B4,threat,Female,Female,2019-08-20,JN,focalfollow,agonism.loser
+2C6,2D4,contactAgg,Male,Female,2019-08-20,JN,focalfollow,agonism.loser
+4P3,3B8,Submit,Female,Female,2019-08-20,JN,focalfollow,agonism.loser
+9O5,5P1,avoid,Male,Female,2019-08-20,JN,focalfollow,agonism.loser
+juvenile male,82Z,FearGrm,Unknown,Female,2019-08-20,JN,focalfollow,agonism.loser
+2I1,88N,avoid,Male,Female,2019-08-20,JN,focalfollow,agonism.loser
+adult male,0P2,avoid,Unknown,Female,2019-08-21,JN,focalfollow,agonism.loser
+juvenile male,0P2,avoid,Unknown,Female,2019-08-21,JN,focalfollow,agonism.loser
+33V,2G8,noncontactAgg,Female,Female,2019-08-21,JN,focalfollow,agonism.loser
+0H3,3I6,displace,Male,Male,2019-08-21,JN,focalfollow,agonism.loser
+48L,3L9,displace,Male,Female,2019-08-21,JN,focalfollow,agonism.loser
+adult male,4G6,FearGrm,Unknown,Male,2019-08-21,JN,focalfollow,agonism.loser
+2C6,5P2,avoid,Male,Male,2019-08-21,JN,focalfollow,agonism.loser
+7M4,6M8,FearGrm,Male,Male,2019-08-21,JN,focalfollow,agonism.loser
+4P4,6O6,threat,Female,Male,2019-08-21,JN,focalfollow,agonism.loser
+7M9,7B3,avoid,Female,Male,2019-08-21,JN,focalfollow,agonism.loser
+2C6,7H0,avoid,Male,Male,2019-08-21,JN,focalfollow,agonism.loser
+2L6,11Z,FearGrm,Male,Male,2019-08-22,JN,focalfollow,agonism.loser
+5P1,3I4,Submit,Female,Female,2019-08-22,JN,focalfollow,agonism.loser
+5P1,3I4,threat,Female,Female,2019-08-22,JN,focalfollow,agonism.loser
+7B3,3O0,avoid,Male,Female,2019-08-22,JN,focalfollow,agonism.loser
+juvenile male,4H7,avoid,Unknown,Female,2019-08-22,JN,focalfollow,agonism.loser
+9O5,4P9,avoid,Male,Female,2019-08-22,JN,focalfollow,agonism.loser
+0C9,4P9,avoid,Male,Female,2019-08-22,JN,focalfollow,agonism.loser
+0B4,5A1,avoid,Female,Female,2019-08-22,JN,focalfollow,agonism.loser
+juvenile female,5P1,avoid,Unknown,Female,2019-08-22,JN,focalfollow,agonism.loser
+7O1,6I7,FearGrm,Male,Male,2019-08-22,JN,focalfollow,agonism.loser
+5P2,7M4,FearGrm,Male,Male,2019-08-22,JN,focalfollow,agonism.loser
+juvenile male,7M5,avoid,Unknown,Female,2019-08-22,JN,focalfollow,agonism.loser
+juvenile male,7M5,FearGrm,Unknown,Female,2019-08-22,JN,focalfollow,agonism.loser
+3I6,88N,avoid,Male,Female,2019-08-22,JN,focalfollow,agonism.loser
+1F0,88N,Submit,Male,Female,2019-08-22,JN,focalfollow,agonism.loser
+8I6,88N,avoid,Female,Female,2019-08-22,JN,focalfollow,agonism.loser
+2G8,88N,Submit,Female,Female,2019-08-22,JN,focalfollow,agonism.loser
+juvenile female,98V,displace,Unknown,Female,2019-08-22,JN,focalfollow,agonism.loser
+0J9,2I1,avoid,Male,Male,2019-08-23,JN,focalfollow,agonism.loser
+juvenile male,8M2,noncontactAgg,Unknown,Female,2019-08-23,JN,focalfollow,agonism.loser
+7O1,8M2,FearGrm,Male,Female,2019-08-23,JN,focalfollow,agonism.loser
+88N,2B1,avoid,Female,Female,2019-08-26,JN,focalfollow,agonism.loser
+98V,2B1,avoid,Female,Female,2019-08-26,JN,focalfollow,agonism.loser
+98V,2B1,displace,Female,Female,2019-08-26,JN,focalfollow,agonism.loser
+3I6,3B9,FearGrm,Male,Male,2019-08-26,JN,focalfollow,agonism.loser
+3I6,3B9,avoid,Male,Male,2019-08-26,JN,focalfollow,agonism.loser
+3L9,3D1,displace,Female,Female,2019-08-26,JN,focalfollow,agonism.loser
+2C6,4H3,contactAgg,Male,Female,2019-08-26,JN,focalfollow,agonism.loser
+juvenile male,6J4,avoid,Unknown,Female,2019-08-26,JN,focalfollow,agonism.loser
+juvenile female,82V,noncontactAgg,Unknown,Female,2019-08-26,JN,focalfollow,agonism.loser
+97R,82V,contactAgg,Female,Female,2019-08-26,JN,focalfollow,agonism.loser
+juvenile male,8I6,avoid,Unknown,Female,2019-08-26,JN,focalfollow,agonism.loser
+juvenile female,8M2,threat,Unknown,Female,2019-08-26,JN,focalfollow,agonism.loser
+juvenile female,9L6,noncontactAgg,Unknown,Female,2019-08-26,JN,focalfollow,agonism.loser
+juvenile male,9L6,avoid,Unknown,Female,2019-08-26,JN,focalfollow,agonism.loser
+48L,9O5,avoid,Male,Male,2019-08-26,JN,focalfollow,agonism.loser
+juvenile male,0J9,avoid,Unknown,Male,2019-09-09,JN,focalfollow,agonism.loser
+juvenile male,3O0,avoid,Unknown,Female,2019-09-09,JN,focalfollow,agonism.loser
+5H6,4I3,avoid,Female,Female,2019-09-09,JN,focalfollow,agonism.loser
+74K,4I3,avoid,Female,Female,2019-09-09,JN,focalfollow,agonism.loser
+juvenile male,6I7,avoid,Unknown,Male,2019-09-09,JN,focalfollow,agonism.loser
+5H6,8M0,displace,Female,Female,2019-09-09,JN,focalfollow,agonism.loser
+67Z,8M0,avoid,Male,Female,2019-09-09,JN,focalfollow,agonism.loser
+juvenile male,2B1,avoid,Unknown,Female,2019-09-10,JN,focalfollow,agonism.loser
+0B4,2B4,displace,Female,Female,2019-09-10,JN,focalfollow,agonism.loser
+7B3,2G8,avoid,Male,Female,2019-09-10,JN,focalfollow,agonism.loser
+1F0,3B9,avoid,Male,Male,2019-09-10,JN,focalfollow,agonism.loser
+adult male,0G9,FearGrm,Unknown,Male,2019-09-12,JN,focalfollow,agonism.loser
+2L6,0H3,FearGrm,Male,Male,2019-09-12,JN,focalfollow,agonism.loser
+3I4,1K8,noncontactAgg,Female,Female,2019-09-12,JN,focalfollow,agonism.loser
+8M6,2D4,Submit,Female,Female,2019-09-12,JN,focalfollow,agonism.loser
+juvenile male,2D4,avoid,Unknown,Female,2019-09-12,JN,focalfollow,agonism.loser
+3L9,3B8,avoid,Female,Female,2019-09-12,JN,focalfollow,agonism.loser
+0C9,3I6,displace,Male,Male,2019-09-12,JN,focalfollow,agonism.loser
+8I6,4I3,avoid,Female,Female,2019-09-12,JN,focalfollow,agonism.loser
+3H6,5H6,avoid,Female,Female,2019-09-12,JN,focalfollow,agonism.loser
+33V,7L1,contactAgg,Female,Female,2019-09-12,JN,focalfollow,agonism.loser
+juvenile female,7M5,avoid,Unknown,Female,2019-09-12,JN,focalfollow,agonism.loser
+9C7,3D4,avoid,Female,Female,2019-09-13,JN,focalfollow,agonism.loser
+9C7,3I4,Submit,Female,Female,2019-09-13,JN,focalfollow,agonism.loser
+juvenile female,4A9,contactAgg,Unknown,Female,2019-09-13,JN,focalfollow,agonism.loser
+91V,4P3,noncontactAgg,Female,Female,2019-09-13,JN,focalfollow,agonism.loser
+9C7,4P3,avoid,Female,Female,2019-09-13,JN,focalfollow,agonism.loser
+9C7,4P3,Submit,Female,Female,2019-09-13,JN,focalfollow,agonism.loser
+3H6,6J4,avoid,Female,Female,2019-09-13,JN,focalfollow,agonism.loser
+adult male,2L6,avoid,Unknown,Male,2019-09-16,JN,focalfollow,agonism.loser
+0B4,60V,avoid,Female,Female,2019-09-16,JN,focalfollow,agonism.loser
+9I3,6J4,threat,Female,Female,2019-09-16,JN,focalfollow,agonism.loser
+juvenile female,82V,avoid,Unknown,Female,2019-09-16,JN,focalfollow,agonism.loser
+6C6,82V,displace,Male,Female,2019-09-16,JN,focalfollow,agonism.loser
+juvenile female,82V,avoid,Unknown,Female,2019-09-16,JN,focalfollow,agonism.loser
+juvenile male,82V,avoid,Unknown,Female,2019-09-16,JN,focalfollow,agonism.loser
+60V,9L6,FearGrm,Female,Female,2019-09-16,JN,focalfollow,agonism.loser
+09Z,0B4,displace,Female,Female,2019-09-18,JN,focalfollow,agonism.loser
+97R,2D1,contactAgg,Female,Female,2019-09-18,JN,focalfollow,agonism.loser
+7A9,2D1,FearGrm,Female,Female,2019-09-18,JN,focalfollow,agonism.loser
+7H0,3D4,avoid,Male,Female,2019-09-18,JN,focalfollow,agonism.loser
+7H0,3D4,avoid,Male,Female,2019-09-18,JN,focalfollow,agonism.loser
+juvenile male,5H6,avoid,Unknown,Female,2019-09-18,JN,focalfollow,agonism.loser
+33V,5P1,Submit,Female,Female,2019-09-18,JN,focalfollow,agonism.loser
+1F0,6I7,displace,Male,Male,2019-09-18,JN,focalfollow,agonism.loser
+0C9,7M9,noncontactAgg,Male,Female,2019-09-18,JN,overtime,agonism.loser
+5P1,82Z,avoid,Female,Female,2019-09-18,JN,focalfollow,agonism.loser
+7M9,8I6,Submit,Female,Female,2019-09-18,JN,focalfollow,agonism.loser
+2G8,8I6,FearGrm,Female,Female,2019-09-18,JN,focalfollow,agonism.loser
+7M4,8M0,avoid,Male,Female,2019-09-18,JN,focalfollow,agonism.loser
+2C6,0G9,FearGrm,Male,Male,2019-09-19,JN,focalfollow,agonism.loser
+3K1,0G9,avoid,Male,Male,2019-09-19,JN,focalfollow,agonism.loser
+8M0,1K8,displace,Female,Female,2019-09-19,JN,focalfollow,agonism.loser
+7M5,2B1,displace,Female,Female,2019-09-19,JN,focalfollow,agonism.loser
+7M5,2B1,avoid,Female,Female,2019-09-19,JN,focalfollow,agonism.loser
+91V,3B8,Submit,Female,Female,2019-09-19,JN,focalfollow,agonism.loser
+2G8,3H6,noncontactAgg,Female,Female,2019-09-19,JN,focalfollow,agonism.loser
+adult male,4A9,avoid,Unknown,Female,2019-09-19,JN,focalfollow,agonism.loser
+adult male,4A9,displace,Unknown,Female,2019-09-19,JN,focalfollow,agonism.loser
+3I4,4I3,threat,Female,Female,2019-09-19,JN,focalfollow,agonism.loser
+3I4,4I3,FearGrm,Female,Female,2019-09-19,JN,focalfollow,agonism.loser
+3I4,4I3,avoid,Female,Female,2019-09-19,JN,focalfollow,agonism.loser
+09Z,4P9,avoid,Female,Female,2019-09-19,JN,focalfollow,agonism.loser
+juvenile female,4P9,avoid,Unknown,Female,2019-09-19,JN,focalfollow,agonism.loser
+juvenile female,5A1,avoid,Unknown,Female,2019-09-19,JN,focalfollow,agonism.loser
+1F0,82V,avoid,Male,Female,2019-09-19,JN,focalfollow,agonism.loser
+38Z,8M2,FearGrm,Female,Female,2019-09-19,JN,focalfollow,agonism.loser
+juvenile female,98V,Submit,Unknown,Female,2019-09-19,JN,focalfollow,agonism.loser
+5E4,3D4,avoid,Male,Female,2019-09-20,JN,focalfollow,agonism.loser
+6O9,3D4,avoid,Female,Female,2019-09-20,JN,focalfollow,agonism.loser
+4M2,3D4,avoid,Female,Female,2019-09-20,JN,focalfollow,agonism.loser
+adult male,3D4,noncontactAgg,Unknown,Female,2019-09-20,JN,focalfollow,agonism.loser
+2L6,6O9,displace,Male,Female,2019-09-20,JN,focalfollow,agonism.loser
+juvenile female,2B4,avoid,Unknown,Female,2019-09-27,JN,focalfollow,agonism.loser
+juvenile female,2B4,Submit,Unknown,Female,2019-09-27,JN,focalfollow,agonism.loser
+5H6,2D4,avoid,Female,Female,2019-09-27,JN,focalfollow,agonism.loser
+juvenile male,3D1,displace,Unknown,Female,2019-09-27,JN,focalfollow,agonism.loser
+2C6,3G2,avoid,Male,Female,2019-09-27,JN,focalfollow,agonism.loser
+6I7,3G2,avoid,Male,Female,2019-09-27,JN,focalfollow,agonism.loser
+48L,3G2,avoid,Male,Female,2019-09-27,JN,focalfollow,agonism.loser
+48L,3G2,avoid,Male,Female,2019-09-27,JN,focalfollow,agonism.loser
+juvenile male,3I4,avoid,Unknown,Female,2019-09-27,JN,focalfollow,agonism.loser
+juvenile male,3I4,avoid,Unknown,Female,2019-09-27,JN,focalfollow,agonism.loser
+7O1,3I4,avoid,Male,Female,2019-09-27,JN,focalfollow,agonism.loser
+0G1,3I4,noncontactAgg,Male,Female,2019-09-27,JN,focalfollow,agonism.loser
+juvenile female,3I4,Submit,Unknown,Female,2019-09-27,JN,focalfollow,agonism.loser
+6C6,3I6,avoid,Male,Male,2019-09-27,JN,focalfollow,agonism.loser
+95V,3I6,threat,Female,Male,2019-09-27,JN,focalfollow,agonism.loser
+9O5,3I6,noncontactAgg,Male,Male,2019-09-27,JN,focalfollow,agonism.loser
+juvenile female,3O0,avoid,Unknown,Female,2019-09-27,JN,focalfollow,agonism.loser
+5E4,4I3,noncontactAgg,Male,Female,2019-09-27,JN,focalfollow,agonism.loser
+juvenile male,4P3,avoid,Unknown,Female,2019-09-27,JN,focalfollow,agonism.loser
+2C6,5E4,avoid,Male,Male,2019-09-27,JN,focalfollow,agonism.loser
+4H7,5E4,threat,Female,Male,2019-09-27,JN,focalfollow,agonism.loser
+juvenile male,6O9,noncontactAgg,Unknown,Female,2019-09-27,JN,focalfollow,agonism.loser
+juvenile female,6O9,threat,Unknown,Female,2019-09-27,JN,focalfollow,agonism.loser
+juvenile male,7M5,avoid,Unknown,Female,2019-09-27,JN,focalfollow,agonism.loser
+juvenile female,82Z,avoid,Unknown,Female,2019-09-27,JN,focalfollow,agonism.loser
+juvenile female,82Z,avoid,Unknown,Female,2019-09-27,JN,focalfollow,agonism.loser
+2G8,9I3,avoid,Female,Female,2019-09-27,JN,focalfollow,agonism.loser
+6M8,2D1,displace,Male,Female,2019-09-30,JN,focalfollow,agonism.loser
+7H0,38Z,displace,Male,Female,2019-09-30,JN,focalfollow,agonism.loser
+9I4,4A9,avoid,Male,Female,2019-09-30,JN,focalfollow,agonism.loser
+juvenile female,4P4,noncontactAgg,Unknown,Female,2019-09-30,JN,focalfollow,agonism.loser
+7B3,60V,avoid,Male,Female,2019-09-30,JN,focalfollow,agonism.loser
+7B3,67Z,displace,Male,Male,2019-09-30,JN,focalfollow,agonism.loser
+6O6,6I7,avoid,Male,Male,2019-09-30,JN,focalfollow,agonism.loser
+9I4,6M9,Submit,Male,Female,2019-09-30,JN,focalfollow,agonism.loser
+7O1,7H0,avoid,Male,Male,2019-09-30,JN,focalfollow,agonism.loser
+0J9,7L1,displace,Male,Female,2019-09-30,JN,focalfollow,agonism.loser
+48L,98V,FearGrm,Male,Female,2019-09-30,JN,focalfollow,agonism.loser
+8M0,9I3,noncontactAgg,Female,Female,2019-09-30,JN,focalfollow,agonism.loser
+1F0,1B4,avoid,Male,Female,2019-10-01,JN,focalfollow,agonism.loser
+6M8,3K1,avoid,Male,Male,2019-10-01,JN,focalfollow,agonism.loser
+3L9,4I3,avoid,Female,Female,2019-10-01,JN,focalfollow,agonism.loser
+juvenile female,4P3,noncontactAgg,Unknown,Female,2019-10-01,JN,focalfollow,agonism.loser
+0C9,4P4,avoid,Male,Female,2019-10-01,JN,focalfollow,agonism.loser
+1B4,4P4,displace,Female,Female,2019-10-01,JN,focalfollow,agonism.loser
+0C9,4P4,Submit,Male,Female,2019-10-01,JN,focalfollow,agonism.loser
+juvenile female,6I7,noncontactAgg,Unknown,Male,2019-10-01,JN,focalfollow,agonism.loser
+juvenile female,6O9,avoid,Unknown,Female,2019-10-01,JN,focalfollow,agonism.loser
+juvenile female,74K,avoid,Unknown,Female,2019-10-01,JN,focalfollow,agonism.loser
+9O5,77V,avoid,Male,Female,2019-10-01,JN,focalfollow,agonism.loser
+1F0,8M0,avoid,Male,Female,2019-10-01,JN,focalfollow,agonism.loser
+juvenile female,1K8,displace,Unknown,Female,2019-10-02,JN,focalfollow,agonism.loser
+juvenile female,2B4,displace,Unknown,Female,2019-10-02,JN,focalfollow,agonism.loser
+1B4,2B4,displace,Female,Female,2019-10-02,JN,focalfollow,agonism.loser
+juvenile male,3I4,Submit,Unknown,Female,2019-10-02,JN,focalfollow,agonism.loser
+48L,4A9,avoid,Male,Female,2019-10-02,JN,focalfollow,agonism.loser
+juvenile female,4H7,noncontactAgg,Unknown,Female,2019-10-02,JN,focalfollow,agonism.loser
+juvenile male,4M2,avoid,Unknown,Female,2019-10-02,JN,focalfollow,agonism.loser
+1F0,5A1,Submit,Male,Female,2019-10-02,JN,focalfollow,agonism.loser
+juvenile female,5H6,threat,Unknown,Female,2019-10-02,JN,focalfollow,agonism.loser
+juvenile female,5P1,displace,Unknown,Female,2019-10-02,JN,focalfollow,agonism.loser
+7B3,67Z,avoid,Male,Male,2019-10-02,JN,focalfollow,agonism.loser
+7M4,6M9,avoid,Male,Female,2019-10-02,JN,focalfollow,agonism.loser
+60V,74K,displace,Female,Female,2019-10-02,JN,focalfollow,agonism.loser
+3I4,82Z,avoid,Female,Female,2019-10-02,JN,focalfollow,agonism.loser
+5P2,98V,avoid,Male,Female,2019-10-02,JN,focalfollow,agonism.loser
+juvenile male,1K8,FearGrm,Unknown,Female,2019-10-03,JN,focalfollow,agonism.loser
+9O5,2C6,avoid,Male,Male,2019-10-03,JN,focalfollow,agonism.loser
+7B3,3B8,avoid,Male,Female,2019-10-03,JN,focalfollow,agonism.loser
+91V,3O0,avoid,Female,Female,2019-10-03,JN,focalfollow,agonism.loser
+9C7,4H7,avoid,Female,Female,2019-10-03,JN,focalfollow,agonism.loser
+4P3,4H7,displace,Female,Female,2019-10-03,JN,focalfollow,agonism.loser
+7B3,7H0,avoid,Male,Male,2019-10-03,JN,focalfollow,agonism.loser
+juvenile female,7I4,displace,Unknown,Female,2019-10-03,JN,focalfollow,agonism.loser
+juvenile female,7I4,avoid,Unknown,Female,2019-10-03,JN,focalfollow,agonism.loser
+juvenile female,82V,threat,Unknown,Female,2019-10-03,JN,focalfollow,agonism.loser
+0B4,8M0,noncontactAgg,Female,Female,2019-10-03,JN,focalfollow,agonism.loser
+3L9,8M6,noncontactAgg,Female,Female,2019-10-03,JN,focalfollow,agonism.loser
+7O1,97R,displace,Male,Female,2019-10-03,JN,focalfollow,agonism.loser
+1F0,0J9,displace,Male,Male,2019-10-04,JN,focalfollow,agonism.loser
+7M4,0J9,avoid,Male,Male,2019-10-04,JN,focalfollow,agonism.loser
+7M9,2L6,avoid,Female,Male,2019-10-04,JN,focalfollow,agonism.loser
+5P2,2L6,FearGrm,Male,Male,2019-10-04,JN,focalfollow,agonism.loser
+juvenile female,4P3,contactAgg,Unknown,Female,2019-10-04,JN,focalfollow,agonism.loser
+juvenile female,7M5,avoid,Unknown,Female,2019-10-04,JN,focalfollow,agonism.loser
+11Z,7M5,threat,Male,Female,2019-10-04,JN,focalfollow,agonism.loser
+2I1,7M5,avoid,Male,Female,2019-10-04,JN,focalfollow,agonism.loser
+09Z,2G8,FearGrm,Female,Female,2019-10-09,JN,focalfollow,agonism.loser
+juvenile male,2L6,displace,Unknown,Male,2019-10-09,JN,focalfollow,agonism.loser
+3B8,1K8,noncontactAgg,Female,Female,2019-02-04,JN,adlib.observation,NA
+5P1,4H7,Submit/threat,Female,Female,2019-02-07,JN,adlib.observation,NA
+2G8,4M2,Submit/threat,Female,Female,2019-02-12,JN,adlib.observation,NA
+5A1,8M6,contactAgg,Female,Female,2019-02-28,JN,adlib.observation,NA
+4P3,4H3,noncontactAgg,Female,Female,2019-03-07,JN,adlib.observation,NA
+4P3,8I6,avoid,Female,Female,2019-03-07,JN,adlib.observation,NA
+7F7,6J4,displace,Female,Female,2019-03-08,JN,adlib.observation,NA
+7F7,7I4,FearGrm,Female,Female,2019-03-08,JN,adlib.observation,NA
+7F7,1B4,contactAgg,Female,Female,2019-03-11,JN,adlib.observation,NA
+60V,7I4,Submit/threat,Female,Female,2019-03-11,JN,adlib.observation,NA
+7F7,38Z,avoid,Female,Female,2019-03-13,JN,adlib.observation,NA
+7M9,74K,contactAgg,Female,Female,2019-03-14,JN,adlib.observation,NA
+2D1,2B4,Submit/threat,Female,Female,2019-03-18,JN,adlib.observation,NA
+5A1,4H3,avoid,Female,Female,2019-03-18,JN,adlib.observation,NA
+4P9,7I4,displace,Female,Female,2019-03-25,JN,adlib.observation,NA
+60V,4P9,displace,Female,Female,2019-03-25,JN,adlib.observation,NA
+0I7,6M9,noncontactAgg,Female,Female,2019-03-25,JN,adlib.observation,NA
+0B4,98V,avoid,Female,Female,2019-03-25,JN,adlib.observation,NA
+4P4,3D4,avoid,Female,Female,2019-03-26,JN,adlib.observation,NA
+3L9,5H6,displace,Female,Female,2019-03-26,JN,adlib.observation,NA
+4P4,8M0,displace,Female,Female,2019-03-26,JN,adlib.observation,NA
+4A9,74K,contactAgg,Female,Female,2019-03-28,JN,adlib.observation,NA
+4M2,4P4,contactAgg,Female,Female,2019-04-01,JN,adlib.observation,NA
+7L1,0B4,Submit/threat,Female,Female,2019-04-03,JN,adlib.observation,NA
+95V,3D1,Submit/threat,Female,Female,2019-04-04,JN,adlib.observation,NA
+6M9,9C7,contactAgg,Female,Female,2019-04-10,JN,adlib.observation,NA
+2G8,4A9,contactAgg,Female,Female,2019-04-12,JN,adlib.observation,NA
+2G8,3H6,contactAgg,Female,Female,2019-04-16,JN,adlib.observation,NA
+5H6,4H3,displace,Female,Female,2019-04-16,JN,adlib.observation,NA
+82Z,7M5,displace,Female,Female,2019-04-17,JN,adlib.observation,NA
+6M9,9C7,contactAgg,Female,Female,2019-04-25,JN,adlib.observation,NA
+8I6,2D4,avoid,Female,Female,2019-04-30,JN,adlib.observation,NA
+3B8,4I3,avoid,Female,Female,2019-04-30,JN,adlib.observation,NA
+7F7,4M2,noncontactAgg,Female,Female,2019-05-16,JN,adlib.observation,NA
+6J4,82V,displace,Female,Female,2019-05-16,JN,adlib.observation,NA
+95V,60V,contactAgg,Female,Female,2019-05-16,JN,adlib.observation,NA
+3H6,7L1,displace,Female,Female,2019-05-20,JN,adlib.observation,NA
+95V,0B4,contactAgg,Female,Female,2019-06-03,JN,adlib.observation,NA
+33V,4P9,displace,Female,Female,2019-06-05,JN,adlib.observation,NA
+9I3,88N,Submit/threat,Female,Female,2019-06-10,JN,adlib.observation,NA
+7F7,33V,displace,Female,Female,2019-06-11,JN,adlib.observation,NA
+3D1,82V,contactAgg,Female,Female,2019-06-11,JN,adlib.observation,NA
+2G8,4P9,avoid,Female,Female,2019-06-17,JN,adlib.observation,NA
+6M9,2D1,displace,Female,Female,2019-06-17,JN,adlib.observation,NA
+4P9,74K,displace,Female,Female,2019-06-20,JN,adlib.observation,NA
+8M6,6O9,contactAgg,Female,Female,2019-06-21,JN,adlib.observation,NA
+2P0,2D1,contactAgg,Female,Female,2019-06-21,JN,adlib.observation,NA
+95V,97R,noncontactAgg,Female,Female,2019-06-26,JN,adlib.observation,NA
+6M9,4P4,noncontactAgg,Female,Female,2019-06-26,JN,adlib.observation,NA
+2G8,91V,Submit/threat,Female,Female,2019-06-26,JN,adlib.observation,NA
+3L9,98V,contactAgg,Female,Female,2019-06-26,JN,adlib.observation,NA
+3B8,6O9,contactAgg,Female,Female,2019-06-27,JN,adlib.observation,NA
+5P1,4A9,displace,Female,Female,2019-07-04,JN,adlib.observation,NA
+7F7,2G8,Submit/threat,Female,Female,2019-07-04,JN,adlib.observation,NA
+5P1,9I3,Submit/threat,Female,Female,2019-07-08,JN,adlib.observation,NA
+7M9,2G8,FearGrm,Female,Female,2019-07-10,JN,adlib.observation,NA
+8M6,97R,contactAgg,Female,Female,2019-07-17,JN,adlib.observation,NA
+4H7,8M2,Submit/threat,Female,Female,2019-07-18,JN,adlib.observation,NA
+38Z,97R,Submit/threat,Female,Female,2019-07-19,JN,adlib.observation,NA
+4P4,3B8,avoid,Female,Female,2019-07-19,JN,adlib.observation,NA
+4H7,8I6,Submit/threat,Female,Female,2019-07-19,JN,adlib.observation,NA
+7M9,2D1,displace,Female,Female,2019-07-24,JN,adlib.observation,NA
+33V,98V,displace,Female,Female,2019-08-12,JN,adlib.observation,NA
+97R,8M2,noncontactAgg,Female,Female,2019-08-13,JN,adlib.observation,NA
+4P4,8M0,FearGrm,Female,Female,2019-08-16,JN,adlib.observation,NA
+3I4,82Z,noncontactAgg,Female,Female,2019-08-20,JN,adlib.observation,NA
+2D4,7M5,Submit/threat,Female,Female,2019-08-22,JN,adlib.observation,NA
+6M9,7A9,contactAgg,Female,Female,2019-08-23,JN,adlib.observation,NA
+3B8,82V,noncontactAgg,Female,Female,2019-08-26,JN,adlib.observation,NA
+9I3,2D4,avoid,Female,Female,2019-08-26,JN,adlib.observation,NA
+0B4,1B4,FearGrm,Female,Female,2019-09-09,JN,adlib.observation,NA
+0I7,7A9,displace,Female,Female,2019-09-09,JN,adlib.observation,NA
+33V,4M2,noncontactAgg,Female,Female,2019-09-12,JN,adlib.observation,NA
+33V,1K8,displace,Female,Female,2019-09-13,JN,adlib.observation,NA
+9L6,6O9,noncontactAgg,Female,Female,2019-09-13,JN,adlib.observation,NA
+2G8,7I4,avoid,Female,Female,2019-09-16,JN,adlib.observation,NA
+3B8,7I4,noncontactAgg,Female,Female,2019-09-16,JN,adlib.observation,NA
+2G8,82Z,noncontactAgg,Female,Female,2019-09-19,JN,adlib.observation,NA
+2G8,7I4,FearGrm,Female,Female,2019-09-27,JN,adlib.observation,NA
+0P2,7L1,displace,Female,Female,2019-09-30,JN,adlib.observation,NA
+9C7,98V,Submit/threat,Female,Female,2019-09-30,JN,adlib.observation,NA
+8M0,2B1,noncontactAgg,Female,Female,2019-10-02,JN,adlib.observation,NA
+0I7,6M9,contactAgg,Female,Female,2019-10-02,JN,adlib.observation,NA
+4P4,6O9,noncontactAgg,Female,Female,2019-10-02,JN,adlib.observation,NA
+4P4,3I4,noncontactAgg,Female,Female,2019-10-02,JN,adlib.observation,NA
+4P4,3B8,noncontactAgg,Female,Female,2019-10-02,JN,adlib.observation,NA
+8M0,4I3,displace,Female,Female,2019-10-03,JN,adlib.observation,NA
+7M4,6M8,FearGrm,Male,Male,2019-02-06,JN,adlib.observation,NA
+48L,5P2,displace,Male,Male,2019-02-07,JN,adlib.observation,NA
+7M4,6I7,FearGrm,Male,Male,2019-02-11,JN,adlib.observation,NA
+9I4,5E6,FearGrm,Male,Male,2019-02-13,JN,adlib.observation,NA
+6O6,2L6,FearGrm,Male,Male,2019-02-13,JN,adlib.observation,NA
+48L,7M4,FearGrm,Male,Male,2019-02-13,JN,adlib.observation,NA
+2I1,0G9,displace,Male,Male,2019-02-13,JN,adlib.observation,NA
+5E4,6M8,FearGrm,Male,Male,2019-02-19,JN,adlib.observation,NA
+6I7,0G9,FearGrm,Male,Male,2019-02-19,JN,adlib.observation,NA
+6I7,0G9,Submit/threat,Male,Male,2019-02-22,JN,adlib.observation,NA
+7B3,1F0,displace,Male,Male,2019-02-25,JN,adlib.observation,NA
+5E4,4G6,FearGrm,Male,Male,2019-02-26,JN,adlib.observation,NA
+7O1,0G9,FearGrm,Male,Male,2019-02-27,JN,adlib.observation,NA
+6O6,0J9,contactAgg,Male,Male,2019-02-28,JN,adlib.observation,NA
+48L,11Z,FearGrm,Male,Male,2019-02-28,JN,adlib.observation,NA
+48L,5P2,ambiguosly.recorded,Male,Male,2019-03-04,JN,adlib.observation,NA
+6C6,9I4,avoid,Male,Male,2019-03-04,JN,adlib.observation,NA
+1F0,9O5,Submit/threat,Male,Male,2019-03-04,JN,adlib.observation,NA
+67Z,7H0,FearGrm,Male,Male,2019-03-06,JN,adlib.observation,NA
+7B3,9I4,noncontactAgg,Male,Male,2019-03-08,JN,adlib.observation,NA
+9I4,5E4,avoid,Male,Male,2019-03-08,JN,adlib.observation,NA
+2L6,11Z,FearGrm,Male,Male,2019-03-08,JN,adlib.observation,NA
+5P2,6M8,FearGrm,Male,Male,2019-03-08,JN,adlib.observation,NA
+7B3,1F0,FearGrm,Male,Male,2019-03-11,JN,adlib.observation,NA
+48L,11Z,FearGrm,Male,Male,2019-03-11,JN,adlib.observation,NA
+5E4,11Z,FearGrm,Male,Male,2019-03-12,JN,adlib.observation,NA
+2C6,6M8,FearGrm,Male,Male,2019-03-12,JN,adlib.observation,NA
+6M8,0G9,Submit/threat,Male,Male,2019-03-13,JN,adlib.observation,NA
+0J9,2I1,noncontactAgg,Male,Male,2019-03-13,JN,adlib.observation,NA
+1F0,67Z,avoid,Male,Male,2019-03-14,JN,adlib.observation,NA
+2C6,0G1,avoid,Male,Male,2019-03-14,JN,adlib.observation,NA
+6M8,11Z,FearGrm,Male,Male,2019-03-18,JN,adlib.observation,NA
+5P2,6M8,FearGrm,Male,Male,2019-03-18,JN,adlib.observation,NA
+0J9,2I1,noncontactAgg,Male,Male,2019-03-19,JN,adlib.observation,NA
+0G9,11Z,noncontactAgg,Male,Male,2019-03-20,JN,adlib.observation,NA
+6M8,4G6,noncontactAgg,Male,Male,2019-03-21,JN,adlib.observation,NA
+1F0,4G6,noncontactAgg,Male,Male,2019-03-21,JN,adlib.observation,NA
+5P2,7M4,contactAgg,Male,Male,2019-03-28,JN,adlib.observation,NA
+0J9,7H0,FearGrm,Male,Male,2019-03-28,JN,adlib.observation,NA
+5P2,0H3,noncontactAgg,Male,Male,2019-04-04,JN,adlib.observation,NA
+53N,5E4,avoid,Male,Male,2019-04-04,JN,adlib.observation,NA
+6M8,2I1,FearGrm,Male,Male,2019-04-04,JN,adlib.observation,NA
+2L6,7H0,noncontactAgg,Male,Male,2019-04-04,JN,adlib.observation,NA
+2I1,3K1,Submit/threat,Male,Male,2019-04-09,JN,adlib.observation,NA
+48L,0C9,avoid,Male,Male,2019-04-16,JN,adlib.observation,NA
+48L,1F0,displace,Male,Male,2019-04-24,JN,adlib.observation,NA
+7O1,7M4,noncontactAgg,Male,Male,2019-04-24,JN,adlib.observation,NA
+6O6,4G6,contactAgg,Male,Male,2019-04-30,JN,adlib.observation,NA
+9O5,3B9,noncontactAgg,Male,Male,2019-05-07,JN,adlib.observation,NA
+0H3,11Z,FearGrm,Male,Male,2019-05-07,JN,adlib.observation,NA
+7O1,6O6,displace,Male,Male,2019-05-16,JN,adlib.observation,NA
+2I1,0G9,Submit/threat,Male,Male,2019-05-21,JN,adlib.observation,NA
+6M8,4G6,avoid,Male,Male,2019-06-10,JN,adlib.observation,NA
+0G9,3I6,contactAgg,Male,Male,2019-06-17,JN,adlib.observation,NA
+5P2,6M8,noncontactAgg,Male,Male,2019-06-19,JN,adlib.observation,NA
+7B3,9O5,noncontactAgg,Male,Male,2019-06-25,JN,adlib.observation,NA
+48L,9O5,Submit/threat,Male,Male,2019-06-26,JN,adlib.observation,NA
+2L6,3K1,Submit/threat,Male,Male,2019-06-26,JN,adlib.observation,NA
+11Z,7M7,contactAgg,Male,Male,2019-06-27,JN,adlib.observation,NA
+0J9,3B9,displace,Male,Male,2019-07-02,JN,adlib.observation,NA
+6C6,6I7,Submit/threat,Male,Male,2019-07-02,JN,adlib.observation,NA
+6M8,6I7,Submit/threat,Male,Male,2019-07-04,JN,adlib.observation,NA
+6C6,48L,displace,Male,Male,2019-07-08,JN,adlib.observation,NA
+6C6,9O5,noncontactAgg,Male,Male,2019-07-08,JN,adlib.observation,NA
+6I7,11Z,FearGrm,Male,Male,2019-07-09,JN,adlib.observation,NA
+5P2,0H3,avoid,Male,Male,2019-07-10,JN,adlib.observation,NA
+48L,9O5,Submit/threat,Male,Male,2019-07-16,JN,adlib.observation,NA
+6I7,7H0,noncontactAgg,Male,Male,2019-07-17,JN,adlib.observation,NA
+2I1,7H0,noncontactAgg,Male,Male,2019-07-17,JN,adlib.observation,NA
+4G6,0G1,displace,Male,Male,2019-07-23,JN,adlib.observation,NA
+0J9,2I1,noncontactAgg,Male,Male,2019-08-01,JN,adlib.observation,NA
+2C6,2L6,displace,Male,Male,2019-08-09,JN,adlib.observation,NA
+48L,2C6,FearGrm,Male,Male,2019-08-19,JN,adlib.observation,NA
+48L,67Z,FearGrm,Male,Male,2019-08-23,JN,adlib.observation,NA
+67Z,0J9,displace,Male,Male,2019-09-09,JN,adlib.observation,NA
+9I4,7H0,displace,Male,Male,2019-09-10,JN,adlib.observation,NA
+6M8,11Z,FearGrm,Male,Male,2019-09-10,JN,adlib.observation,NA
+48L,11Z,FearGrm,Male,Male,2019-09-19,JN,adlib.observation,NA
+5E4,11Z,FearGrm,Male,Male,2019-09-27,JN,adlib.observation,NA
+2I1,0G1,displace,Male,Male,2019-09-30,JN,adlib.observation,NA
+1F0,2C6,noncontactAgg,Male,Male,2019-10-02,JN,adlib.observation,NA
+7B3,6I7,contactAgg,Male,Male,2019-10-02,JN,adlib.observation,NA

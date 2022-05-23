@@ -34,21 +34,16 @@ library(ggplot2)
 library(ggridges)
 library(reshape)
 library(reshape2)
-# library(writexl)
-library(CePa)
 library(doBy)
 
-#Load scan data and population info
+#Load functions
 setwd("/Users/camilletestard/Documents/GitHub/CayoBrains") 
 source("Functions/functions_GlobalNetworkMetrics.R")
 source("Functions/KinshipPedigree.R")
 
-setwd("/Users/camilletestard/Dropbox/Cleaned Cayo Data/Raw data") 
-bigped <- read.delim("PEDIGREE_2021.txt", sep="\t")
-
-#Get and preprocess biobanking data
-setwd("/Users/camilletestard/Desktop/CayoBrains/Biobanking_info/")
-biobanking_data = read.csv("2016_Biobanking_metadata.csv");names(biobanking_data)[1]="id"
+#Load and preprocess biobanking data
+setwd("/Users/camilletestard/Dropbox (Penn)/CayoBrains/Pre-post-hurr/BiobankData")
+biobanking_data = read.csv("2016_Biobanking_Master.csv");names(biobanking_data)[1]="id"
 biobanking_data$id = as.character(biobanking_data$id)
 biobanking_data$id[biobanking_data$id=="2.00E+09"]="2E9"
 biobanking_data$id[biobanking_data$id=="7.00E+00"]="7E0"
@@ -60,6 +55,14 @@ biobanking_data$MOM = bigped$BehaviorMom[match(biobanking_data$id, bigped$Animal
 
 brainweights <- read.csv("CBRU_Brain_Weights.csv")
 
+gene.expr.IDs = read.csv("GeneExpression_ID.csv");names(gene.expr.IDs)[1]="id"
+gene.expr.IDs$id = as.character(gene.expr.IDs$id)
+gene.expr.IDs$id[gene.expr.IDs$id=="2.00E+09"]= "2E9"
+
+#Load population info
+setwd("/Users/camilletestard/Dropbox (Penn)/CayoBehavior/Data/")
+bigped <- read.delim("PEDIGREE_2021.txt", sep="\t")
+
 #Add HH dominance for juveniles. Unfortunately these were not calculated for KK or S. 
 hh.dominance <- read.csv("HH_Dominance.csv");names(hh.dominance)[1]="id"
 hh.dominance$id = as.character(hh.dominance$id)
@@ -69,19 +72,7 @@ hh.dominance$id[hh.dominance$id=="7.00E+00"]="7E0"
 hh.dominance$id[hh.dominance$id=="7.00E+03"]="7E3"
 hh.dominance$id[hh.dominance$id=="8.00E+02"]="8E2"
 
-# biobanking_data1 = read.csv("2016_Biobanking_metadata.csv");names(biobanking_data1)[1]="id"
-# biobanking_data2 = read.csv("2018_Biobanking_metadata.csv");names(biobanking_data2)[1]="id"
-# matched_col1 = match(names(biobanking_data2), names(biobanking_data1));
-# matched_col1 = matched_col1[-which(is.na(matched_col1))]
-# matched_col2 = match(names(biobanking_data1), names(biobanking_data2));
-# matched_col2 = matched_col2[-which(is.na(matched_col2))]
-# biobanking_data = rbind(biobanking_data1[matched_col1], biobanking_data2[matched_col2])
-
-gene.expr.IDs = read.csv("GeneExpression_ID.csv");names(gene.expr.IDs)[1]="id"
-gene.expr.IDs$id = as.character(gene.expr.IDs$id)
-gene.expr.IDs$id[gene.expr.IDs$id=="2.00E+09"]= "2E9"
-
-group = c("HH")
+group = c("HH"); gy=1
 years = c(2016)
 groupyears = c("HH2016")
 SocialCapital.ALL = data.frame()
@@ -90,13 +81,10 @@ SocialCapital.ALL = data.frame()
 # Compute Social Capital Metrics, per individual, per year
 #####################################################################
 
-gy=1
-# for (gy in 1:length(groupyears)){
-
-print(paste("%%%%%%%%%%%%%%%%%% ",groupyears[gy], "%%%%%%%%%%%%%%%%%%"))
+setwd("~/Dropbox (Penn)/CayoBehavior/Data/BehaviorAllGroups_2010-2019/BehaviouralData/")
 
 #Load data
-setwd("/Users/camilletestard/Dropbox/Cleaned Cayo Data/Output") 
+print(paste("%%%%%%%%%%%%%%%%%% ",groupyears[gy], "%%%%%%%%%%%%%%%%%%"))
 groom_data = read.csv(paste("Group",groupyears[gy],"_GroomingEvents.txt", sep = ""))
 agg_data = read.csv(paste("Group",groupyears[gy],"_AgonisticActions.txt", sep = ""))
 focal_data = read.csv(paste("Group",groupyears[gy],"_FocalData.txt", sep = ""))
@@ -386,7 +374,7 @@ SocialCapitalData$std.CSI = (SocialCapitalData$std.CSIprox + SocialCapitalData$s
 # 1. Output weighted edgelist from the aggression data.
 #AGGRESSION GIVE = aggression "winner"
 agg.give = as.data.frame(table(agg_data$agonism_winner[which(agg_data$focal_individual=="agonism.winner")]));names(agg.give)[1]='id'
-agg.give = agg.give[-which(nchar(as.character(agg.give$id))>3),] #only include known IDs (i.e. 3 characters)
+#agg.give = agg.give[-which(nchar(as.character(agg.give$id))>3),] #only include known IDs (i.e. 3 characters)
 hrs.followed.giver = meta_data$hrs.focalfollowed[match(agg.give$id, meta_data$id)] #find #hours followed
 #Exclude individuals not in meta data file
 if (length(which(is.na(hrs.followed.giver))) !=0) {
@@ -398,7 +386,7 @@ agg.give$weight = agg.give$Freq/hrs.followed.giver
 
 #AGGRESSION RECEIVE = aggression "loser"
 agg.receive = as.data.frame(table(agg_data$agonism_loser[which(agg_data$focal_individual=="agonism.loser")]));names(agg.receive)[1]='id'
-agg.receive = agg.receive[-which(nchar(as.character(agg.receive$id))>3),]
+#agg.receive = agg.receive[-which(nchar(as.character(agg.receive$id))>3),]
 hrs.followed.receive= meta_data$hrs.focalfollowed[match(agg.receive$id, meta_data$id)]
 #Exclude individuals not in meta data file
 if (length(which(is.na(hrs.followed.receive))) !=0) {
@@ -464,40 +452,40 @@ SocialCapitalData$sdb.ra = vig.sdb$sdb.I[match(meta_data$id,vig.sdb$id)]
 #Measure of loneliness - Mismatch between social interest and social attainment
 ##################################################################
 
-#Measure social interest:
-Loneliness=data.frame(); id=1
-for (id in 1:length(unqIDs)){
-  Loneliness[id,"id"]=unqIDs[id]
-  Loneliness[id,"GrmPrsnt"] = nrow(focal_data[focal_data$focal_id==unqIDs[id] & focal_data$behaviour=="GrmPrsnt",])
-  Loneliness[id,"initiator"] = nrow(focal_data[focal_data$focal_id==unqIDs[id] & 
-                                                 focal_data$initiator=="focal"& focal_data$behaviour!="Leave",])
-  passcont = focal_data$constrained_duration[focal_data$focal_id==unqIDs[id] & focal_data$behaviour=="passcont"]
-  Loneliness[id,"passcont"] = ifelse(length(passcont)==0,0,passcont)
-}
-Loneliness$social.interest=Loneliness$GrmPrsnt+Loneliness$initiator
-Loneliness$social.attainment=groom.receive$duration+groom.give$duration+Loneliness$passcont
-
-#Account for differences in #hrs observed
-hrs.followed = meta_data$hrs.focalfollowed[match(unqIDs, meta_data$id)]
-Loneliness$social.interest=Loneliness$social.interest/hrs.followed
-Loneliness$social.attainment=Loneliness$social.attainment/hrs.followed
-
-#Standerdize by group mean
-Loneliness$std.social_interest=Loneliness$social.interest/mean(Loneliness$social.interest)
-Loneliness$std.social_attainment=Loneliness$social.attainment/mean(Loneliness$social.attainment)
-
-#Get loneliness measure
-Loneliness$loneliness = 1-((Loneliness$std.social_attainment-Loneliness$std.social_interest)/
-                             (Loneliness$std.social_interest+Loneliness$std.social_attainment))
-
-SocialCapitalData$loneliness = Loneliness$loneliness
-SocialCapitalData$social.interest = Loneliness$social.interest
-SocialCapitalData$social.attainment = Loneliness$social.attainment
-SocialCapitalData$std.social.interest = Loneliness$std.social_interest
-SocialCapitalData$std.social.attainment = Loneliness$std.social_attainment
-#Notes: Output measure is between 0 and 2, with 2 being the most lonely (all social interest, no social attainment)
-# and 0 being the least lonely (all social )
-
+# #Measure social interest:
+# Loneliness=data.frame(); id=1
+# for (id in 1:length(unqIDs)){
+#   Loneliness[id,"id"]=unqIDs[id]
+#   Loneliness[id,"GrmPrsnt"] = nrow(focal_data[focal_data$focal_id==unqIDs[id] & focal_data$behaviour=="GrmPrsnt",])
+#   Loneliness[id,"initiator"] = nrow(focal_data[focal_data$focal_id==unqIDs[id] & 
+#                                                  focal_data$initiator=="focal"& focal_data$behaviour!="Leave",])
+#   passcont = focal_data$constrained_duration[focal_data$focal_id==unqIDs[id] & focal_data$behaviour=="passcont"]
+#   Loneliness[id,"passcont"] = ifelse(length(passcont)==0,0,passcont)
+# }
+# Loneliness$social.interest=Loneliness$GrmPrsnt+Loneliness$initiator
+# Loneliness$social.attainment=groom.receive$duration+groom.give$duration+Loneliness$passcont
+# 
+# #Account for differences in #hrs observed
+# hrs.followed = meta_data$hrs.focalfollowed[match(unqIDs, meta_data$id)]
+# Loneliness$social.interest=Loneliness$social.interest/hrs.followed
+# Loneliness$social.attainment=Loneliness$social.attainment/hrs.followed
+# 
+# #Standerdize by group mean
+# Loneliness$std.social_interest=Loneliness$social.interest/mean(Loneliness$social.interest)
+# Loneliness$std.social_attainment=Loneliness$social.attainment/mean(Loneliness$social.attainment)
+# 
+# #Get loneliness measure
+# Loneliness$loneliness = 1-((Loneliness$std.social_attainment-Loneliness$std.social_interest)/
+#                              (Loneliness$std.social_interest+Loneliness$std.social_attainment))
+# 
+# SocialCapitalData$loneliness = Loneliness$loneliness
+# SocialCapitalData$social.interest = Loneliness$social.interest
+# SocialCapitalData$social.attainment = Loneliness$social.attainment
+# SocialCapitalData$std.social.interest = Loneliness$std.social_interest
+# SocialCapitalData$std.social.attainment = Loneliness$std.social_attainment
+# #Notes: Output measure is between 0 and 2, with 2 being the most lonely (all social interest, no social attainment)
+# # and 0 being the least lonely (all social )
+# 
 
 # ##################################################################
 # #Measure of social complexity based on Fisher et al 2017
@@ -620,7 +608,7 @@ SocialCapital.ALL[,names(brainweights)[c(5,6)]] = brainweights[match(SocialCapit
 # Depending on who we have biological data for, we might want to select a subset of individuals.
 
 #Only consider monkeys in the genomic analysis ID list.
-#SocialCapital.ALL=merge(gene.expr.IDs,SocialCapital.ALL, by="id")
+SocialCapital.ALL=merge(gene.expr.IDs,SocialCapital.ALL, by="id")
 
 #Only consider monkeys NOT in the genomic analysis ID list.
 # outersect <- function(x, y, ...) {
@@ -658,9 +646,10 @@ SocialCapital.ALL[,names(brainweights)[c(5,6)]] = brainweights[match(SocialCapit
 #COMBINATION OF MODELS
 # Combined social integration and network position models
 selected_regressors = SocialCapital.ALL[,c("id","sex","age","percentrank","std.numPartnersGroom","between.groom",
-                                           "eig.cent.groom","closeness.groom","brain_wt")]
+                                           "eig.cent.groom","std.AggIN","std.AggOUT","brain_wt")]
 names(selected_regressors)=c("id","sex","age","rank","#partners",
-                             "betweenness","eig. centrality","closeness","brain weight")
+                             "betweenness","eig. centrality",
+                             "received aggression","aggression given","brain weight")
 
 # #SOCIALLY ISOLATED VS. WELL-CONNECTED MALES
 # selected_regressors = SocialCapital.ALL[,c("id","sex","age","percentrank","isIsolated","brain_wt")]
@@ -673,12 +662,12 @@ names(selected_regressors)=c("id","sex","age","rank","#partners",
 # names(selected_regressors)=c("id","sex","age","rank","days_between")
 
 #Make sure regressors are in the correct order of subject
-setwd('/Users/camilletestard/Desktop/CayoBrains/DBM_scripts_2021/monkeys')
-monkey_list = list.dirs(path = ".", full.names = TRUE, recursive = TRUE)
-monkey_list=substr(monkey_list[2:length(monkey_list)],3,5)
-monkey_list_df = data.frame(monkey_list); names(monkey_list_df)="id"
-output = merge(selected_regressors,monkey_list_df,by="id")
-#output<-selected_regressors
+# setwd('/Users/camilletestard/Desktop/CayoBrains/DBM_scripts_2021/monkeys')
+# monkey_list = list.dirs(path = ".", full.names = TRUE, recursive = TRUE)
+# monkey_list=substr(monkey_list[2:length(monkey_list)],3,5)
+# monkey_list_df = data.frame(monkey_list); names(monkey_list_df)="id"
+# output = merge(selected_regressors,monkey_list_df,by="id")
+output<-selected_regressors
 
 #Format for full glm design matrices:
 #Format sex column
@@ -689,7 +678,7 @@ output$sex[output$sex=="F"]=1; output$sex[output$sex=="M"]=0; output$sex=as.nume
 # output$rank[output$rank=="L"]=1;output$rank[output$rank=="M"]=2;output$rank[output$rank=="H"]=3;
 # output$rank=as.numeric(output$rank)
 #Remove column we will not use
-output$id=NULL
+#output$id=NULL
 
 #Scale
 output[,-1]=scale(output[,-1])
@@ -745,8 +734,9 @@ order_id_partners <- as.character(output$id[order(matrix_plot[,4])])
 
 long.form.plot = melt(matrix_plot)
 long.form.plot$Var1<- factor(long.form.plot$Var1, levels = order_id_partners)
-long.form.plot$Var2<- factor(long.form.plot$Var2, levels = c("sex","age","rank","aggression rec.","betweenness",
-                                                             "eig. centrality","closeness","#partners"))
+long.form.plot$Var2<- factor(long.form.plot$Var2, levels = c("brain weight","sex","age","rank","betweenness",
+                                                             "eig. centrality","closeness",
+                                                             "received aggression","aggression given","#partners"))
 
 ggplot(long.form.plot, aes(x=factor(Var1),y=Var2,fill=value))+
   geom_tile()+
